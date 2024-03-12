@@ -41,7 +41,7 @@ export default function DataGrid({ rows, colomns }: Props) {
   };
 
   return (
-    <table>
+    <table className="">
       <thead>
         <Tr>
           <Th>
