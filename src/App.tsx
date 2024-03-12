@@ -1,13 +1,13 @@
 import DataGrid from "./components/DataGrid";
 import { GridColDef, row } from "./interfaces";
-import './App.css'
+import "./App.css";
 import Search from "./components/common/Search";
 
 const columns: GridColDef[] = [
   {
     field: "id",
     headerName: "ID",
-    width: 90,
+    width: 60,
     type: "text",
     editable: false,
     description: "",
@@ -16,7 +16,7 @@ const columns: GridColDef[] = [
   {
     field: "firstName",
     headerName: "First name",
-    width: 150,
+    width: 130,
     editable: true,
     type: "text",
     description: "",
@@ -25,7 +25,7 @@ const columns: GridColDef[] = [
   {
     field: "lastName",
     headerName: "Last name",
-    width: 150,
+    width: 130,
     editable: true,
     type: "text",
     description: "",
@@ -35,20 +35,20 @@ const columns: GridColDef[] = [
     field: "age",
     headerName: "Age",
     type: "number",
-    width: 110,
+    width: 80,
     editable: true,
     description: "",
     sortable: false,
   },
-  {
-    field: "fullName",
-    headerName: "Full name",
-    description: "This column has a value getter and is not sortable.",
-    sortable: false,
-    width: 160,
-    editable: false,
-    type: "",
-  },
+  // {
+  //   field: "fullName",
+  //   headerName: "Full name",
+  //   description: "This column has a value getter and is not sortable.",
+  //   sortable: false,
+  //   width: 160,
+  //   editable: false,
+  //   type: "",
+  // },
 ];
 
 const rows: row[] = [
@@ -64,10 +64,12 @@ const rows: row[] = [
 ];
 
 const App = () => {
-  return <div>
-    <Search />
-    <DataGrid rows={rows} colomns={columns} />
-  </div>
+  return (
+    <div>
+      {/* <Search /> */}
+      <DataGrid rows={rows} colomns={columns} />
+    </div>
+  );
 };
 
 export default App;
