@@ -5,7 +5,7 @@ interface Props {
 }
 
 const Td = ({ children }: Props) => {
-  return <td scope="col" className="p-4">{children}</td>;
+  return <td  className="px-6 py-4">{children}</td>;
 };
 
 export default Td;

@@ -37,34 +37,34 @@ export default function DataGrid({ rows, colomns }: Props) {
     const { id, checked } = e.target;
     setIsCheck([...isCheck, +id]);
     if (!checked) {
-      setIsCheck(isCheck.filter((ele) => ele && !id));
+      setIsCheck(isCheck.filter((ele) => ele != id));
     }
   };
 
   return (
     <table className="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
       <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
-        <Tr>
+        <tr>
           <Th>
             <Checkbox id="checkAll" checked={checkAll} onChange={handleChackedAll} />
           </Th>
           {colomns.map(({ headerName }, index) => (
             <Th key={index}>{headerName}</Th>
           ))}
-        </Tr>
+        </tr>
       </thead>
       <tbody>
         {list.map((row, indexRow) => (
           <Tr key={indexRow}>
             <Td>
-              <Checkbox id={row.id.toString()} onChange={handleChecked} checked={isCheck.includes(+row.id)} />
-              {/* <input
+              {/* <Checkbox id={row.id.toString()} onChange={handleChecked} checked={isCheck.includes(+row.id)} /> */}
+              <input
                 checked={isCheck.includes(+row.id)}
                 onChange={handleChecked}
                 style={{ width: "50px" }}
                 type='checkbox'
                 id={row.id.toString()}
-              /> */}
+              />
             </Td>
             {colomns.map(({ type, field, width, editable }, indexCol) => (
               <Td key={indexCol}>
