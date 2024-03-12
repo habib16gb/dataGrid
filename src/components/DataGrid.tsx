@@ -14,7 +14,7 @@ export default function DataGrid({ rows, colomns }: Props) {
   const [checkAll, setCheckAll] = useState(false);
   const [isCheck, setIsCheck] = useState<number[]>([]);
 
-  const handleChange = (e, index: number, field: string) => {
+  const handleChange = (e: ChangeEvent<HTMLInputElement>, index: number, field: string) => {
     setList(
       list.map((ele) =>
         ele[field] === list[index][field]
