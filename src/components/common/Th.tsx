@@ -5,7 +5,7 @@ interface Props {
 }
 
 const Th = ({ children }: Props) => {
-  return <th>{children}</th>;
+  return <th scope="col" className="p-4">{children}</th>;
 };
 
 export default Th;

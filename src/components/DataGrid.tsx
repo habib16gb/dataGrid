@@ -3,6 +3,7 @@ import { GridColDef, row } from "../interfaces";
 import Td from "./common/Td";
 import Th from "./common/Th";
 import Tr from "./common/Tr";
+import Checkbox from "./common/Checkbox";
 
 interface Props {
   rows: row[];
@@ -41,16 +42,11 @@ export default function DataGrid({ rows, colomns }: Props) {
   };
 
   return (
-    <table className="">
-      <thead>
+    <table className="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
+      <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
         <Tr>
           <Th>
-            <input
-              checked={checkAll}
-              onChange={handleChackedAll}
-              style={{ width: "50px" }}
-              type='checkbox'
-            />
+            <Checkbox id="checkAll" checked={checkAll} onChange={handleChackedAll} />
           </Th>
           {colomns.map(({ headerName }, index) => (
             <Th key={index}>{headerName}</Th>
@@ -61,13 +57,14 @@ export default function DataGrid({ rows, colomns }: Props) {
         {list.map((row, indexRow) => (
           <Tr key={indexRow}>
             <Td>
-              <input
+              <Checkbox id={row.id.toString()} onChange={handleChecked} checked={isCheck.includes(+row.id)} />
+              {/* <input
                 checked={isCheck.includes(+row.id)}
                 onChange={handleChecked}
                 style={{ width: "50px" }}
                 type='checkbox'
                 id={row.id.toString()}
-              />
+              /> */}
             </Td>
             {colomns.map(({ type, field, width, editable }, indexCol) => (
               <Td key={indexCol}>

@@ -65,8 +65,8 @@ const rows: row[] = [
 
 const App = () => {
   return <div>
-    <DataGrid rows={rows} colomns={columns} />
     <Search />
+    <DataGrid rows={rows} colomns={columns} />
   </div>
 };
 
