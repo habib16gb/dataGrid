@@ -1,5 +1,6 @@
 import DataGrid from "./components/DataGrid";
 import { GridColDef, row } from "./interfaces";
+import './App.css'
 
 const columns: GridColDef[] = [
   {
