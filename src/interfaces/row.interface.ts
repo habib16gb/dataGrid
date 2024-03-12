@@ -3,4 +3,5 @@ export interface row {
   lastName: string | null;
   firstName: string | null;
   age: number | null;
+  [key: string]: unknown;
 }

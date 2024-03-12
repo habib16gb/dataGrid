@@ -1,4 +1,4 @@
-import { SetStateAction, useState } from "react";
+import { ChangeEvent, useState } from "react";
 import { GridColDef, row } from "../interfaces";
 import Td from "./common/Td";
 import Th from "./common/Th";
@@ -14,7 +14,7 @@ export default function DataGrid({ rows, colomns }: Props) {
   const [checkAll, setCheckAll] = useState(false);
   const [isCheck, setIsCheck] = useState<number[]>([]);
 
-  const handleChange = (e, index, field) => {
+  const handleChange = (e, index: number, field: string) => {
     setList(
       list.map((ele) =>
         ele[field] === list[index][field]
@@ -32,12 +32,11 @@ export default function DataGrid({ rows, colomns }: Props) {
     }
   };
 
-  const handleChecked = (e) => {
-    console.log(e.target);
-    console.log(isCheck);
-    setIsCheck([...isCheck, +e.target.id]);
-    if (!e.target.checked) {
-      setIsCheck(isCheck.filter((ele) => ele != e.target.id));
+  const handleChecked = (e: ChangeEvent<HTMLInputElement>) => {
+    const { id, checked } = e.target;
+    setIsCheck([...isCheck, +id]);
+    if (!checked) {
+      setIsCheck(isCheck.filter((ele) => ele && !id));
     }
   };
 
@@ -67,7 +66,7 @@ export default function DataGrid({ rows, colomns }: Props) {
                 onChange={handleChecked}
                 style={{ width: "50px" }}
                 type='checkbox'
-                id={row.id}
+                id={row.id.toString()}
               />
             </Td>
             {colomns.map(({ type, field, width, editable }, indexCol) => (
