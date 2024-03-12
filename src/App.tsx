@@ -1,7 +1,7 @@
 import DataGrid from "./components/DataGrid";
 import { GridColDef, row } from "./interfaces";
 import "./App.css";
-import Search from "./components/common/Search";
+// import Search from "./components/common/Search";
 
 const columns: GridColDef[] = [
   {

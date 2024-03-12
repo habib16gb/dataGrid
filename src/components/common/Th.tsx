@@ -5,15 +5,19 @@ import { FaArrowUp } from "react-icons/fa";
 interface Props {
   // children: ReactNode;
   headerName: string;
+  onClick: () => void;
 }
 
-const Th = ({ headerName }: Props) => {
+const Th = ({ headerName, onClick }: Props) => {
   const [arrow, setArrow] = useState(true);
-  const handleArrowDir = () => {
-    setArrow(!arrow);
-  };
   return (
-    <th className=' px-6 py-4 cursor-pointer' onClick={handleArrowDir}>
+    <th
+      className=' px-6 py-4 cursor-pointer'
+      onClick={() => {
+        setArrow(!arrow);
+        onClick();
+      }}
+    >
       <div className='flex items-center gap-2'>
         <span>{headerName}</span>
         {arrow ? (
