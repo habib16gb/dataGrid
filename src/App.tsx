@@ -1,6 +1,7 @@
 import DataGrid from "./components/DataGrid";
 import { GridColDef, row } from "./interfaces";
 import './App.css'
+import Search from "./components/common/Search";
 
 const columns: GridColDef[] = [
   {
@@ -63,7 +64,10 @@ const rows: row[] = [
 ];
 
 const App = () => {
-  return <DataGrid rows={rows} colomns={columns} />;
+  return <div>
+    <DataGrid rows={rows} colomns={columns} />
+    <Search />
+  </div>
 };
 
 export default App;
