@@ -1,4 +1,4 @@
-import { ChangeEvent, useEffect, useState } from "react";
+import { ChangeEvent, useState } from "react";
 import { GridColDef, row } from "../interfaces";
 import Td from "./common/Td";
 import Th from "./common/Th";
@@ -52,9 +52,7 @@ export default function DataGrid({ rows, colomns }: Props) {
     setCheckAll(false);
   };
 
-  const handleArrowSortBy = (field: string, type: string) => {
-    setList(() => list.sort((a, b) => a[field] - b[field]));
-  };
+  console.log(list);
 
   return (
     <div>
@@ -68,11 +66,12 @@ export default function DataGrid({ rows, colomns }: Props) {
                 onChange={handleChackedAll}
               />
             </th>
-            {colomns.map(({ headerName, field, type }, index) => (
+            {colomns.map(({ headerName, field }, index) => (
               <Th
                 key={index}
                 headerName={headerName}
-                onClick={() => handleArrowSortBy(field, type)}
+                setList={setList}
+                field={field}
               />
             ))}
           </tr>
