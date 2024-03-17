@@ -1,6 +1,8 @@
 import { useState } from "react";
 import InputGrid from "./InputGrid";
 import HeaderGrid from "./HeaderGrid";
+import Select, { SelectChangeEvent } from "@mui/material/Select";
+import MenuItem from "@mui/material/MenuItem";
 
 type GridColDef = {
   field: string;
@@ -11,6 +13,20 @@ type GridColDef = {
   sortable?: boolean;
   type?: "text" | "number" | "boolean";
 };
+
+enum enOperator {
+  CONTAINS = "contains",
+  EQUALS = "equals",
+  START_WITH = "start with",
+  END_WITH = "end with",
+  IS_EMPTY = "is empty",
+  IS_NOT_EMPTY = "is not empty",
+}
+
+const operators = [
+  { type: "text", opes: ["add", "delete", "edit"] },
+  { type: "number", opes: ["equal", "getter", "better"] },
+];
 
 const columns: GridColDef[] = [
   { field: "id", headerName: "ID", width: 90 },
@@ -56,6 +72,7 @@ const rows = [
 
 const AdvancedDataGrid = () => {
   const [data, setData] = useState(rows);
+  const [fieldSelect, setFieldSelect] = useState("");
 
   const handleBlur = (e, index: number, field: string) =>
     setData((prev) => {
@@ -64,34 +81,50 @@ const AdvancedDataGrid = () => {
       return newData;
     });
 
+  const handleFilter = (event: SelectChangeEvent) => {
+    console.log(event.target);
+    setFieldSelect(event.target.value);
+  };
+
   return (
-    <table>
-      <thead>
-        <tr>
-          {columns.map((col) => (
-            <th key={col.field}>
-              <HeaderGrid setData={setData} col={col} />
-            </th>
+    <div>
+      <div>
+        <Select value={fieldSelect} onChange={handleFilter}>
+          {columns.map((col, index) => (
+            <MenuItem key={index} value={col.field}>
+              {col.field}
+            </MenuItem>
           ))}
-        </tr>
-      </thead>
-      <tbody>
-        {data.map((row, index) => (
-          <tr key={row.id}>
+        </Select>
+      </div>
+      <table>
+        <thead>
+          <tr>
             {columns.map((col) => (
-              <td key={col.field}>
-                <InputGrid
-                  row={row}
-                  col={col}
-                  index={index}
-                  handleBlur={handleBlur}
-                />
-              </td>
+              <th key={col.field}>
+                <HeaderGrid setData={setData} col={col} />
+              </th>
             ))}
           </tr>
-        ))}
-      </tbody>
-    </table>
+        </thead>
+        <tbody>
+          {data.map((row, index) => (
+            <tr key={row.id}>
+              {columns.map((col) => (
+                <td key={col.field}>
+                  <InputGrid
+                    row={row}
+                    col={col}
+                    index={index}
+                    handleBlur={handleBlur}
+                  />
+                </td>
+              ))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
   );
 };
 
