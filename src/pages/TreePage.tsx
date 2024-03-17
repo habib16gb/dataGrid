@@ -44,7 +44,6 @@ const listMenu: inElement[] = [
 ];
 
 const TreePage = () => {
-  // return <Tree listMenu={listMenu} />;
   return <RecursiveTree listMenu={listMenu} />;
 };
 
