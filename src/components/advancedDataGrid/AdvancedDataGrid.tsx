@@ -54,10 +54,15 @@ const rows = [
   { id: 9, lastName: "Roxie", firstName: "Harvey", age: 65 },
 ];
 
+enum enPosition {
+  UP = "up",
+  DOWN = "down",
+  NONE = "none",
+}
+
 const AdvancedDataGrid = () => {
   const [data, setData] = useState(rows);
-  const [showArrow, setShowArrow] = useState(false);
-  const [arrow, setArrow] = useState("UP");
+  const [arrow, setArrow] = useState(enPosition.NONE);
 
   const handleBlur = (e, index: number, field: string) =>
     setData((prev) => {
@@ -66,7 +71,18 @@ const AdvancedDataGrid = () => {
       return newData;
     });
 
-  const handleArrow = () => {};
+  const handleArrow = () => {
+    setArrow((prev) => {
+      switch (prev) {
+        case enPosition.UP:
+          return enPosition.DOWN;
+        case enPosition.DOWN:
+          return enPosition.NONE;
+        case enPosition.NONE:
+          return enPosition.UP;
+      }
+    });
+  };
 
   return (
     <table>
@@ -74,9 +90,18 @@ const AdvancedDataGrid = () => {
         <tr>
           {columns.map((col) => (
             <th key={col.field}>
-              <div className="font-bold text-blue-700 dark:text-white dark:hover:text-blue-500 hover:text-blue-500 cursor-pointer">
-                <span onClick={handleArrow}>{col.headerName}</span>
-                <FaArrowUp />
+              <div
+                onClick={handleArrow}
+                className="font-bold flex items-center gap-4 text-blue-700 dark:text-white dark:hover:text-blue-500 hover:text-blue-500 cursor-pointer"
+              >
+                <span>{col.headerName}</span>
+                {arrow === enPosition.DOWN ? (
+                  <FaArrowDown />
+                ) : arrow === enPosition.UP ? (
+                  <FaArrowUp />
+                ) : (
+                  ""
+                )}
               </div>
             </th>
           ))}
