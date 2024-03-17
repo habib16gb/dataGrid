@@ -1,6 +1,6 @@
 import { useState } from "react";
 import InputGrid from "./InputGrid";
-import { FaArrowUp, FaArrowDown } from "react-icons/fa";
+import HeaderGrid from "./HeaderGrid";
 
 type GridColDef = {
   field: string;
@@ -54,15 +54,8 @@ const rows = [
   { id: 9, lastName: "Roxie", firstName: "Harvey", age: 65 },
 ];
 
-enum enPosition {
-  UP = "up",
-  DOWN = "down",
-  NONE = "none",
-}
-
 const AdvancedDataGrid = () => {
   const [data, setData] = useState(rows);
-  const [arrow, setArrow] = useState(enPosition.NONE);
 
   const handleBlur = (e, index: number, field: string) =>
     setData((prev) => {
@@ -71,38 +64,13 @@ const AdvancedDataGrid = () => {
       return newData;
     });
 
-  const handleArrow = () => {
-    setArrow((prev) => {
-      switch (prev) {
-        case enPosition.UP:
-          return enPosition.DOWN;
-        case enPosition.DOWN:
-          return enPosition.NONE;
-        case enPosition.NONE:
-          return enPosition.UP;
-      }
-    });
-  };
-
   return (
     <table>
       <thead>
         <tr>
           {columns.map((col) => (
             <th key={col.field}>
-              <div
-                onClick={handleArrow}
-                className="font-bold flex items-center gap-4 text-blue-700 dark:text-white dark:hover:text-blue-500 hover:text-blue-500 cursor-pointer"
-              >
-                <span>{col.headerName}</span>
-                {arrow === enPosition.DOWN ? (
-                  <FaArrowDown />
-                ) : arrow === enPosition.UP ? (
-                  <FaArrowUp />
-                ) : (
-                  ""
-                )}
-              </div>
+              <HeaderGrid setData={setData} col={col} />
             </th>
           ))}
         </tr>
