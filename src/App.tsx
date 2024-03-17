@@ -1,27 +1,12 @@
-import { Dispatch, SetStateAction, createContext, useState } from "react";
 import "./App.css";
-import TreePage from "./pages/TreePage";
-
-export type ContextType = {
-  open: boolean;
-  setOpen: Dispatch<SetStateAction<boolean>>;
-};
-
-export const Context = createContext<ContextType | null>(null);
+// import TreePage from "./pages/TreePage";
+import DrawerPage from "./pages/DrawerPage";
 
 const App = () => {
-  const [open, setOpen] = useState(false);
-
   return (
     <>
-      <Context.Provider
-        value={{
-          open,
-          setOpen,
-        }}
-      >
-        <TreePage />
-      </Context.Provider>
+      {/* <TreePage /> */}
+      <DrawerPage />
     </>
   );
 };

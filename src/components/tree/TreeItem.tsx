@@ -1,6 +1,5 @@
 import { useState } from "react";
-import { FaArrowDown, FaArrowRight } from "react-icons/fa";
-import { GoDash } from "react-icons/go";
+import { CiSquarePlus, CiSquareMinus } from "react-icons/ci";
 
 interface inElement {
   path: string;
@@ -26,12 +25,12 @@ export function TreeItem({ item }: Props) {
       >
         {item.children ? (
           isOpen ? (
-            <FaArrowDown />
+            <CiSquareMinus />
           ) : (
-            <FaArrowRight />
+            <CiSquarePlus />
           )
         ) : (
-          <GoDash />
+          <CiSquareMinus />
         )}
         <span>{item.name}</span>
       </div>
