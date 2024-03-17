@@ -1,4 +1,4 @@
-import Tree from "../components/tree/Tree";
+import RecursiveTree from "../components/tree/RecursiveTree";
 
 export interface inElement {
   path: string;
@@ -44,7 +44,8 @@ const listMenu: inElement[] = [
 ];
 
 const TreePage = () => {
-  return <Tree listMenu={listMenu} />;
+  // return <Tree listMenu={listMenu} />;
+  return <RecursiveTree listMenu={listMenu} />;
 };
 
 export default TreePage;
