@@ -4,8 +4,7 @@ import HeaderGrid from "./HeaderGrid";
 import { GridColDef } from "../../pages/AdvancedDataGridPage";
 import rows from "../../data/data";
 import FilterTable from "./FilterTable";
-
-
+import Button from "../common/Button";
 
 const columns: GridColDef[] = [
   { field: "id", headerName: "ID", width: 90, type: "number" },
@@ -38,25 +37,29 @@ const columns: GridColDef[] = [
     headerName: "Age",
     width: 100,
     editable: false,
-    type: "number"
+    type: "number",
   },
   {
     field: "amount",
     headerName: "Amount",
     width: 140,
     editable: true,
-    type: "number"
+    type: "number",
   },
 ];
 
 const AdvancedDataGrid = () => {
   const [data, setData] = useState(rows);
-  const [filterData, setFilterData] = useState(data)
- 
+  const [filterData, setFilterData] = useState(data);
+  const [fieldsSelected, setFieldsSelected] = useState({
+    first: "",
+    second: "",
+    third: "",
+  });
+
   useEffect(() => {
-    setFilterData(data)
-  },[data])
- 
+    setFilterData(data);
+  }, [data]);
 
   const handleBlur = (e, index: number, field: string) =>
     setData((prev) => {
@@ -65,14 +68,47 @@ const AdvancedDataGrid = () => {
       return newData;
     });
 
-    console.log('data',data)
-    console.log('filterdata',filterData)
+  const handleAddFilter = () => {
+    console.log("add filter");
+  };
+  console.log("render", fieldsSelected, new Date());
   return (
     <div>
       <div>
-        <FilterTable columns={columns} setFilterData={setData} data={rows} />
-        <FilterTable columns={columns} setFilterData={setFilterData} data={data}  />
-        <FilterTable columns={columns} setFilterData={setFilterData} data={data}  />
+        <FilterTable
+          columns={columns}
+          setFilterData={setData}
+          data={rows}
+          fieldsSelected={fieldsSelected}
+          setFieldsSelected={setFieldsSelected}
+          keyFilter='first'
+        />
+        <Button
+          onClick={handleAddFilter}
+          label='+ add filter'
+          classNames='border-green-500 text-green-500'
+        />
+        <Button
+          onClick={handleAddFilter}
+          label='x remove filter'
+          classNames='border-red-500 text-red-500'
+        />
+        <FilterTable
+          columns={columns}
+          setFilterData={setFilterData}
+          data={data}
+          keyFilter='second'
+          fieldsSelected={fieldsSelected}
+          setFieldsSelected={setFieldsSelected}
+        />
+        <FilterTable
+          columns={columns}
+          setFilterData={setFilterData}
+          data={data}
+          keyFilter='third'
+          fieldsSelected={fieldsSelected}
+          setFieldsSelected={setFieldsSelected}
+        />
       </div>
       <table>
         <thead>

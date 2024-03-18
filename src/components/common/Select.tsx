@@ -14,7 +14,7 @@ const Select = ({ selectedOption, setSelectedOption, options }: Prop) => {
       onChange={(e) => setSelectedOption(e.target.value)}
       className='shadow px-4 py-2 rounded-md'
     >
-      <option defaultValue={"choose one"}>Choose one</option>
+      {/* <option defaultValue={"choose one"}>Choose one</option> */}
       {options.map((option, index) => (
         <option key={index} value={option}>
           {option}

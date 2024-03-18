@@ -6,7 +6,7 @@ const data = [
     email: "mfrew0@redcross.org",
     gender: "Male",
     age: 61,
-    amount: "$6867.62",
+    amount: "6867.62",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const data = [
     email: "kwhitemarsh1@msu.edu",
     gender: "Female",
     age: 20,
-    amount: "$2678.37",
+    amount: "2678.37",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const data = [
     email: "rmccloy2@example.com",
     gender: "Male",
     age: 44,
-    amount: "$2338.02",
+    amount: "2338.02",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const data = [
     email: "bcorran3@woothemes.com",
     gender: "Male",
     age: 37,
-    amount: "$8325.87",
+    amount: "8325.87",
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const data = [
     email: "bwhyman4@booking.com",
     gender: "Male",
     age: 19,
-    amount: "$1804.57",
+    amount: "1804.57",
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const data = [
     email: "jbruhnsen5@scientificamerican.com",
     gender: "Female",
     age: 57,
-    amount: "$1071.22",
+    amount: "1071.22",
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ const data = [
     email: "ajedrys6@techcrunch.com",
     gender: "Female",
     age: 54,
-    amount: "$5176.26",
+    amount: "5176.26",
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ const data = [
     email: "kchadderton7@imdb.com",
     gender: "Bigender",
     age: 51,
-    amount: "$2400.07",
+    amount: "2400.07",
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ const data = [
     email: "esigne8@stanford.edu",
     gender: "Female",
     age: 58,
-    amount: "$5145.75",
+    amount: "5145.75",
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ const data = [
     email: "ddaniello9@dyndns.org",
     gender: "Female",
     age: 41,
-    amount: "$3362.36",
+    amount: "3362.36",
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ const data = [
     email: "gtookeya@ebay.com",
     gender: "Male",
     age: 70,
-    amount: "$6062.65",
+    amount: "6062.65",
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ const data = [
     email: "pschustb@bloglines.com",
     gender: "Female",
     age: 79,
-    amount: "$9127.30",
+    amount: "9127.30",
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ const data = [
     email: "idanatc@behance.net",
     gender: "Male",
     age: 65,
-    amount: "$2864.79",
+    amount: "2864.79",
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ const data = [
     email: "wlynockd@yolasite.com",
     gender: "Male",
     age: 16,
-    amount: "$6828.28",
+    amount: "6828.28",
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ const data = [
     email: "amilesope@smh.com.au",
     gender: "Male",
     age: 80,
-    amount: "$4040.55",
+    amount: "4040.55",
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ const data = [
     email: "dnoblettf@sphinn.com",
     gender: "Female",
     age: 20,
-    amount: "$1478.22",
+    amount: "1478.22",
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ const data = [
     email: "ncaccavarig@psu.edu",
     gender: "Female",
     age: 44,
-    amount: "$7834.00",
+    amount: "7834.00",
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ const data = [
     email: "mclarsonh@salon.com",
     gender: "Male",
     age: 33,
-    amount: "$8832.53",
+    amount: "8832.53",
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ const data = [
     email: "jsawfooti@behance.net",
     gender: "Female",
     age: 40,
-    amount: "$1551.66",
+    amount: "1551.66",
   },
   {
     id: 20,
@@ -177,7 +177,7 @@ const data = [
     email: "raulettaj@qq.com",
     gender: "Male",
     age: 31,
-    amount: "$5623.94",
+    amount: "5623.94",
   },
   {
     id: 21,
@@ -186,7 +186,7 @@ const data = [
     email: "otoonek@ask.com",
     gender: "Female",
     age: 53,
-    amount: "$3308.66",
+    amount: "3308.66",
   },
   {
     id: 22,
@@ -195,7 +195,7 @@ const data = [
     email: "mmarfieldl@thetimes.co.uk",
     gender: "Female",
     age: 64,
-    amount: "$7310.39",
+    amount: "7310.39",
   },
   {
     id: 23,
@@ -204,7 +204,7 @@ const data = [
     email: "cfountianm@cyberchimps.com",
     gender: "Male",
     age: 23,
-    amount: "$896.73",
+    amount: "896.73",
   },
   {
     id: 24,
@@ -213,7 +213,7 @@ const data = [
     email: "challexn@baidu.com",
     gender: "Female",
     age: 34,
-    amount: "$4388.91",
+    amount: "4388.91",
   },
   {
     id: 25,
@@ -222,7 +222,7 @@ const data = [
     email: "bclevero@businessweek.com",
     gender: "Female",
     age: 55,
-    amount: "$7876.33",
+    amount: "7876.33",
   },
   {
     id: 26,
@@ -231,7 +231,7 @@ const data = [
     email: "ledmundsonp@tripadvisor.com",
     gender: "Female",
     age: 42,
-    amount: "$422.88",
+    amount: "422.88",
   },
   {
     id: 27,
@@ -240,7 +240,7 @@ const data = [
     email: "gvondrachq@qq.com",
     gender: "Female",
     age: 25,
-    amount: "$8327.96",
+    amount: "8327.96",
   },
   {
     id: 28,
@@ -249,7 +249,7 @@ const data = [
     email: "eoldeyr@economist.com",
     gender: "Female",
     age: 41,
-    amount: "$6485.63",
+    amount: "6485.63",
   },
   {
     id: 29,
@@ -258,7 +258,7 @@ const data = [
     email: "ckayzers@com.com",
     gender: "Polygender",
     age: 47,
-    amount: "$6624.11",
+    amount: "6624.11",
   },
   {
     id: 30,
@@ -267,7 +267,7 @@ const data = [
     email: "bdibsdalet@cornell.edu",
     gender: "Non-binary",
     age: 68,
-    amount: "$9305.44",
+    amount: "9305.44",
   },
   {
     id: 31,
@@ -276,7 +276,7 @@ const data = [
     email: "bsnalumu@imgur.com",
     gender: "Male",
     age: 61,
-    amount: "$4126.27",
+    amount: "4126.27",
   },
   {
     id: 32,
@@ -285,7 +285,7 @@ const data = [
     email: "ccattermoulv@accuweather.com",
     gender: "Female",
     age: 78,
-    amount: "$2223.75",
+    amount: "2223.75",
   },
   {
     id: 33,
@@ -294,7 +294,7 @@ const data = [
     email: "fbedburroww@scribd.com",
     gender: "Male",
     age: 62,
-    amount: "$2303.54",
+    amount: "2303.54",
   },
   {
     id: 34,
@@ -303,7 +303,7 @@ const data = [
     email: "kthowlessx@infoseek.co.jp",
     gender: "Female",
     age: 36,
-    amount: "$6060.21",
+    amount: "6060.21",
   },
   {
     id: 35,
@@ -312,7 +312,7 @@ const data = [
     email: "abeeky@nhs.uk",
     gender: "Male",
     age: 49,
-    amount: "$3241.52",
+    amount: "3241.52",
   },
   {
     id: 36,
@@ -321,7 +321,7 @@ const data = [
     email: "hsallz@independent.co.uk",
     gender: "Female",
     age: 41,
-    amount: "$2232.28",
+    amount: "2232.28",
   },
   {
     id: 37,
@@ -330,7 +330,7 @@ const data = [
     email: "gcaughte10@reuters.com",
     gender: "Non-binary",
     age: 47,
-    amount: "$3879.56",
+    amount: "3879.56",
   },
   {
     id: 38,
@@ -339,7 +339,7 @@ const data = [
     email: "noneill11@barnesandnoble.com",
     gender: "Female",
     age: 26,
-    amount: "$996.36",
+    amount: "996.36",
   },
   {
     id: 39,
@@ -348,7 +348,7 @@ const data = [
     email: "ckeegan12@ebay.com",
     gender: "Female",
     age: 25,
-    amount: "$6674.59",
+    amount: "6674.59",
   },
   {
     id: 40,
@@ -357,7 +357,7 @@ const data = [
     email: "hrodenburgh13@topsy.com",
     gender: "Male",
     age: 60,
-    amount: "$7596.71",
+    amount: "7596.71",
   },
   {
     id: 41,
@@ -366,7 +366,7 @@ const data = [
     email: "dvallow14@blogtalkradio.com",
     gender: "Female",
     age: 41,
-    amount: "$4117.58",
+    amount: "4117.58",
   },
   {
     id: 42,
@@ -375,7 +375,7 @@ const data = [
     email: "tdundon15@netvibes.com",
     gender: "Male",
     age: 49,
-    amount: "$9241.93",
+    amount: "9241.93",
   },
   {
     id: 43,
@@ -384,7 +384,7 @@ const data = [
     email: "rlathan16@github.io",
     gender: "Male",
     age: 37,
-    amount: "$7567.67",
+    amount: "7567.67",
   },
   {
     id: 44,
@@ -393,7 +393,7 @@ const data = [
     email: "ssurmeir17@gizmodo.com",
     gender: "Female",
     age: 19,
-    amount: "$785.10",
+    amount: "785.10",
   },
   {
     id: 45,
@@ -402,7 +402,7 @@ const data = [
     email: "aranahan18@yahoo.com",
     gender: "Male",
     age: 27,
-    amount: "$656.97",
+    amount: "656.97",
   },
   {
     id: 46,
@@ -411,7 +411,7 @@ const data = [
     email: "pwhaley19@booking.com",
     gender: "Male",
     age: 78,
-    amount: "$8505.12",
+    amount: "8505.12",
   },
   {
     id: 47,
@@ -420,7 +420,7 @@ const data = [
     email: "dshutt1a@google.com.au",
     gender: "Female",
     age: 70,
-    amount: "$3922.58",
+    amount: "3922.58",
   },
   {
     id: 48,
@@ -429,7 +429,7 @@ const data = [
     email: "drosenfelder1b@lycos.com",
     gender: "Male",
     age: 66,
-    amount: "$9515.95",
+    amount: "9515.95",
   },
   {
     id: 49,
@@ -438,7 +438,7 @@ const data = [
     email: "mfundell1c@mozilla.com",
     gender: "Male",
     age: 71,
-    amount: "$705.42",
+    amount: "705.42",
   },
   {
     id: 50,
@@ -447,7 +447,7 @@ const data = [
     email: "lbreese1d@free.fr",
     gender: "Female",
     age: 55,
-    amount: "$4582.27",
+    amount: "4582.27",
   },
   {
     id: 51,
@@ -456,7 +456,7 @@ const data = [
     email: "dseeger1e@smh.com.au",
     gender: "Female",
     age: 79,
-    amount: "$3896.43",
+    amount: "3896.43",
   },
   {
     id: 52,
@@ -465,7 +465,7 @@ const data = [
     email: "lfletcher1f@weebly.com",
     gender: "Male",
     age: 64,
-    amount: "$9082.11",
+    amount: "9082.11",
   },
   {
     id: 53,
@@ -474,7 +474,7 @@ const data = [
     email: "zburnyeat1g@cargocollective.com",
     gender: "Female",
     age: 71,
-    amount: "$6981.22",
+    amount: "6981.22",
   },
   {
     id: 54,
@@ -483,7 +483,7 @@ const data = [
     email: "kcockram1h@unc.edu",
     gender: "Male",
     age: 56,
-    amount: "$5700.46",
+    amount: "5700.46",
   },
   {
     id: 55,
@@ -492,7 +492,7 @@ const data = [
     email: "cohern1i@cargocollective.com",
     gender: "Agender",
     age: 67,
-    amount: "$3288.20",
+    amount: "3288.20",
   },
   {
     id: 56,
@@ -501,7 +501,7 @@ const data = [
     email: "dkohler1j@freewebs.com",
     gender: "Male",
     age: 63,
-    amount: "$7343.39",
+    amount: "7343.39",
   },
   {
     id: 57,
@@ -510,7 +510,7 @@ const data = [
     email: "hlusty1k@wunderground.com",
     gender: "Male",
     age: 44,
-    amount: "$4112.13",
+    amount: "4112.13",
   },
   {
     id: 58,
@@ -519,7 +519,7 @@ const data = [
     email: "sissacoff1l@tmall.com",
     gender: "Male",
     age: 56,
-    amount: "$3441.32",
+    amount: "3441.32",
   },
   {
     id: 59,
@@ -528,7 +528,7 @@ const data = [
     email: "ngorst1m@eepurl.com",
     gender: "Male",
     age: 29,
-    amount: "$9891.98",
+    amount: "9891.98",
   },
   {
     id: 60,
@@ -537,7 +537,7 @@ const data = [
     email: "ctulley1n@joomla.org",
     gender: "Female",
     age: 28,
-    amount: "$810.44",
+    amount: "810.44",
   },
   {
     id: 61,
@@ -546,7 +546,7 @@ const data = [
     email: "tdacosta1o@icio.us",
     gender: "Female",
     age: 45,
-    amount: "$2192.47",
+    amount: "2192.47",
   },
   {
     id: 62,
@@ -555,7 +555,7 @@ const data = [
     email: "dlandells1p@usa.gov",
     gender: "Male",
     age: 40,
-    amount: "$611.44",
+    amount: "611.44",
   },
   {
     id: 63,
@@ -564,7 +564,7 @@ const data = [
     email: "asiggers1q@netscape.com",
     gender: "Male",
     age: 62,
-    amount: "$729.67",
+    amount: "729.67",
   },
   {
     id: 64,
@@ -573,7 +573,7 @@ const data = [
     email: "lysson1r@tinyurl.com",
     gender: "Female",
     age: 70,
-    amount: "$8693.33",
+    amount: "8693.33",
   },
   {
     id: 65,
@@ -582,7 +582,7 @@ const data = [
     email: "egavigan1s@tripadvisor.com",
     gender: "Female",
     age: 43,
-    amount: "$8323.69",
+    amount: "8323.69",
   },
   {
     id: 66,
@@ -591,7 +591,7 @@ const data = [
     email: "jgilmour1t@dot.gov",
     gender: "Female",
     age: 67,
-    amount: "$971.49",
+    amount: "971.49",
   },
   {
     id: 67,
@@ -600,7 +600,7 @@ const data = [
     email: "aventham1u@statcounter.com",
     gender: "Male",
     age: 56,
-    amount: "$4696.97",
+    amount: "4696.97",
   },
   {
     id: 68,
@@ -609,7 +609,7 @@ const data = [
     email: "kvaggers1v@omniture.com",
     gender: "Genderqueer",
     age: 47,
-    amount: "$5568.02",
+    amount: "5568.02",
   },
   {
     id: 69,
@@ -618,7 +618,7 @@ const data = [
     email: "wstreatley1w@hexun.com",
     gender: "Male",
     age: 75,
-    amount: "$9951.12",
+    amount: "9951.12",
   },
   {
     id: 70,
@@ -627,7 +627,7 @@ const data = [
     email: "ahaggleton1x@joomla.org",
     gender: "Female",
     age: 33,
-    amount: "$2087.35",
+    amount: "2087.35",
   },
   {
     id: 71,
@@ -636,7 +636,7 @@ const data = [
     email: "flakenden1y@123-reg.co.uk",
     gender: "Male",
     age: 80,
-    amount: "$8358.34",
+    amount: "8358.34",
   },
   {
     id: 72,
@@ -645,7 +645,7 @@ const data = [
     email: "mzylberdik1z@deliciousdays.com",
     gender: "Female",
     age: 33,
-    amount: "$5532.27",
+    amount: "5532.27",
   },
   {
     id: 73,
@@ -654,7 +654,7 @@ const data = [
     email: "wbatchelar20@jimdo.com",
     gender: "Male",
     age: 39,
-    amount: "$6968.18",
+    amount: "6968.18",
   },
   {
     id: 74,
@@ -663,7 +663,7 @@ const data = [
     email: "ekettleson21@bravesites.com",
     gender: "Female",
     age: 67,
-    amount: "$9346.38",
+    amount: "9346.38",
   },
   {
     id: 75,
@@ -672,7 +672,7 @@ const data = [
     email: "btothacot22@xrea.com",
     gender: "Male",
     age: 26,
-    amount: "$5643.59",
+    amount: "5643.59",
   },
   {
     id: 76,
@@ -681,7 +681,7 @@ const data = [
     email: "gkernes23@ocn.ne.jp",
     gender: "Female",
     age: 52,
-    amount: "$5069.53",
+    amount: "5069.53",
   },
   {
     id: 77,
@@ -690,7 +690,7 @@ const data = [
     email: "rjessop24@comsenz.com",
     gender: "Male",
     age: 39,
-    amount: "$2671.75",
+    amount: "2671.75",
   },
   {
     id: 78,
@@ -699,7 +699,7 @@ const data = [
     email: "jmccomb25@wix.com",
     gender: "Male",
     age: 26,
-    amount: "$4173.92",
+    amount: "4173.92",
   },
   {
     id: 79,
@@ -708,7 +708,7 @@ const data = [
     email: "gswire26@moonfruit.com",
     gender: "Male",
     age: 44,
-    amount: "$9365.76",
+    amount: "9365.76",
   },
   {
     id: 80,
@@ -717,7 +717,7 @@ const data = [
     email: "skalberer27@elegantthemes.com",
     gender: "Male",
     age: 47,
-    amount: "$464.01",
+    amount: "464.01",
   },
   {
     id: 81,
@@ -726,7 +726,7 @@ const data = [
     email: "gtregidgo28@infoseek.co.jp",
     gender: "Polygender",
     age: 80,
-    amount: "$9076.39",
+    amount: "9076.39",
   },
   {
     id: 82,
@@ -735,7 +735,7 @@ const data = [
     email: "dstrudwick29@cdc.gov",
     gender: "Polygender",
     age: 52,
-    amount: "$3001.45",
+    amount: "3001.45",
   },
   {
     id: 83,
@@ -744,7 +744,7 @@ const data = [
     email: "smccaughran2a@vimeo.com",
     gender: "Female",
     age: 24,
-    amount: "$6606.25",
+    amount: "6606.25",
   },
   {
     id: 84,
@@ -753,7 +753,7 @@ const data = [
     email: "snoyce2b@github.io",
     gender: "Male",
     age: 50,
-    amount: "$9418.43",
+    amount: "9418.43",
   },
   {
     id: 85,
@@ -762,7 +762,7 @@ const data = [
     email: "lantonijevic2c@virginia.edu",
     gender: "Female",
     age: 80,
-    amount: "$9119.86",
+    amount: "9119.86",
   },
   {
     id: 86,
@@ -771,7 +771,7 @@ const data = [
     email: "ncrush2d@japanpost.jp",
     gender: "Female",
     age: 51,
-    amount: "$5088.81",
+    amount: "5088.81",
   },
   {
     id: 87,
@@ -780,7 +780,7 @@ const data = [
     email: "fmoulds2e@youtube.com",
     gender: "Female",
     age: 54,
-    amount: "$4714.65",
+    amount: "4714.65",
   },
   {
     id: 88,
@@ -789,7 +789,7 @@ const data = [
     email: "hnewarte2f@google.co.jp",
     gender: "Male",
     age: 26,
-    amount: "$9599.43",
+    amount: "9599.43",
   },
   {
     id: 89,
@@ -798,7 +798,7 @@ const data = [
     email: "dehlerding2g@sourceforge.net",
     gender: "Female",
     age: 62,
-    amount: "$3616.37",
+    amount: "3616.37",
   },
   {
     id: 90,
@@ -807,7 +807,7 @@ const data = [
     email: "zcrips2h@w3.org",
     gender: "Female",
     age: 79,
-    amount: "$5818.10",
+    amount: "5818.10",
   },
   {
     id: 91,
@@ -816,7 +816,7 @@ const data = [
     email: "erippon2i@yelp.com",
     gender: "Male",
     age: 66,
-    amount: "$2385.10",
+    amount: "2385.10",
   },
   {
     id: 92,
@@ -825,7 +825,7 @@ const data = [
     email: "wmechic2j@topsy.com",
     gender: "Male",
     age: 29,
-    amount: "$1759.61",
+    amount: "1759.61",
   },
   {
     id: 93,
@@ -834,7 +834,7 @@ const data = [
     email: "rbettaney2k@jigsy.com",
     gender: "Female",
     age: 37,
-    amount: "$3763.79",
+    amount: "3763.79",
   },
   {
     id: 94,
@@ -843,7 +843,7 @@ const data = [
     email: "kcarnier2l@scribd.com",
     gender: "Female",
     age: 29,
-    amount: "$3737.16",
+    amount: "3737.16",
   },
   {
     id: 95,
@@ -852,7 +852,7 @@ const data = [
     email: "mbrunotti2m@si.edu",
     gender: "Bigender",
     age: 30,
-    amount: "$6002.69",
+    amount: "6002.69",
   },
   {
     id: 96,
@@ -861,7 +861,7 @@ const data = [
     email: "pdog2n@sciencedaily.com",
     gender: "Male",
     age: 56,
-    amount: "$6407.04",
+    amount: "6407.04",
   },
   {
     id: 97,
@@ -870,7 +870,7 @@ const data = [
     email: "rmallion2o@chicagotribune.com",
     gender: "Male",
     age: 34,
-    amount: "$3486.99",
+    amount: "3486.99",
   },
   {
     id: 98,
@@ -879,7 +879,7 @@ const data = [
     email: "mdawnay2p@unicef.org",
     gender: "Polygender",
     age: 21,
-    amount: "$6212.47",
+    amount: "6212.47",
   },
   {
     id: 99,
@@ -888,7 +888,7 @@ const data = [
     email: "gninotti2q@webs.com",
     gender: "Female",
     age: 53,
-    amount: "$6479.15",
+    amount: "6479.15",
   },
   {
     id: 100,
@@ -897,7 +897,7 @@ const data = [
     email: "jgrabham2r@elpais.com",
     gender: "Female",
     age: 60,
-    amount: "$2132.66",
+    amount: "2132.66",
   },
   {
     id: 101,
@@ -906,7 +906,7 @@ const data = [
     email: "npepineaux2s@newyorker.com",
     gender: "Male",
     age: 60,
-    amount: "$1529.91",
+    amount: "1529.91",
   },
   {
     id: 102,
@@ -915,7 +915,7 @@ const data = [
     email: "vwinspeare2t@fda.gov",
     gender: "Female",
     age: 62,
-    amount: "$9475.33",
+    amount: "9475.33",
   },
   {
     id: 103,
@@ -924,7 +924,7 @@ const data = [
     email: "cwafer2u@va.gov",
     gender: "Male",
     age: 79,
-    amount: "$4316.63",
+    amount: "4316.63",
   },
   {
     id: 104,
@@ -933,7 +933,7 @@ const data = [
     email: "bshuter2v@si.edu",
     gender: "Female",
     age: 26,
-    amount: "$1873.66",
+    amount: "1873.66",
   },
   {
     id: 105,
@@ -942,7 +942,7 @@ const data = [
     email: "eadmans2w@unicef.org",
     gender: "Female",
     age: 16,
-    amount: "$8723.41",
+    amount: "8723.41",
   },
   {
     id: 106,
@@ -951,7 +951,7 @@ const data = [
     email: "lmanson2x@networksolutions.com",
     gender: "Female",
     age: 51,
-    amount: "$2194.15",
+    amount: "2194.15",
   },
   {
     id: 107,
@@ -960,7 +960,7 @@ const data = [
     email: "kizzett2y@google.nl",
     gender: "Male",
     age: 71,
-    amount: "$2690.00",
+    amount: "2690.00",
   },
   {
     id: 108,
@@ -969,7 +969,7 @@ const data = [
     email: "cvenn2z@reverbnation.com",
     gender: "Female",
     age: 49,
-    amount: "$9968.36",
+    amount: "9968.36",
   },
   {
     id: 109,
@@ -978,7 +978,7 @@ const data = [
     email: "gsherrum30@nih.gov",
     gender: "Male",
     age: 38,
-    amount: "$7180.85",
+    amount: "7180.85",
   },
   {
     id: 110,
@@ -987,7 +987,7 @@ const data = [
     email: "swardingly31@ning.com",
     gender: "Male",
     age: 31,
-    amount: "$2882.86",
+    amount: "2882.86",
   },
   {
     id: 111,
@@ -996,7 +996,7 @@ const data = [
     email: "imicklewicz32@github.com",
     gender: "Male",
     age: 32,
-    amount: "$9056.20",
+    amount: "9056.20",
   },
   {
     id: 112,
@@ -1005,7 +1005,7 @@ const data = [
     email: "tmcginney33@opensource.org",
     gender: "Female",
     age: 17,
-    amount: "$9564.32",
+    amount: "9564.32",
   },
   {
     id: 113,
@@ -1014,7 +1014,7 @@ const data = [
     email: "hrivenzon34@altervista.org",
     gender: "Male",
     age: 44,
-    amount: "$1875.07",
+    amount: "1875.07",
   },
   {
     id: 114,
@@ -1023,7 +1023,7 @@ const data = [
     email: "cbillsberry35@de.vu",
     gender: "Polygender",
     age: 42,
-    amount: "$4368.00",
+    amount: "4368.00",
   },
   {
     id: 115,
@@ -1032,7 +1032,7 @@ const data = [
     email: "sroderigo36@shareasale.com",
     gender: "Male",
     age: 77,
-    amount: "$1635.48",
+    amount: "1635.48",
   },
   {
     id: 116,
@@ -1041,7 +1041,7 @@ const data = [
     email: "spiburn37@google.de",
     gender: "Female",
     age: 32,
-    amount: "$5041.74",
+    amount: "5041.74",
   },
   {
     id: 117,
@@ -1050,7 +1050,7 @@ const data = [
     email: "ctolemache38@google.cn",
     gender: "Female",
     age: 68,
-    amount: "$1751.55",
+    amount: "1751.55",
   },
   {
     id: 118,
@@ -1059,7 +1059,7 @@ const data = [
     email: "egonnin39@nydailynews.com",
     gender: "Male",
     age: 64,
-    amount: "$6651.57",
+    amount: "6651.57",
   },
   {
     id: 119,
@@ -1068,7 +1068,7 @@ const data = [
     email: "fsteynor3a@dailymail.co.uk",
     gender: "Female",
     age: 76,
-    amount: "$673.05",
+    amount: "673.05",
   },
   {
     id: 120,
@@ -1077,7 +1077,7 @@ const data = [
     email: "jairey3b@europa.eu",
     gender: "Male",
     age: 41,
-    amount: "$8911.03",
+    amount: "8911.03",
   },
   {
     id: 121,
@@ -1086,7 +1086,7 @@ const data = [
     email: "bcorneille3c@china.com.cn",
     gender: "Male",
     age: 69,
-    amount: "$703.90",
+    amount: "703.90",
   },
   {
     id: 122,
@@ -1095,7 +1095,7 @@ const data = [
     email: "astandidge3d@google.fr",
     gender: "Male",
     age: 70,
-    amount: "$6233.64",
+    amount: "6233.64",
   },
   {
     id: 123,
@@ -1104,7 +1104,7 @@ const data = [
     email: "bfelstead3e@i2i.jp",
     gender: "Polygender",
     age: 58,
-    amount: "$1554.95",
+    amount: "1554.95",
   },
   {
     id: 124,
@@ -1113,7 +1113,7 @@ const data = [
     email: "bfrankland3f@senate.gov",
     gender: "Male",
     age: 79,
-    amount: "$6764.00",
+    amount: "6764.00",
   },
   {
     id: 125,
@@ -1122,7 +1122,7 @@ const data = [
     email: "ngolde3g@nbcnews.com",
     gender: "Female",
     age: 48,
-    amount: "$7392.71",
+    amount: "7392.71",
   },
   {
     id: 126,
@@ -1131,7 +1131,7 @@ const data = [
     email: "skelby3h@mail.ru",
     gender: "Female",
     age: 36,
-    amount: "$1210.14",
+    amount: "1210.14",
   },
   {
     id: 127,
@@ -1140,7 +1140,7 @@ const data = [
     email: "tblacklock3i@wikipedia.org",
     gender: "Female",
     age: 31,
-    amount: "$9284.73",
+    amount: "9284.73",
   },
   {
     id: 128,
@@ -1149,7 +1149,7 @@ const data = [
     email: "neverill3j@netlog.com",
     gender: "Female",
     age: 59,
-    amount: "$6017.37",
+    amount: "6017.37",
   },
   {
     id: 129,
@@ -1158,7 +1158,7 @@ const data = [
     email: "wpigrome3k@nsw.gov.au",
     gender: "Male",
     age: 74,
-    amount: "$3530.44",
+    amount: "3530.44",
   },
   {
     id: 130,
@@ -1167,7 +1167,7 @@ const data = [
     email: "sguslon3l@mapquest.com",
     gender: "Male",
     age: 26,
-    amount: "$4070.35",
+    amount: "4070.35",
   },
   {
     id: 131,
@@ -1176,7 +1176,7 @@ const data = [
     email: "mzanni3m@simplemachines.org",
     gender: "Female",
     age: 71,
-    amount: "$805.42",
+    amount: "805.42",
   },
   {
     id: 132,
@@ -1185,7 +1185,7 @@ const data = [
     email: "sbusst3n@indiegogo.com",
     gender: "Male",
     age: 37,
-    amount: "$7515.58",
+    amount: "7515.58",
   },
   {
     id: 133,
@@ -1194,7 +1194,7 @@ const data = [
     email: "eseeney3o@senate.gov",
     gender: "Female",
     age: 33,
-    amount: "$7532.68",
+    amount: "7532.68",
   },
   {
     id: 134,
@@ -1203,7 +1203,7 @@ const data = [
     email: "gsleney3p@wunderground.com",
     gender: "Male",
     age: 74,
-    amount: "$9849.59",
+    amount: "9849.59",
   },
   {
     id: 135,
@@ -1212,7 +1212,7 @@ const data = [
     email: "uroseaman3q@ustream.tv",
     gender: "Genderqueer",
     age: 57,
-    amount: "$2894.79",
+    amount: "2894.79",
   },
   {
     id: 136,
@@ -1221,7 +1221,7 @@ const data = [
     email: "hcantu3r@mtv.com",
     gender: "Male",
     age: 76,
-    amount: "$1156.54",
+    amount: "1156.54",
   },
   {
     id: 137,
@@ -1230,7 +1230,7 @@ const data = [
     email: "oalenikov3s@ovh.net",
     gender: "Female",
     age: 65,
-    amount: "$7901.95",
+    amount: "7901.95",
   },
   {
     id: 138,
@@ -1239,7 +1239,7 @@ const data = [
     email: "mremnant3t@blogspot.com",
     gender: "Female",
     age: 62,
-    amount: "$5278.29",
+    amount: "5278.29",
   },
   {
     id: 139,
@@ -1248,7 +1248,7 @@ const data = [
     email: "mfibbens3u@engadget.com",
     gender: "Polygender",
     age: 76,
-    amount: "$9902.22",
+    amount: "9902.22",
   },
   {
     id: 140,
@@ -1257,7 +1257,7 @@ const data = [
     email: "tsiddens3v@theglobeandmail.com",
     gender: "Agender",
     age: 33,
-    amount: "$7530.03",
+    amount: "7530.03",
   },
   {
     id: 141,
@@ -1266,7 +1266,7 @@ const data = [
     email: "ctorel3w@cbslocal.com",
     gender: "Male",
     age: 38,
-    amount: "$5640.17",
+    amount: "5640.17",
   },
   {
     id: 142,
@@ -1275,7 +1275,7 @@ const data = [
     email: "msmickle3x@npr.org",
     gender: "Female",
     age: 54,
-    amount: "$3402.68",
+    amount: "3402.68",
   },
   {
     id: 143,
@@ -1284,7 +1284,7 @@ const data = [
     email: "oedie3y@xrea.com",
     gender: "Male",
     age: 70,
-    amount: "$9322.96",
+    amount: "9322.96",
   },
   {
     id: 144,
@@ -1293,7 +1293,7 @@ const data = [
     email: "tbrockley3z@nba.com",
     gender: "Male",
     age: 52,
-    amount: "$2633.18",
+    amount: "2633.18",
   },
   {
     id: 145,
@@ -1302,7 +1302,7 @@ const data = [
     email: "cchampley40@fda.gov",
     gender: "Male",
     age: 17,
-    amount: "$3774.86",
+    amount: "3774.86",
   },
   {
     id: 146,
@@ -1311,7 +1311,7 @@ const data = [
     email: "awigzell41@tumblr.com",
     gender: "Female",
     age: 48,
-    amount: "$1170.48",
+    amount: "1170.48",
   },
   {
     id: 147,
@@ -1320,7 +1320,7 @@ const data = [
     email: "fgoford42@sohu.com",
     gender: "Female",
     age: 61,
-    amount: "$2365.14",
+    amount: "2365.14",
   },
   {
     id: 148,
@@ -1329,7 +1329,7 @@ const data = [
     email: "qnewark43@pagesperso-orange.fr",
     gender: "Genderqueer",
     age: 44,
-    amount: "$1346.01",
+    amount: "1346.01",
   },
   {
     id: 149,
@@ -1338,7 +1338,7 @@ const data = [
     email: "fkebbell44@canalblog.com",
     gender: "Male",
     age: 65,
-    amount: "$2549.94",
+    amount: "2549.94",
   },
   {
     id: 150,
@@ -1347,7 +1347,7 @@ const data = [
     email: "acockhill45@timesonline.co.uk",
     gender: "Genderfluid",
     age: 46,
-    amount: "$2038.40",
+    amount: "2038.40",
   },
   {
     id: 151,
@@ -1356,7 +1356,7 @@ const data = [
     email: "lmasser46@stumbleupon.com",
     gender: "Female",
     age: 67,
-    amount: "$4498.69",
+    amount: "4498.69",
   },
   {
     id: 152,
@@ -1365,7 +1365,7 @@ const data = [
     email: "jliveing47@prnewswire.com",
     gender: "Female",
     age: 76,
-    amount: "$8297.69",
+    amount: "8297.69",
   },
   {
     id: 153,
@@ -1374,7 +1374,7 @@ const data = [
     email: "ibazeley48@bbc.co.uk",
     gender: "Male",
     age: 26,
-    amount: "$2049.14",
+    amount: "2049.14",
   },
   {
     id: 154,
@@ -1383,7 +1383,7 @@ const data = [
     email: "trundall49@cdc.gov",
     gender: "Male",
     age: 23,
-    amount: "$2227.30",
+    amount: "2227.30",
   },
   {
     id: 155,
@@ -1392,7 +1392,7 @@ const data = [
     email: "clovat4a@ca.gov",
     gender: "Female",
     age: 32,
-    amount: "$6047.36",
+    amount: "6047.36",
   },
   {
     id: 156,
@@ -1401,7 +1401,7 @@ const data = [
     email: "cmccollum4b@list-manage.com",
     gender: "Male",
     age: 27,
-    amount: "$5821.09",
+    amount: "5821.09",
   },
   {
     id: 157,
@@ -1410,7 +1410,7 @@ const data = [
     email: "abeswell4c@vkontakte.ru",
     gender: "Female",
     age: 45,
-    amount: "$4575.76",
+    amount: "4575.76",
   },
   {
     id: 158,
@@ -1419,7 +1419,7 @@ const data = [
     email: "eadamou4d@ted.com",
     gender: "Male",
     age: 75,
-    amount: "$10.74",
+    amount: "10.74",
   },
   {
     id: 159,
@@ -1428,7 +1428,7 @@ const data = [
     email: "rrosina4e@ycombinator.com",
     gender: "Male",
     age: 26,
-    amount: "$6691.48",
+    amount: "6691.48",
   },
   {
     id: 160,
@@ -1437,7 +1437,7 @@ const data = [
     email: "eickovitz4f@virginia.edu",
     gender: "Male",
     age: 25,
-    amount: "$50.19",
+    amount: "50.19",
   },
   {
     id: 161,
@@ -1446,7 +1446,7 @@ const data = [
     email: "tdemaid4g@homestead.com",
     gender: "Female",
     age: 62,
-    amount: "$5676.23",
+    amount: "5676.23",
   },
   {
     id: 162,
@@ -1455,7 +1455,7 @@ const data = [
     email: "lspadelli4h@kickstarter.com",
     gender: "Male",
     age: 35,
-    amount: "$468.80",
+    amount: "468.80",
   },
   {
     id: 163,
@@ -1464,7 +1464,7 @@ const data = [
     email: "dblazdell4i@xrea.com",
     gender: "Female",
     age: 42,
-    amount: "$6778.26",
+    amount: "6778.26",
   },
   {
     id: 164,
@@ -1473,7 +1473,7 @@ const data = [
     email: "gollivier4j@google.fr",
     gender: "Male",
     age: 53,
-    amount: "$6.86",
+    amount: "6.86",
   },
   {
     id: 165,
@@ -1482,7 +1482,7 @@ const data = [
     email: "rszach4k@wp.com",
     gender: "Male",
     age: 67,
-    amount: "$6023.77",
+    amount: "6023.77",
   },
   {
     id: 166,
@@ -1491,7 +1491,7 @@ const data = [
     email: "cshewan4l@examiner.com",
     gender: "Male",
     age: 28,
-    amount: "$8594.83",
+    amount: "8594.83",
   },
   {
     id: 167,
@@ -1500,7 +1500,7 @@ const data = [
     email: "wmcelane4m@forbes.com",
     gender: "Female",
     age: 32,
-    amount: "$2797.00",
+    amount: "2797.00",
   },
   {
     id: 168,
@@ -1509,7 +1509,7 @@ const data = [
     email: "thancox4n@ustream.tv",
     gender: "Male",
     age: 48,
-    amount: "$3963.78",
+    amount: "3963.78",
   },
   {
     id: 169,
@@ -1518,7 +1518,7 @@ const data = [
     email: "gvasentsov4o@zimbio.com",
     gender: "Polygender",
     age: 70,
-    amount: "$7815.42",
+    amount: "7815.42",
   },
   {
     id: 170,
@@ -1527,7 +1527,7 @@ const data = [
     email: "hedgeley4p@uol.com.br",
     gender: "Male",
     age: 66,
-    amount: "$9471.83",
+    amount: "9471.83",
   },
   {
     id: 171,
@@ -1536,7 +1536,7 @@ const data = [
     email: "slemarchand4q@hud.gov",
     gender: "Female",
     age: 75,
-    amount: "$7777.72",
+    amount: "7777.72",
   },
   {
     id: 172,
@@ -1545,7 +1545,7 @@ const data = [
     email: "flock4r@china.com.cn",
     gender: "Male",
     age: 78,
-    amount: "$2506.77",
+    amount: "2506.77",
   },
   {
     id: 173,
@@ -1554,7 +1554,7 @@ const data = [
     email: "ldemogeot4s@craigslist.org",
     gender: "Female",
     age: 35,
-    amount: "$6749.34",
+    amount: "6749.34",
   },
   {
     id: 174,
@@ -1563,7 +1563,7 @@ const data = [
     email: "lbanfield4t@hibu.com",
     gender: "Male",
     age: 38,
-    amount: "$3574.12",
+    amount: "3574.12",
   },
   {
     id: 175,
@@ -1572,7 +1572,7 @@ const data = [
     email: "jbaulk4u@i2i.jp",
     gender: "Female",
     age: 58,
-    amount: "$763.19",
+    amount: "763.19",
   },
   {
     id: 176,
@@ -1581,7 +1581,7 @@ const data = [
     email: "jjarvie4v@etsy.com",
     gender: "Female",
     age: 28,
-    amount: "$3842.25",
+    amount: "3842.25",
   },
   {
     id: 177,
@@ -1590,7 +1590,7 @@ const data = [
     email: "dglyssanne4w@blog.com",
     gender: "Female",
     age: 22,
-    amount: "$7293.60",
+    amount: "7293.60",
   },
   {
     id: 178,
@@ -1599,7 +1599,7 @@ const data = [
     email: "qpickance4x@hostgator.com",
     gender: "Genderfluid",
     age: 59,
-    amount: "$5925.69",
+    amount: "5925.69",
   },
   {
     id: 179,
@@ -1608,7 +1608,7 @@ const data = [
     email: "alillee4y@pinterest.com",
     gender: "Female",
     age: 66,
-    amount: "$8365.35",
+    amount: "8365.35",
   },
   {
     id: 180,
@@ -1617,7 +1617,7 @@ const data = [
     email: "bmacnish4z@edublogs.org",
     gender: "Polygender",
     age: 74,
-    amount: "$1026.76",
+    amount: "1026.76",
   },
   {
     id: 181,
@@ -1626,7 +1626,7 @@ const data = [
     email: "ebaggot50@unblog.fr",
     gender: "Male",
     age: 21,
-    amount: "$2826.23",
+    amount: "2826.23",
   },
   {
     id: 182,
@@ -1635,7 +1635,7 @@ const data = [
     email: "cnannizzi51@sun.com",
     gender: "Male",
     age: 37,
-    amount: "$8835.37",
+    amount: "8835.37",
   },
   {
     id: 183,
@@ -1644,7 +1644,7 @@ const data = [
     email: "zglauber52@columbia.edu",
     gender: "Female",
     age: 59,
-    amount: "$4637.34",
+    amount: "4637.34",
   },
   {
     id: 184,
@@ -1653,7 +1653,7 @@ const data = [
     email: "eeverleigh53@linkedin.com",
     gender: "Male",
     age: 77,
-    amount: "$8549.42",
+    amount: "8549.42",
   },
   {
     id: 185,
@@ -1662,7 +1662,7 @@ const data = [
     email: "bszabo54@hp.com",
     gender: "Female",
     age: 53,
-    amount: "$4805.69",
+    amount: "4805.69",
   },
   {
     id: 186,
@@ -1671,7 +1671,7 @@ const data = [
     email: "bcorzon55@deviantart.com",
     gender: "Female",
     age: 33,
-    amount: "$7650.72",
+    amount: "7650.72",
   },
   {
     id: 187,
@@ -1680,7 +1680,7 @@ const data = [
     email: "dtranmer56@issuu.com",
     gender: "Genderqueer",
     age: 64,
-    amount: "$4876.23",
+    amount: "4876.23",
   },
   {
     id: 188,
@@ -1689,7 +1689,7 @@ const data = [
     email: "hstegel57@uiuc.edu",
     gender: "Male",
     age: 64,
-    amount: "$2402.93",
+    amount: "2402.93",
   },
   {
     id: 189,
@@ -1698,7 +1698,7 @@ const data = [
     email: "lstockford58@un.org",
     gender: "Female",
     age: 58,
-    amount: "$8307.40",
+    amount: "8307.40",
   },
   {
     id: 190,
@@ -1707,7 +1707,7 @@ const data = [
     email: "kbelfrage59@msu.edu",
     gender: "Female",
     age: 28,
-    amount: "$1282.23",
+    amount: "1282.23",
   },
   {
     id: 191,
@@ -1716,7 +1716,7 @@ const data = [
     email: "cgray5a@google.com.br",
     gender: "Male",
     age: 35,
-    amount: "$3124.01",
+    amount: "3124.01",
   },
   {
     id: 192,
@@ -1725,7 +1725,7 @@ const data = [
     email: "bshorton5b@apache.org",
     gender: "Male",
     age: 59,
-    amount: "$1829.43",
+    amount: "1829.43",
   },
   {
     id: 193,
@@ -1734,7 +1734,7 @@ const data = [
     email: "rosuaird5c@imgur.com",
     gender: "Male",
     age: 65,
-    amount: "$6370.34",
+    amount: "6370.34",
   },
   {
     id: 194,
@@ -1743,7 +1743,7 @@ const data = [
     email: "jodo5d@gnu.org",
     gender: "Male",
     age: 58,
-    amount: "$8928.40",
+    amount: "8928.40",
   },
   {
     id: 195,
@@ -1752,7 +1752,7 @@ const data = [
     email: "egibbie5e@marketwatch.com",
     gender: "Male",
     age: 59,
-    amount: "$7606.83",
+    amount: "7606.83",
   },
   {
     id: 196,
@@ -1761,7 +1761,7 @@ const data = [
     email: "dbear5f@joomla.org",
     gender: "Female",
     age: 37,
-    amount: "$9611.53",
+    amount: "9611.53",
   },
   {
     id: 197,
@@ -1770,7 +1770,7 @@ const data = [
     email: "smccambridge5g@reverbnation.com",
     gender: "Male",
     age: 56,
-    amount: "$2822.06",
+    amount: "2822.06",
   },
   {
     id: 198,
@@ -1779,7 +1779,7 @@ const data = [
     email: "qleah5h@dagondesign.com",
     gender: "Male",
     age: 27,
-    amount: "$1405.96",
+    amount: "1405.96",
   },
   {
     id: 199,
@@ -1788,7 +1788,7 @@ const data = [
     email: "yduell5i@furl.net",
     gender: "Female",
     age: 75,
-    amount: "$9338.64",
+    amount: "9338.64",
   },
   {
     id: 200,
@@ -1797,7 +1797,7 @@ const data = [
     email: "jsalway5j@weebly.com",
     gender: "Polygender",
     age: 27,
-    amount: "$4636.36",
+    amount: "4636.36",
   },
   {
     id: 201,
@@ -1806,7 +1806,7 @@ const data = [
     email: "tbretelle5k@msu.edu",
     gender: "Female",
     age: 52,
-    amount: "$8349.45",
+    amount: "8349.45",
   },
   {
     id: 202,
@@ -1815,7 +1815,7 @@ const data = [
     email: "kmacnockater5l@mac.com",
     gender: "Female",
     age: 30,
-    amount: "$5696.59",
+    amount: "5696.59",
   },
   {
     id: 203,
@@ -1824,7 +1824,7 @@ const data = [
     email: "rlestrange5m@irs.gov",
     gender: "Female",
     age: 26,
-    amount: "$180.86",
+    amount: "180.86",
   },
   {
     id: 204,
@@ -1833,7 +1833,7 @@ const data = [
     email: "csholem5n@ycombinator.com",
     gender: "Male",
     age: 70,
-    amount: "$4442.15",
+    amount: "4442.15",
   },
   {
     id: 205,
@@ -1842,7 +1842,7 @@ const data = [
     email: "dgabites5o@dell.com",
     gender: "Female",
     age: 31,
-    amount: "$4383.81",
+    amount: "4383.81",
   },
   {
     id: 206,
@@ -1851,7 +1851,7 @@ const data = [
     email: "jhampshire5p@wordpress.com",
     gender: "Male",
     age: 56,
-    amount: "$5346.29",
+    amount: "5346.29",
   },
   {
     id: 207,
@@ -1860,7 +1860,7 @@ const data = [
     email: "rgoodnow5q@princeton.edu",
     gender: "Female",
     age: 37,
-    amount: "$1122.53",
+    amount: "1122.53",
   },
   {
     id: 208,
@@ -1869,7 +1869,7 @@ const data = [
     email: "sgrishukhin5r@youtu.be",
     gender: "Male",
     age: 65,
-    amount: "$1422.03",
+    amount: "1422.03",
   },
   {
     id: 209,
@@ -1878,7 +1878,7 @@ const data = [
     email: "ncasoni5s@accuweather.com",
     gender: "Male",
     age: 62,
-    amount: "$5815.64",
+    amount: "5815.64",
   },
   {
     id: 210,
@@ -1887,7 +1887,7 @@ const data = [
     email: "dgehrels5t@icio.us",
     gender: "Polygender",
     age: 30,
-    amount: "$6367.66",
+    amount: "6367.66",
   },
   {
     id: 211,
@@ -1896,7 +1896,7 @@ const data = [
     email: "schurchley5u@surveymonkey.com",
     gender: "Male",
     age: 31,
-    amount: "$1801.85",
+    amount: "1801.85",
   },
   {
     id: 212,
@@ -1905,7 +1905,7 @@ const data = [
     email: "odessent5v@soup.io",
     gender: "Male",
     age: 46,
-    amount: "$7529.16",
+    amount: "7529.16",
   },
   {
     id: 213,
@@ -1914,7 +1914,7 @@ const data = [
     email: "lposten5w@wired.com",
     gender: "Female",
     age: 72,
-    amount: "$4600.35",
+    amount: "4600.35",
   },
   {
     id: 214,
@@ -1923,7 +1923,7 @@ const data = [
     email: "bronaghan5x@ibm.com",
     gender: "Male",
     age: 19,
-    amount: "$4357.43",
+    amount: "4357.43",
   },
   {
     id: 215,
@@ -1932,7 +1932,7 @@ const data = [
     email: "jjaggar5y@npr.org",
     gender: "Female",
     age: 43,
-    amount: "$4748.11",
+    amount: "4748.11",
   },
   {
     id: 216,
@@ -1941,7 +1941,7 @@ const data = [
     email: "hmcphaden5z@typepad.com",
     gender: "Male",
     age: 66,
-    amount: "$6796.80",
+    amount: "6796.80",
   },
   {
     id: 217,
@@ -1950,7 +1950,7 @@ const data = [
     email: "cseywood60@goo.gl",
     gender: "Female",
     age: 34,
-    amount: "$8760.81",
+    amount: "8760.81",
   },
   {
     id: 218,
@@ -1959,7 +1959,7 @@ const data = [
     email: "afaulks61@shareasale.com",
     gender: "Female",
     age: 23,
-    amount: "$1488.71",
+    amount: "1488.71",
   },
   {
     id: 219,
@@ -1968,7 +1968,7 @@ const data = [
     email: "brameaux62@desdev.cn",
     gender: "Female",
     age: 28,
-    amount: "$2514.24",
+    amount: "2514.24",
   },
   {
     id: 220,
@@ -1977,7 +1977,7 @@ const data = [
     email: "bstreeter63@ovh.net",
     gender: "Female",
     age: 80,
-    amount: "$1196.83",
+    amount: "1196.83",
   },
   {
     id: 221,
@@ -1986,7 +1986,7 @@ const data = [
     email: "lmitten64@vimeo.com",
     gender: "Female",
     age: 50,
-    amount: "$931.74",
+    amount: "931.74",
   },
   {
     id: 222,
@@ -1995,7 +1995,7 @@ const data = [
     email: "btidbald65@cloudflare.com",
     gender: "Male",
     age: 24,
-    amount: "$3684.33",
+    amount: "3684.33",
   },
   {
     id: 223,
@@ -2004,7 +2004,7 @@ const data = [
     email: "tmcconnell66@fotki.com",
     gender: "Female",
     age: 58,
-    amount: "$5894.12",
+    amount: "5894.12",
   },
   {
     id: 224,
@@ -2013,7 +2013,7 @@ const data = [
     email: "rstear67@friendfeed.com",
     gender: "Female",
     age: 73,
-    amount: "$2596.11",
+    amount: "2596.11",
   },
   {
     id: 225,
@@ -2022,7 +2022,7 @@ const data = [
     email: "tbernardeau68@foxnews.com",
     gender: "Male",
     age: 66,
-    amount: "$6819.67",
+    amount: "6819.67",
   },
   {
     id: 226,
@@ -2031,7 +2031,7 @@ const data = [
     email: "akordas69@goodreads.com",
     gender: "Genderfluid",
     age: 72,
-    amount: "$474.62",
+    amount: "474.62",
   },
   {
     id: 227,
@@ -2040,7 +2040,7 @@ const data = [
     email: "cbushnell6a@godaddy.com",
     gender: "Female",
     age: 35,
-    amount: "$1200.55",
+    amount: "1200.55",
   },
   {
     id: 228,
@@ -2049,7 +2049,7 @@ const data = [
     email: "wgritland6b@webs.com",
     gender: "Male",
     age: 61,
-    amount: "$4128.55",
+    amount: "4128.55",
   },
   {
     id: 229,
@@ -2058,7 +2058,7 @@ const data = [
     email: "sathey6c@themeforest.net",
     gender: "Female",
     age: 40,
-    amount: "$1373.50",
+    amount: "1373.50",
   },
   {
     id: 230,
@@ -2067,7 +2067,7 @@ const data = [
     email: "abaggelley6d@slideshare.net",
     gender: "Female",
     age: 51,
-    amount: "$9057.96",
+    amount: "9057.96",
   },
   {
     id: 231,
@@ -2076,7 +2076,7 @@ const data = [
     email: "senrietto6e@studiopress.com",
     gender: "Female",
     age: 57,
-    amount: "$8832.61",
+    amount: "8832.61",
   },
   {
     id: 232,
@@ -2085,7 +2085,7 @@ const data = [
     email: "cchriston6f@japanpost.jp",
     gender: "Female",
     age: 27,
-    amount: "$8820.65",
+    amount: "8820.65",
   },
   {
     id: 233,
@@ -2094,7 +2094,7 @@ const data = [
     email: "ggouldsmith6g@altervista.org",
     gender: "Non-binary",
     age: 61,
-    amount: "$8136.13",
+    amount: "8136.13",
   },
   {
     id: 234,
@@ -2103,7 +2103,7 @@ const data = [
     email: "bdowdeswell6h@indiegogo.com",
     gender: "Male",
     age: 44,
-    amount: "$1555.91",
+    amount: "1555.91",
   },
   {
     id: 235,
@@ -2112,7 +2112,7 @@ const data = [
     email: "bcornborough6i@fema.gov",
     gender: "Male",
     age: 51,
-    amount: "$1853.62",
+    amount: "1853.62",
   },
   {
     id: 236,
@@ -2121,7 +2121,7 @@ const data = [
     email: "bphilcott6j@bizjournals.com",
     gender: "Female",
     age: 39,
-    amount: "$9765.73",
+    amount: "9765.73",
   },
   {
     id: 237,
@@ -2130,7 +2130,7 @@ const data = [
     email: "rraggles6k@miitbeian.gov.cn",
     gender: "Female",
     age: 49,
-    amount: "$433.69",
+    amount: "433.69",
   },
   {
     id: 238,
@@ -2139,7 +2139,7 @@ const data = [
     email: "fkitto6l@cam.ac.uk",
     gender: "Male",
     age: 40,
-    amount: "$9182.94",
+    amount: "9182.94",
   },
   {
     id: 239,
@@ -2148,7 +2148,7 @@ const data = [
     email: "ohannigane6m@pbs.org",
     gender: "Female",
     age: 47,
-    amount: "$6406.20",
+    amount: "6406.20",
   },
   {
     id: 240,
@@ -2157,7 +2157,7 @@ const data = [
     email: "bmalter6n@telegraph.co.uk",
     gender: "Male",
     age: 71,
-    amount: "$8452.74",
+    amount: "8452.74",
   },
   {
     id: 241,
@@ -2166,7 +2166,7 @@ const data = [
     email: "dfaloon6o@webs.com",
     gender: "Genderqueer",
     age: 28,
-    amount: "$2417.52",
+    amount: "2417.52",
   },
   {
     id: 242,
@@ -2175,7 +2175,7 @@ const data = [
     email: "gcargo6p@dion.ne.jp",
     gender: "Male",
     age: 37,
-    amount: "$4915.21",
+    amount: "4915.21",
   },
   {
     id: 243,
@@ -2184,7 +2184,7 @@ const data = [
     email: "nanglim6q@artisteer.com",
     gender: "Male",
     age: 41,
-    amount: "$8395.21",
+    amount: "8395.21",
   },
   {
     id: 244,
@@ -2193,7 +2193,7 @@ const data = [
     email: "rkinny6r@woothemes.com",
     gender: "Non-binary",
     age: 61,
-    amount: "$8088.92",
+    amount: "8088.92",
   },
   {
     id: 245,
@@ -2202,7 +2202,7 @@ const data = [
     email: "rnobbs6s@dmoz.org",
     gender: "Male",
     age: 58,
-    amount: "$7987.45",
+    amount: "7987.45",
   },
   {
     id: 246,
@@ -2211,7 +2211,7 @@ const data = [
     email: "wswaite6t@pbs.org",
     gender: "Male",
     age: 53,
-    amount: "$4044.16",
+    amount: "4044.16",
   },
   {
     id: 247,
@@ -2220,7 +2220,7 @@ const data = [
     email: "jglowacz6u@earthlink.net",
     gender: "Genderqueer",
     age: 70,
-    amount: "$5533.71",
+    amount: "5533.71",
   },
   {
     id: 248,
@@ -2229,7 +2229,7 @@ const data = [
     email: "dbuxsy6v@about.me",
     gender: "Male",
     age: 42,
-    amount: "$6470.00",
+    amount: "6470.00",
   },
   {
     id: 249,
@@ -2238,7 +2238,7 @@ const data = [
     email: "skingsbury6w@princeton.edu",
     gender: "Female",
     age: 49,
-    amount: "$1245.90",
+    amount: "1245.90",
   },
   {
     id: 250,
@@ -2247,7 +2247,7 @@ const data = [
     email: "kkendell6x@bloomberg.com",
     gender: "Male",
     age: 74,
-    amount: "$9792.38",
+    amount: "9792.38",
   },
   {
     id: 251,
@@ -2256,7 +2256,7 @@ const data = [
     email: "fwindybank6y@ifeng.com",
     gender: "Female",
     age: 40,
-    amount: "$9518.11",
+    amount: "9518.11",
   },
   {
     id: 252,
@@ -2265,7 +2265,7 @@ const data = [
     email: "ahawk6z@dailymotion.com",
     gender: "Female",
     age: 46,
-    amount: "$6137.58",
+    amount: "6137.58",
   },
   {
     id: 253,
@@ -2274,7 +2274,7 @@ const data = [
     email: "jpaulusch70@liveinternet.ru",
     gender: "Female",
     age: 78,
-    amount: "$1901.86",
+    amount: "1901.86",
   },
   {
     id: 254,
@@ -2283,7 +2283,7 @@ const data = [
     email: "driatt71@linkedin.com",
     gender: "Female",
     age: 28,
-    amount: "$2278.55",
+    amount: "2278.55",
   },
   {
     id: 255,
@@ -2292,7 +2292,7 @@ const data = [
     email: "cbiford72@exblog.jp",
     gender: "Female",
     age: 17,
-    amount: "$8301.16",
+    amount: "8301.16",
   },
   {
     id: 256,
@@ -2301,7 +2301,7 @@ const data = [
     email: "pwillden73@ucsd.edu",
     gender: "Female",
     age: 38,
-    amount: "$310.34",
+    amount: "310.34",
   },
   {
     id: 257,
@@ -2310,7 +2310,7 @@ const data = [
     email: "fbaud74@chicagotribune.com",
     gender: "Agender",
     age: 64,
-    amount: "$3258.65",
+    amount: "3258.65",
   },
   {
     id: 258,
@@ -2319,7 +2319,7 @@ const data = [
     email: "dbrokenshire75@deliciousdays.com",
     gender: "Male",
     age: 50,
-    amount: "$6272.20",
+    amount: "6272.20",
   },
   {
     id: 259,
@@ -2328,7 +2328,7 @@ const data = [
     email: "knoods76@bing.com",
     gender: "Male",
     age: 36,
-    amount: "$5431.51",
+    amount: "5431.51",
   },
   {
     id: 260,
@@ -2337,7 +2337,7 @@ const data = [
     email: "shaydn77@typepad.com",
     gender: "Female",
     age: 45,
-    amount: "$9015.96",
+    amount: "9015.96",
   },
   {
     id: 261,
@@ -2346,7 +2346,7 @@ const data = [
     email: "abilston78@irs.gov",
     gender: "Male",
     age: 77,
-    amount: "$1187.22",
+    amount: "1187.22",
   },
   {
     id: 262,
@@ -2355,7 +2355,7 @@ const data = [
     email: "estrainge79@adobe.com",
     gender: "Male",
     age: 43,
-    amount: "$7599.67",
+    amount: "7599.67",
   },
   {
     id: 263,
@@ -2364,7 +2364,7 @@ const data = [
     email: "mschottli7a@omniture.com",
     gender: "Female",
     age: 59,
-    amount: "$1089.08",
+    amount: "1089.08",
   },
   {
     id: 264,
@@ -2373,7 +2373,7 @@ const data = [
     email: "ggerrish7b@cargocollective.com",
     gender: "Male",
     age: 18,
-    amount: "$7858.89",
+    amount: "7858.89",
   },
   {
     id: 265,
@@ -2382,7 +2382,7 @@ const data = [
     email: "hluesley7c@tinyurl.com",
     gender: "Male",
     age: 54,
-    amount: "$4765.60",
+    amount: "4765.60",
   },
   {
     id: 266,
@@ -2391,7 +2391,7 @@ const data = [
     email: "ituttle7d@cloudflare.com",
     gender: "Female",
     age: 62,
-    amount: "$267.75",
+    amount: "267.75",
   },
   {
     id: 267,
@@ -2400,7 +2400,7 @@ const data = [
     email: "aoluby7e@facebook.com",
     gender: "Female",
     age: 79,
-    amount: "$7592.78",
+    amount: "7592.78",
   },
   {
     id: 268,
@@ -2409,7 +2409,7 @@ const data = [
     email: "vmalloy7f@slate.com",
     gender: "Male",
     age: 51,
-    amount: "$5337.99",
+    amount: "5337.99",
   },
   {
     id: 269,
@@ -2418,7 +2418,7 @@ const data = [
     email: "rjansey7g@auda.org.au",
     gender: "Male",
     age: 53,
-    amount: "$5319.51",
+    amount: "5319.51",
   },
   {
     id: 270,
@@ -2427,7 +2427,7 @@ const data = [
     email: "ggeorg7h@xing.com",
     gender: "Male",
     age: 78,
-    amount: "$3209.04",
+    amount: "3209.04",
   },
   {
     id: 271,
@@ -2436,7 +2436,7 @@ const data = [
     email: "kibeson7i@walmart.com",
     gender: "Female",
     age: 79,
-    amount: "$8975.13",
+    amount: "8975.13",
   },
   {
     id: 272,
@@ -2445,7 +2445,7 @@ const data = [
     email: "bfeasey7j@feedburner.com",
     gender: "Male",
     age: 59,
-    amount: "$8709.15",
+    amount: "8709.15",
   },
   {
     id: 273,
@@ -2454,7 +2454,7 @@ const data = [
     email: "rforster7k@howstuffworks.com",
     gender: "Male",
     age: 34,
-    amount: "$1446.04",
+    amount: "1446.04",
   },
   {
     id: 274,
@@ -2463,7 +2463,7 @@ const data = [
     email: "bkeningley7l@nasa.gov",
     gender: "Male",
     age: 23,
-    amount: "$8081.04",
+    amount: "8081.04",
   },
   {
     id: 275,
@@ -2472,7 +2472,7 @@ const data = [
     email: "ereuble7m@theglobeandmail.com",
     gender: "Male",
     age: 34,
-    amount: "$6333.83",
+    amount: "6333.83",
   },
   {
     id: 276,
@@ -2481,7 +2481,7 @@ const data = [
     email: "ssoppit7n@usgs.gov",
     gender: "Male",
     age: 35,
-    amount: "$9888.45",
+    amount: "9888.45",
   },
   {
     id: 277,
@@ -2490,7 +2490,7 @@ const data = [
     email: "dborrill7o@indiatimes.com",
     gender: "Male",
     age: 48,
-    amount: "$7429.38",
+    amount: "7429.38",
   },
   {
     id: 278,
@@ -2499,7 +2499,7 @@ const data = [
     email: "ntivenan7p@dropbox.com",
     gender: "Female",
     age: 33,
-    amount: "$3928.58",
+    amount: "3928.58",
   },
   {
     id: 279,
@@ -2508,7 +2508,7 @@ const data = [
     email: "tcollinson7q@princeton.edu",
     gender: "Male",
     age: 67,
-    amount: "$1016.27",
+    amount: "1016.27",
   },
   {
     id: 280,
@@ -2517,7 +2517,7 @@ const data = [
     email: "chammett7r@miitbeian.gov.cn",
     gender: "Female",
     age: 38,
-    amount: "$200.37",
+    amount: "200.37",
   },
   {
     id: 281,
@@ -2526,7 +2526,7 @@ const data = [
     email: "ldeknevet7s@shutterfly.com",
     gender: "Male",
     age: 23,
-    amount: "$9122.15",
+    amount: "9122.15",
   },
   {
     id: 282,
@@ -2535,7 +2535,7 @@ const data = [
     email: "cdunn7t@time.com",
     gender: "Male",
     age: 78,
-    amount: "$8706.51",
+    amount: "8706.51",
   },
   {
     id: 283,
@@ -2544,7 +2544,7 @@ const data = [
     email: "klonghi7u@google.co.jp",
     gender: "Male",
     age: 19,
-    amount: "$595.82",
+    amount: "595.82",
   },
   {
     id: 284,
@@ -2553,7 +2553,7 @@ const data = [
     email: "lcroasdale7v@unicef.org",
     gender: "Female",
     age: 47,
-    amount: "$3412.59",
+    amount: "3412.59",
   },
   {
     id: 285,
@@ -2562,7 +2562,7 @@ const data = [
     email: "jpryn7w@sakura.ne.jp",
     gender: "Female",
     age: 43,
-    amount: "$7108.91",
+    amount: "7108.91",
   },
   {
     id: 286,
@@ -2571,7 +2571,7 @@ const data = [
     email: "sfritchly7x@opensource.org",
     gender: "Male",
     age: 57,
-    amount: "$7198.43",
+    amount: "7198.43",
   },
   {
     id: 287,
@@ -2580,7 +2580,7 @@ const data = [
     email: "laldwich7y@acquirethisname.com",
     gender: "Female",
     age: 79,
-    amount: "$5001.78",
+    amount: "5001.78",
   },
   {
     id: 288,
@@ -2589,7 +2589,7 @@ const data = [
     email: "eplampeyn7z@craigslist.org",
     gender: "Male",
     age: 33,
-    amount: "$6235.51",
+    amount: "6235.51",
   },
   {
     id: 289,
@@ -2598,7 +2598,7 @@ const data = [
     email: "gcattini80@gravatar.com",
     gender: "Male",
     age: 52,
-    amount: "$5528.32",
+    amount: "5528.32",
   },
   {
     id: 290,
@@ -2607,7 +2607,7 @@ const data = [
     email: "rlomax81@guardian.co.uk",
     gender: "Female",
     age: 36,
-    amount: "$401.74",
+    amount: "401.74",
   },
   {
     id: 291,
@@ -2616,7 +2616,7 @@ const data = [
     email: "knoller82@jiathis.com",
     gender: "Female",
     age: 73,
-    amount: "$5838.23",
+    amount: "5838.23",
   },
   {
     id: 292,
@@ -2625,7 +2625,7 @@ const data = [
     email: "jsolman83@globo.com",
     gender: "Male",
     age: 78,
-    amount: "$7469.19",
+    amount: "7469.19",
   },
   {
     id: 293,
@@ -2634,7 +2634,7 @@ const data = [
     email: "jdalrymple84@ca.gov",
     gender: "Female",
     age: 45,
-    amount: "$5371.10",
+    amount: "5371.10",
   },
   {
     id: 294,
@@ -2643,7 +2643,7 @@ const data = [
     email: "edalgarno85@ft.com",
     gender: "Male",
     age: 42,
-    amount: "$3510.26",
+    amount: "3510.26",
   },
   {
     id: 295,
@@ -2652,7 +2652,7 @@ const data = [
     email: "sdance86@narod.ru",
     gender: "Genderqueer",
     age: 59,
-    amount: "$2033.54",
+    amount: "2033.54",
   },
   {
     id: 296,
@@ -2661,7 +2661,7 @@ const data = [
     email: "cbaise87@bloglovin.com",
     gender: "Male",
     age: 67,
-    amount: "$33.24",
+    amount: "33.24",
   },
   {
     id: 297,
@@ -2670,7 +2670,7 @@ const data = [
     email: "kritmeyer88@pen.io",
     gender: "Male",
     age: 36,
-    amount: "$2021.59",
+    amount: "2021.59",
   },
   {
     id: 298,
@@ -2679,7 +2679,7 @@ const data = [
     email: "gironmonger89@yahoo.com",
     gender: "Female",
     age: 77,
-    amount: "$545.19",
+    amount: "545.19",
   },
   {
     id: 299,
@@ -2688,7 +2688,7 @@ const data = [
     email: "cscarasbrick8a@dailymail.co.uk",
     gender: "Male",
     age: 42,
-    amount: "$5434.39",
+    amount: "5434.39",
   },
   {
     id: 300,
@@ -2697,7 +2697,7 @@ const data = [
     email: "acapini8b@ameblo.jp",
     gender: "Female",
     age: 52,
-    amount: "$2581.27",
+    amount: "2581.27",
   },
   {
     id: 301,
@@ -2706,7 +2706,7 @@ const data = [
     email: "pgabbitas8c@networksolutions.com",
     gender: "Male",
     age: 78,
-    amount: "$2559.13",
+    amount: "2559.13",
   },
   {
     id: 302,
@@ -2715,7 +2715,7 @@ const data = [
     email: "ijeste8d@miitbeian.gov.cn",
     gender: "Female",
     age: 56,
-    amount: "$5109.54",
+    amount: "5109.54",
   },
   {
     id: 303,
@@ -2724,7 +2724,7 @@ const data = [
     email: "bbuzine8e@pbs.org",
     gender: "Male",
     age: 51,
-    amount: "$6749.71",
+    amount: "6749.71",
   },
   {
     id: 304,
@@ -2733,7 +2733,7 @@ const data = [
     email: "wfairbrother8f@squidoo.com",
     gender: "Male",
     age: 16,
-    amount: "$8942.55",
+    amount: "8942.55",
   },
   {
     id: 305,
@@ -2742,7 +2742,7 @@ const data = [
     email: "bwaliszewski8g@bravesites.com",
     gender: "Male",
     age: 34,
-    amount: "$598.85",
+    amount: "598.85",
   },
   {
     id: 306,
@@ -2751,7 +2751,7 @@ const data = [
     email: "mbachura8h@wikispaces.com",
     gender: "Female",
     age: 26,
-    amount: "$1668.11",
+    amount: "1668.11",
   },
   {
     id: 307,
@@ -2760,7 +2760,7 @@ const data = [
     email: "gnunesnabarro8i@cocolog-nifty.com",
     gender: "Female",
     age: 36,
-    amount: "$6629.69",
+    amount: "6629.69",
   },
   {
     id: 308,
@@ -2769,7 +2769,7 @@ const data = [
     email: "rwestmoreland8j@csmonitor.com",
     gender: "Male",
     age: 22,
-    amount: "$6168.07",
+    amount: "6168.07",
   },
   {
     id: 309,
@@ -2778,7 +2778,7 @@ const data = [
     email: "bstrelitzki8k@ning.com",
     gender: "Male",
     age: 71,
-    amount: "$9387.19",
+    amount: "9387.19",
   },
   {
     id: 310,
@@ -2787,7 +2787,7 @@ const data = [
     email: "eedwicker8l@unicef.org",
     gender: "Non-binary",
     age: 22,
-    amount: "$5969.05",
+    amount: "5969.05",
   },
   {
     id: 311,
@@ -2796,7 +2796,7 @@ const data = [
     email: "smacduff8m@yellowpages.com",
     gender: "Male",
     age: 17,
-    amount: "$7980.60",
+    amount: "7980.60",
   },
   {
     id: 312,
@@ -2805,7 +2805,7 @@ const data = [
     email: "bgrundy8n@nymag.com",
     gender: "Female",
     age: 28,
-    amount: "$7190.70",
+    amount: "7190.70",
   },
   {
     id: 313,
@@ -2814,7 +2814,7 @@ const data = [
     email: "jrodinger8o@opera.com",
     gender: "Female",
     age: 61,
-    amount: "$4647.50",
+    amount: "4647.50",
   },
   {
     id: 314,
@@ -2823,7 +2823,7 @@ const data = [
     email: "umossman8p@t-online.de",
     gender: "Female",
     age: 80,
-    amount: "$6958.61",
+    amount: "6958.61",
   },
   {
     id: 315,
@@ -2832,7 +2832,7 @@ const data = [
     email: "wfattori8q@liveinternet.ru",
     gender: "Male",
     age: 59,
-    amount: "$331.75",
+    amount: "331.75",
   },
   {
     id: 316,
@@ -2841,7 +2841,7 @@ const data = [
     email: "lglowinski8r@disqus.com",
     gender: "Male",
     age: 37,
-    amount: "$9722.91",
+    amount: "9722.91",
   },
   {
     id: 317,
@@ -2850,7 +2850,7 @@ const data = [
     email: "dhavock8s@mozilla.com",
     gender: "Female",
     age: 47,
-    amount: "$7757.77",
+    amount: "7757.77",
   },
   {
     id: 318,
@@ -2859,7 +2859,7 @@ const data = [
     email: "rhoy8t@tmall.com",
     gender: "Female",
     age: 62,
-    amount: "$4216.31",
+    amount: "4216.31",
   },
   {
     id: 319,
@@ -2868,7 +2868,7 @@ const data = [
     email: "oblacksell8u@abc.net.au",
     gender: "Male",
     age: 34,
-    amount: "$9279.49",
+    amount: "9279.49",
   },
   {
     id: 320,
@@ -2877,7 +2877,7 @@ const data = [
     email: "ddemange8v@omniture.com",
     gender: "Female",
     age: 67,
-    amount: "$5525.07",
+    amount: "5525.07",
   },
   {
     id: 321,
@@ -2886,7 +2886,7 @@ const data = [
     email: "ahansen8w@csmonitor.com",
     gender: "Female",
     age: 45,
-    amount: "$8255.61",
+    amount: "8255.61",
   },
   {
     id: 322,
@@ -2895,7 +2895,7 @@ const data = [
     email: "nquixley8x@parallels.com",
     gender: "Female",
     age: 21,
-    amount: "$7221.04",
+    amount: "7221.04",
   },
   {
     id: 323,
@@ -2904,7 +2904,7 @@ const data = [
     email: "sbowcher8y@bluehost.com",
     gender: "Male",
     age: 31,
-    amount: "$1928.26",
+    amount: "1928.26",
   },
   {
     id: 324,
@@ -2913,7 +2913,7 @@ const data = [
     email: "rdavidwitz8z@webnode.com",
     gender: "Male",
     age: 77,
-    amount: "$3697.70",
+    amount: "3697.70",
   },
   {
     id: 325,
@@ -2922,7 +2922,7 @@ const data = [
     email: "vhorning90@tripadvisor.com",
     gender: "Female",
     age: 50,
-    amount: "$3789.77",
+    amount: "3789.77",
   },
   {
     id: 326,
@@ -2931,7 +2931,7 @@ const data = [
     email: "flabba91@parallels.com",
     gender: "Male",
     age: 26,
-    amount: "$9217.76",
+    amount: "9217.76",
   },
   {
     id: 327,
@@ -2940,7 +2940,7 @@ const data = [
     email: "cratter92@purevolume.com",
     gender: "Female",
     age: 38,
-    amount: "$5276.96",
+    amount: "5276.96",
   },
   {
     id: 328,
@@ -2949,7 +2949,7 @@ const data = [
     email: "scoddrington93@ebay.com",
     gender: "Male",
     age: 17,
-    amount: "$5629.52",
+    amount: "5629.52",
   },
   {
     id: 329,
@@ -2958,7 +2958,7 @@ const data = [
     email: "pmassy94@uol.com.br",
     gender: "Female",
     age: 23,
-    amount: "$9961.74",
+    amount: "9961.74",
   },
   {
     id: 330,
@@ -2967,7 +2967,7 @@ const data = [
     email: "atowse95@qq.com",
     gender: "Female",
     age: 27,
-    amount: "$3986.36",
+    amount: "3986.36",
   },
   {
     id: 331,
@@ -2976,7 +2976,7 @@ const data = [
     email: "hmacek96@ezinearticles.com",
     gender: "Female",
     age: 54,
-    amount: "$6238.82",
+    amount: "6238.82",
   },
   {
     id: 332,
@@ -2985,7 +2985,7 @@ const data = [
     email: "epomfrey97@topsy.com",
     gender: "Agender",
     age: 64,
-    amount: "$1597.55",
+    amount: "1597.55",
   },
   {
     id: 333,
@@ -2994,7 +2994,7 @@ const data = [
     email: "mleynagh98@weather.com",
     gender: "Non-binary",
     age: 60,
-    amount: "$1529.85",
+    amount: "1529.85",
   },
   {
     id: 334,
@@ -3003,7 +3003,7 @@ const data = [
     email: "lerni99@narod.ru",
     gender: "Male",
     age: 28,
-    amount: "$7786.05",
+    amount: "7786.05",
   },
   {
     id: 335,
@@ -3012,7 +3012,7 @@ const data = [
     email: "marmitage9a@diigo.com",
     gender: "Female",
     age: 59,
-    amount: "$5322.44",
+    amount: "5322.44",
   },
   {
     id: 336,
@@ -3021,7 +3021,7 @@ const data = [
     email: "bloffhead9b@weibo.com",
     gender: "Female",
     age: 34,
-    amount: "$8824.92",
+    amount: "8824.92",
   },
   {
     id: 337,
@@ -3030,7 +3030,7 @@ const data = [
     email: "ckamien9c@printfriendly.com",
     gender: "Male",
     age: 31,
-    amount: "$5391.99",
+    amount: "5391.99",
   },
   {
     id: 338,
@@ -3039,7 +3039,7 @@ const data = [
     email: "wemerson9d@addtoany.com",
     gender: "Female",
     age: 65,
-    amount: "$9608.35",
+    amount: "9608.35",
   },
   {
     id: 339,
@@ -3048,7 +3048,7 @@ const data = [
     email: "gmelbourne9e@flickr.com",
     gender: "Male",
     age: 61,
-    amount: "$1807.82",
+    amount: "1807.82",
   },
   {
     id: 340,
@@ -3057,7 +3057,7 @@ const data = [
     email: "hsier9f@dyndns.org",
     gender: "Male",
     age: 62,
-    amount: "$842.45",
+    amount: "842.45",
   },
   {
     id: 341,
@@ -3066,7 +3066,7 @@ const data = [
     email: "ayandle9g@sciencedirect.com",
     gender: "Female",
     age: 64,
-    amount: "$8375.69",
+    amount: "8375.69",
   },
   {
     id: 342,
@@ -3075,7 +3075,7 @@ const data = [
     email: "eshenfish9h@paginegialle.it",
     gender: "Male",
     age: 49,
-    amount: "$2909.83",
+    amount: "2909.83",
   },
   {
     id: 343,
@@ -3084,7 +3084,7 @@ const data = [
     email: "yocoskerry9i@latimes.com",
     gender: "Male",
     age: 43,
-    amount: "$8910.18",
+    amount: "8910.18",
   },
   {
     id: 344,
@@ -3093,7 +3093,7 @@ const data = [
     email: "bklimpt9j@ask.com",
     gender: "Female",
     age: 53,
-    amount: "$5058.11",
+    amount: "5058.11",
   },
   {
     id: 345,
@@ -3102,7 +3102,7 @@ const data = [
     email: "dullyatt9k@php.net",
     gender: "Male",
     age: 53,
-    amount: "$9888.08",
+    amount: "9888.08",
   },
   {
     id: 346,
@@ -3111,7 +3111,7 @@ const data = [
     email: "mbaraja9l@narod.ru",
     gender: "Female",
     age: 61,
-    amount: "$8557.33",
+    amount: "8557.33",
   },
   {
     id: 347,
@@ -3120,7 +3120,7 @@ const data = [
     email: "svanelli9m@howstuffworks.com",
     gender: "Male",
     age: 71,
-    amount: "$9721.58",
+    amount: "9721.58",
   },
   {
     id: 348,
@@ -3129,7 +3129,7 @@ const data = [
     email: "bdowey9n@privacy.gov.au",
     gender: "Male",
     age: 36,
-    amount: "$54.97",
+    amount: "54.97",
   },
   {
     id: 349,
@@ -3138,7 +3138,7 @@ const data = [
     email: "jstraughan9o@cafepress.com",
     gender: "Male",
     age: 49,
-    amount: "$8468.62",
+    amount: "8468.62",
   },
   {
     id: 350,
@@ -3147,7 +3147,7 @@ const data = [
     email: "nsumpter9p@dailymotion.com",
     gender: "Female",
     age: 67,
-    amount: "$9656.72",
+    amount: "9656.72",
   },
   {
     id: 351,
@@ -3156,7 +3156,7 @@ const data = [
     email: "gszymanek9q@wikipedia.org",
     gender: "Male",
     age: 60,
-    amount: "$338.48",
+    amount: "338.48",
   },
   {
     id: 352,
@@ -3165,7 +3165,7 @@ const data = [
     email: "mbeavers9r@ted.com",
     gender: "Female",
     age: 17,
-    amount: "$8003.98",
+    amount: "8003.98",
   },
   {
     id: 353,
@@ -3174,7 +3174,7 @@ const data = [
     email: "ktick9s@ning.com",
     gender: "Bigender",
     age: 31,
-    amount: "$6049.42",
+    amount: "6049.42",
   },
   {
     id: 354,
@@ -3183,7 +3183,7 @@ const data = [
     email: "ggeertsen9t@wunderground.com",
     gender: "Female",
     age: 54,
-    amount: "$9188.30",
+    amount: "9188.30",
   },
   {
     id: 355,
@@ -3192,7 +3192,7 @@ const data = [
     email: "nbarthrop9u@prnewswire.com",
     gender: "Male",
     age: 21,
-    amount: "$9276.78",
+    amount: "9276.78",
   },
   {
     id: 356,
@@ -3201,7 +3201,7 @@ const data = [
     email: "jduhig9v@cbc.ca",
     gender: "Female",
     age: 50,
-    amount: "$3904.86",
+    amount: "3904.86",
   },
   {
     id: 357,
@@ -3210,7 +3210,7 @@ const data = [
     email: "dminithorpe9w@redcross.org",
     gender: "Female",
     age: 63,
-    amount: "$5838.58",
+    amount: "5838.58",
   },
   {
     id: 358,
@@ -3219,7 +3219,7 @@ const data = [
     email: "esuche9x@walmart.com",
     gender: "Female",
     age: 34,
-    amount: "$215.66",
+    amount: "215.66",
   },
   {
     id: 359,
@@ -3228,7 +3228,7 @@ const data = [
     email: "mmacpharlain9y@fema.gov",
     gender: "Female",
     age: 26,
-    amount: "$7059.72",
+    amount: "7059.72",
   },
   {
     id: 360,
@@ -3237,7 +3237,7 @@ const data = [
     email: "kgiannotti9z@tuttocitta.it",
     gender: "Female",
     age: 53,
-    amount: "$1603.42",
+    amount: "1603.42",
   },
   {
     id: 361,
@@ -3246,7 +3246,7 @@ const data = [
     email: "ocrickmorea0@kickstarter.com",
     gender: "Male",
     age: 66,
-    amount: "$8375.24",
+    amount: "8375.24",
   },
   {
     id: 362,
@@ -3255,7 +3255,7 @@ const data = [
     email: "jgrelaka1@phoca.cz",
     gender: "Male",
     age: 18,
-    amount: "$1068.01",
+    amount: "1068.01",
   },
   {
     id: 363,
@@ -3264,7 +3264,7 @@ const data = [
     email: "mjickellsa2@cbslocal.com",
     gender: "Female",
     age: 74,
-    amount: "$8866.16",
+    amount: "8866.16",
   },
   {
     id: 364,
@@ -3273,7 +3273,7 @@ const data = [
     email: "bdoeya3@msu.edu",
     gender: "Female",
     age: 74,
-    amount: "$1163.28",
+    amount: "1163.28",
   },
   {
     id: 365,
@@ -3282,7 +3282,7 @@ const data = [
     email: "tgrissa4@nps.gov",
     gender: "Female",
     age: 24,
-    amount: "$556.16",
+    amount: "556.16",
   },
   {
     id: 366,
@@ -3291,7 +3291,7 @@ const data = [
     email: "mbamptona5@spotify.com",
     gender: "Female",
     age: 37,
-    amount: "$7073.90",
+    amount: "7073.90",
   },
   {
     id: 367,
@@ -3300,7 +3300,7 @@ const data = [
     email: "egigga6@ox.ac.uk",
     gender: "Male",
     age: 21,
-    amount: "$201.48",
+    amount: "201.48",
   },
   {
     id: 368,
@@ -3309,7 +3309,7 @@ const data = [
     email: "kvennarda7@utexas.edu",
     gender: "Male",
     age: 65,
-    amount: "$7997.42",
+    amount: "7997.42",
   },
   {
     id: 369,
@@ -3318,7 +3318,7 @@ const data = [
     email: "kpaylora8@freewebs.com",
     gender: "Female",
     age: 17,
-    amount: "$7294.63",
+    amount: "7294.63",
   },
   {
     id: 370,
@@ -3327,7 +3327,7 @@ const data = [
     email: "bstollenberga9@un.org",
     gender: "Genderfluid",
     age: 32,
-    amount: "$6254.40",
+    amount: "6254.40",
   },
   {
     id: 371,
@@ -3336,7 +3336,7 @@ const data = [
     email: "jgilmouraa@marriott.com",
     gender: "Male",
     age: 70,
-    amount: "$5039.28",
+    amount: "5039.28",
   },
   {
     id: 372,
@@ -3345,7 +3345,7 @@ const data = [
     email: "babadeab@cnbc.com",
     gender: "Male",
     age: 26,
-    amount: "$5356.60",
+    amount: "5356.60",
   },
   {
     id: 373,
@@ -3354,7 +3354,7 @@ const data = [
     email: "awatsonbrownac@merriam-webster.com",
     gender: "Male",
     age: 59,
-    amount: "$847.72",
+    amount: "847.72",
   },
   {
     id: 374,
@@ -3363,7 +3363,7 @@ const data = [
     email: "afairfoullad@npr.org",
     gender: "Male",
     age: 47,
-    amount: "$662.28",
+    amount: "662.28",
   },
   {
     id: 375,
@@ -3372,7 +3372,7 @@ const data = [
     email: "tcongramae@who.int",
     gender: "Bigender",
     age: 61,
-    amount: "$6341.49",
+    amount: "6341.49",
   },
   {
     id: 376,
@@ -3381,7 +3381,7 @@ const data = [
     email: "spudneyaf@cbslocal.com",
     gender: "Male",
     age: 60,
-    amount: "$732.35",
+    amount: "732.35",
   },
   {
     id: 377,
@@ -3390,7 +3390,7 @@ const data = [
     email: "esimonaitisag@admin.ch",
     gender: "Genderfluid",
     age: 80,
-    amount: "$3812.95",
+    amount: "3812.95",
   },
   {
     id: 378,
@@ -3399,7 +3399,7 @@ const data = [
     email: "ltueah@google.com.br",
     gender: "Male",
     age: 60,
-    amount: "$297.89",
+    amount: "297.89",
   },
   {
     id: 379,
@@ -3408,7 +3408,7 @@ const data = [
     email: "sarchdeaconai@house.gov",
     gender: "Male",
     age: 37,
-    amount: "$7837.18",
+    amount: "7837.18",
   },
   {
     id: 380,
@@ -3417,7 +3417,7 @@ const data = [
     email: "mweatherillaj@technorati.com",
     gender: "Female",
     age: 23,
-    amount: "$732.27",
+    amount: "732.27",
   },
   {
     id: 381,
@@ -3426,7 +3426,7 @@ const data = [
     email: "aboakak@amazon.co.uk",
     gender: "Male",
     age: 19,
-    amount: "$5997.78",
+    amount: "5997.78",
   },
   {
     id: 382,
@@ -3435,7 +3435,7 @@ const data = [
     email: "hgregolettial@amazon.de",
     gender: "Male",
     age: 62,
-    amount: "$1360.62",
+    amount: "1360.62",
   },
   {
     id: 383,
@@ -3444,7 +3444,7 @@ const data = [
     email: "hsimondam@google.ru",
     gender: "Female",
     age: 44,
-    amount: "$2859.17",
+    amount: "2859.17",
   },
   {
     id: 384,
@@ -3453,7 +3453,7 @@ const data = [
     email: "edemetzan@mashable.com",
     gender: "Male",
     age: 32,
-    amount: "$4479.57",
+    amount: "4479.57",
   },
   {
     id: 385,
@@ -3462,7 +3462,7 @@ const data = [
     email: "sthirlwellao@examiner.com",
     gender: "Polygender",
     age: 20,
-    amount: "$9857.61",
+    amount: "9857.61",
   },
   {
     id: 386,
@@ -3471,7 +3471,7 @@ const data = [
     email: "cdacthap@google.ca",
     gender: "Female",
     age: 20,
-    amount: "$7263.68",
+    amount: "7263.68",
   },
   {
     id: 387,
@@ -3480,7 +3480,7 @@ const data = [
     email: "ibissillaq@nytimes.com",
     gender: "Male",
     age: 21,
-    amount: "$9534.66",
+    amount: "9534.66",
   },
   {
     id: 388,
@@ -3489,7 +3489,7 @@ const data = [
     email: "gmaughanar@psu.edu",
     gender: "Male",
     age: 26,
-    amount: "$8063.48",
+    amount: "8063.48",
   },
   {
     id: 389,
@@ -3498,7 +3498,7 @@ const data = [
     email: "cgeorghiouas@nbcnews.com",
     gender: "Female",
     age: 21,
-    amount: "$4111.88",
+    amount: "4111.88",
   },
   {
     id: 390,
@@ -3507,7 +3507,7 @@ const data = [
     email: "tmcevoyat@imgur.com",
     gender: "Female",
     age: 55,
-    amount: "$1191.28",
+    amount: "1191.28",
   },
   {
     id: 391,
@@ -3516,7 +3516,7 @@ const data = [
     email: "kmionau@oakley.com",
     gender: "Male",
     age: 60,
-    amount: "$2236.02",
+    amount: "2236.02",
   },
   {
     id: 392,
@@ -3525,7 +3525,7 @@ const data = [
     email: "adunstanav@sphinn.com",
     gender: "Female",
     age: 37,
-    amount: "$6281.56",
+    amount: "6281.56",
   },
   {
     id: 393,
@@ -3534,7 +3534,7 @@ const data = [
     email: "ehammeraw@elegantthemes.com",
     gender: "Non-binary",
     age: 65,
-    amount: "$6773.46",
+    amount: "6773.46",
   },
   {
     id: 394,
@@ -3543,7 +3543,7 @@ const data = [
     email: "jbeakeax@nifty.com",
     gender: "Male",
     age: 22,
-    amount: "$2418.59",
+    amount: "2418.59",
   },
   {
     id: 395,
@@ -3552,7 +3552,7 @@ const data = [
     email: "dstrottonay@squidoo.com",
     gender: "Male",
     age: 77,
-    amount: "$8616.08",
+    amount: "8616.08",
   },
   {
     id: 396,
@@ -3561,7 +3561,7 @@ const data = [
     email: "gcluesaz@rambler.ru",
     gender: "Female",
     age: 54,
-    amount: "$4864.98",
+    amount: "4864.98",
   },
   {
     id: 397,
@@ -3570,7 +3570,7 @@ const data = [
     email: "sbellayb0@time.com",
     gender: "Female",
     age: 18,
-    amount: "$2673.34",
+    amount: "2673.34",
   },
   {
     id: 398,
@@ -3579,7 +3579,7 @@ const data = [
     email: "nvanderdaalb1@toplist.cz",
     gender: "Female",
     age: 24,
-    amount: "$4999.08",
+    amount: "4999.08",
   },
   {
     id: 399,
@@ -3588,7 +3588,7 @@ const data = [
     email: "icristofvaob2@kickstarter.com",
     gender: "Female",
     age: 32,
-    amount: "$9465.66",
+    amount: "9465.66",
   },
   {
     id: 400,
@@ -3597,7 +3597,7 @@ const data = [
     email: "lboustredb3@nifty.com",
     gender: "Female",
     age: 16,
-    amount: "$101.98",
+    amount: "101.98",
   },
   {
     id: 401,
@@ -3606,7 +3606,7 @@ const data = [
     email: "saxtensb4@ucla.edu",
     gender: "Male",
     age: 67,
-    amount: "$9661.06",
+    amount: "9661.06",
   },
   {
     id: 402,
@@ -3615,7 +3615,7 @@ const data = [
     email: "mvanstoneb5@icio.us",
     gender: "Female",
     age: 69,
-    amount: "$2472.95",
+    amount: "2472.95",
   },
   {
     id: 403,
@@ -3624,7 +3624,7 @@ const data = [
     email: "nblackleechb6@ifeng.com",
     gender: "Female",
     age: 61,
-    amount: "$8375.15",
+    amount: "8375.15",
   },
   {
     id: 404,
@@ -3633,7 +3633,7 @@ const data = [
     email: "mcoardb7@theguardian.com",
     gender: "Male",
     age: 52,
-    amount: "$720.53",
+    amount: "720.53",
   },
   {
     id: 405,
@@ -3642,7 +3642,7 @@ const data = [
     email: "thowgillb8@addthis.com",
     gender: "Male",
     age: 28,
-    amount: "$3504.21",
+    amount: "3504.21",
   },
   {
     id: 406,
@@ -3651,7 +3651,7 @@ const data = [
     email: "bhaynesfordb9@cnet.com",
     gender: "Male",
     age: 32,
-    amount: "$454.85",
+    amount: "454.85",
   },
   {
     id: 407,
@@ -3660,7 +3660,7 @@ const data = [
     email: "lsivellba@stanford.edu",
     gender: "Bigender",
     age: 66,
-    amount: "$2207.83",
+    amount: "2207.83",
   },
   {
     id: 408,
@@ -3669,7 +3669,7 @@ const data = [
     email: "odaishbb@soup.io",
     gender: "Female",
     age: 69,
-    amount: "$4152.67",
+    amount: "4152.67",
   },
   {
     id: 409,
@@ -3678,7 +3678,7 @@ const data = [
     email: "lchardinbc@skype.com",
     gender: "Female",
     age: 16,
-    amount: "$6281.24",
+    amount: "6281.24",
   },
   {
     id: 410,
@@ -3687,7 +3687,7 @@ const data = [
     email: "tchallisbd@patch.com",
     gender: "Male",
     age: 79,
-    amount: "$1174.77",
+    amount: "1174.77",
   },
   {
     id: 411,
@@ -3696,7 +3696,7 @@ const data = [
     email: "hswindlesbe@mtv.com",
     gender: "Male",
     age: 31,
-    amount: "$8678.64",
+    amount: "8678.64",
   },
   {
     id: 412,
@@ -3705,7 +3705,7 @@ const data = [
     email: "aearrybf@discuz.net",
     gender: "Female",
     age: 64,
-    amount: "$8779.81",
+    amount: "8779.81",
   },
   {
     id: 413,
@@ -3714,7 +3714,7 @@ const data = [
     email: "oscreetonbg@bigcartel.com",
     gender: "Male",
     age: 49,
-    amount: "$319.22",
+    amount: "319.22",
   },
   {
     id: 414,
@@ -3723,7 +3723,7 @@ const data = [
     email: "kfuentesbh@un.org",
     gender: "Female",
     age: 79,
-    amount: "$8010.18",
+    amount: "8010.18",
   },
   {
     id: 415,
@@ -3732,7 +3732,7 @@ const data = [
     email: "btomkiesbi@cbc.ca",
     gender: "Female",
     age: 32,
-    amount: "$510.02",
+    amount: "510.02",
   },
   {
     id: 416,
@@ -3741,7 +3741,7 @@ const data = [
     email: "fmapledoorebj@sphinn.com",
     gender: "Female",
     age: 63,
-    amount: "$1403.24",
+    amount: "1403.24",
   },
   {
     id: 417,
@@ -3750,7 +3750,7 @@ const data = [
     email: "vpaolinobk@cnn.com",
     gender: "Female",
     age: 23,
-    amount: "$224.69",
+    amount: "224.69",
   },
   {
     id: 418,
@@ -3759,7 +3759,7 @@ const data = [
     email: "iguillotbl@addtoany.com",
     gender: "Female",
     age: 30,
-    amount: "$1922.94",
+    amount: "1922.94",
   },
   {
     id: 419,
@@ -3768,7 +3768,7 @@ const data = [
     email: "hpaverbm@bloglines.com",
     gender: "Male",
     age: 73,
-    amount: "$455.12",
+    amount: "455.12",
   },
   {
     id: 420,
@@ -3777,7 +3777,7 @@ const data = [
     email: "rclericoatesbn@yahoo.com",
     gender: "Male",
     age: 80,
-    amount: "$1282.29",
+    amount: "1282.29",
   },
   {
     id: 421,
@@ -3786,7 +3786,7 @@ const data = [
     email: "yzoanettibo@rambler.ru",
     gender: "Male",
     age: 69,
-    amount: "$4366.58",
+    amount: "4366.58",
   },
   {
     id: 422,
@@ -3795,7 +3795,7 @@ const data = [
     email: "mlampbrechtbp@tmall.com",
     gender: "Female",
     age: 31,
-    amount: "$4135.43",
+    amount: "4135.43",
   },
   {
     id: 423,
@@ -3804,7 +3804,7 @@ const data = [
     email: "wshinnbq@timesonline.co.uk",
     gender: "Male",
     age: 76,
-    amount: "$2094.93",
+    amount: "2094.93",
   },
   {
     id: 424,
@@ -3813,7 +3813,7 @@ const data = [
     email: "edanelsbr@naver.com",
     gender: "Male",
     age: 42,
-    amount: "$1504.91",
+    amount: "1504.91",
   },
   {
     id: 425,
@@ -3822,7 +3822,7 @@ const data = [
     email: "gbroskebs@nasa.gov",
     gender: "Polygender",
     age: 16,
-    amount: "$3438.25",
+    amount: "3438.25",
   },
   {
     id: 426,
@@ -3831,7 +3831,7 @@ const data = [
     email: "mvaissierebt@dion.ne.jp",
     gender: "Female",
     age: 60,
-    amount: "$7488.24",
+    amount: "7488.24",
   },
   {
     id: 427,
@@ -3840,7 +3840,7 @@ const data = [
     email: "brojbu@comcast.net",
     gender: "Female",
     age: 53,
-    amount: "$7558.85",
+    amount: "7558.85",
   },
   {
     id: 428,
@@ -3849,7 +3849,7 @@ const data = [
     email: "ttiltmanbv@instagram.com",
     gender: "Female",
     age: 42,
-    amount: "$1751.89",
+    amount: "1751.89",
   },
   {
     id: 429,
@@ -3858,7 +3858,7 @@ const data = [
     email: "hhlavacbw@alexa.com",
     gender: "Non-binary",
     age: 48,
-    amount: "$7601.31",
+    amount: "7601.31",
   },
   {
     id: 430,
@@ -3867,7 +3867,7 @@ const data = [
     email: "hrosabx@naver.com",
     gender: "Male",
     age: 79,
-    amount: "$1754.69",
+    amount: "1754.69",
   },
   {
     id: 431,
@@ -3876,7 +3876,7 @@ const data = [
     email: "bcheccucciby@fc2.com",
     gender: "Male",
     age: 40,
-    amount: "$7950.98",
+    amount: "7950.98",
   },
   {
     id: 432,
@@ -3885,7 +3885,7 @@ const data = [
     email: "hsatcherbz@barnesandnoble.com",
     gender: "Male",
     age: 54,
-    amount: "$5747.13",
+    amount: "5747.13",
   },
   {
     id: 433,
@@ -3894,7 +3894,7 @@ const data = [
     email: "cborrowc0@instagram.com",
     gender: "Female",
     age: 60,
-    amount: "$4059.56",
+    amount: "4059.56",
   },
   {
     id: 434,
@@ -3903,7 +3903,7 @@ const data = [
     email: "wshelbournec1@amazon.co.jp",
     gender: "Polygender",
     age: 58,
-    amount: "$9164.56",
+    amount: "9164.56",
   },
   {
     id: 435,
@@ -3912,7 +3912,7 @@ const data = [
     email: "mpailc2@acquirethisname.com",
     gender: "Female",
     age: 18,
-    amount: "$2985.67",
+    amount: "2985.67",
   },
   {
     id: 436,
@@ -3921,7 +3921,7 @@ const data = [
     email: "fhurichc3@stanford.edu",
     gender: "Male",
     age: 20,
-    amount: "$616.19",
+    amount: "616.19",
   },
   {
     id: 437,
@@ -3930,7 +3930,7 @@ const data = [
     email: "adominic4@unc.edu",
     gender: "Female",
     age: 55,
-    amount: "$4650.00",
+    amount: "4650.00",
   },
   {
     id: 438,
@@ -3939,7 +3939,7 @@ const data = [
     email: "bthorbonc5@buzzfeed.com",
     gender: "Agender",
     age: 56,
-    amount: "$2227.48",
+    amount: "2227.48",
   },
   {
     id: 439,
@@ -3948,7 +3948,7 @@ const data = [
     email: "tdaviesc6@skyrock.com",
     gender: "Male",
     age: 49,
-    amount: "$1756.51",
+    amount: "1756.51",
   },
   {
     id: 440,
@@ -3957,7 +3957,7 @@ const data = [
     email: "olongbothomc7@phoca.cz",
     gender: "Bigender",
     age: 45,
-    amount: "$8519.15",
+    amount: "8519.15",
   },
   {
     id: 441,
@@ -3966,7 +3966,7 @@ const data = [
     email: "hmitchesonc8@accuweather.com",
     gender: "Male",
     age: 16,
-    amount: "$2218.89",
+    amount: "2218.89",
   },
   {
     id: 442,
@@ -3975,7 +3975,7 @@ const data = [
     email: "adamiralc9@google.fr",
     gender: "Male",
     age: 42,
-    amount: "$1378.29",
+    amount: "1378.29",
   },
   {
     id: 443,
@@ -3984,7 +3984,7 @@ const data = [
     email: "gmontgomeryca@scribd.com",
     gender: "Female",
     age: 55,
-    amount: "$8308.34",
+    amount: "8308.34",
   },
   {
     id: 444,
@@ -3993,7 +3993,7 @@ const data = [
     email: "fbiaggiolicb@fema.gov",
     gender: "Female",
     age: 51,
-    amount: "$2652.33",
+    amount: "2652.33",
   },
   {
     id: 445,
@@ -4002,7 +4002,7 @@ const data = [
     email: "imaingotcc@ftc.gov",
     gender: "Male",
     age: 77,
-    amount: "$9638.77",
+    amount: "9638.77",
   },
   {
     id: 446,
@@ -4011,7 +4011,7 @@ const data = [
     email: "pravenscraftcd@army.mil",
     gender: "Male",
     age: 75,
-    amount: "$1225.13",
+    amount: "1225.13",
   },
   {
     id: 447,
@@ -4020,7 +4020,7 @@ const data = [
     email: "gyushkince@sourceforge.net",
     gender: "Male",
     age: 31,
-    amount: "$4472.12",
+    amount: "4472.12",
   },
   {
     id: 448,
@@ -4029,7 +4029,7 @@ const data = [
     email: "oroblettcf@army.mil",
     gender: "Female",
     age: 78,
-    amount: "$9304.12",
+    amount: "9304.12",
   },
   {
     id: 449,
@@ -4038,7 +4038,7 @@ const data = [
     email: "ekirimaacg@wikia.com",
     gender: "Non-binary",
     age: 28,
-    amount: "$326.51",
+    amount: "326.51",
   },
   {
     id: 450,
@@ -4047,7 +4047,7 @@ const data = [
     email: "tjereattch@pen.io",
     gender: "Male",
     age: 32,
-    amount: "$9692.93",
+    amount: "9692.93",
   },
   {
     id: 451,
@@ -4056,7 +4056,7 @@ const data = [
     email: "abristoci@vimeo.com",
     gender: "Female",
     age: 69,
-    amount: "$1077.44",
+    amount: "1077.44",
   },
   {
     id: 452,
@@ -4065,7 +4065,7 @@ const data = [
     email: "shartlesscj@discuz.net",
     gender: "Male",
     age: 16,
-    amount: "$726.21",
+    amount: "726.21",
   },
   {
     id: 453,
@@ -4074,7 +4074,7 @@ const data = [
     email: "dwallbridgeck@unesco.org",
     gender: "Male",
     age: 79,
-    amount: "$6972.07",
+    amount: "6972.07",
   },
   {
     id: 454,
@@ -4083,7 +4083,7 @@ const data = [
     email: "nfarnabycl@ycombinator.com",
     gender: "Male",
     age: 36,
-    amount: "$9584.12",
+    amount: "9584.12",
   },
   {
     id: 455,
@@ -4092,7 +4092,7 @@ const data = [
     email: "icallandercm@marriott.com",
     gender: "Male",
     age: 55,
-    amount: "$8775.12",
+    amount: "8775.12",
   },
   {
     id: 456,
@@ -4101,7 +4101,7 @@ const data = [
     email: "uantonognolicn@statcounter.com",
     gender: "Male",
     age: 27,
-    amount: "$1368.50",
+    amount: "1368.50",
   },
   {
     id: 457,
@@ -4110,7 +4110,7 @@ const data = [
     email: "mplesterco@cbsnews.com",
     gender: "Male",
     age: 54,
-    amount: "$6906.14",
+    amount: "6906.14",
   },
   {
     id: 458,
@@ -4119,7 +4119,7 @@ const data = [
     email: "ptschiersecp@fda.gov",
     gender: "Male",
     age: 52,
-    amount: "$4134.04",
+    amount: "4134.04",
   },
   {
     id: 459,
@@ -4128,7 +4128,7 @@ const data = [
     email: "gspadellicq@networksolutions.com",
     gender: "Male",
     age: 26,
-    amount: "$5826.24",
+    amount: "5826.24",
   },
   {
     id: 460,
@@ -4137,7 +4137,7 @@ const data = [
     email: "dlefranccr@xrea.com",
     gender: "Female",
     age: 53,
-    amount: "$8293.90",
+    amount: "8293.90",
   },
   {
     id: 461,
@@ -4146,7 +4146,7 @@ const data = [
     email: "gduerdencs@ocn.ne.jp",
     gender: "Male",
     age: 33,
-    amount: "$6281.61",
+    amount: "6281.61",
   },
   {
     id: 462,
@@ -4155,7 +4155,7 @@ const data = [
     email: "vmesiasct@shinystat.com",
     gender: "Female",
     age: 68,
-    amount: "$7342.72",
+    amount: "7342.72",
   },
   {
     id: 463,
@@ -4164,7 +4164,7 @@ const data = [
     email: "sissacofcu@is.gd",
     gender: "Male",
     age: 79,
-    amount: "$8754.57",
+    amount: "8754.57",
   },
   {
     id: 464,
@@ -4173,7 +4173,7 @@ const data = [
     email: "cbockingcv@jigsy.com",
     gender: "Female",
     age: 33,
-    amount: "$176.78",
+    amount: "176.78",
   },
   {
     id: 465,
@@ -4182,7 +4182,7 @@ const data = [
     email: "awintoncw@acquirethisname.com",
     gender: "Female",
     age: 19,
-    amount: "$2756.58",
+    amount: "2756.58",
   },
   {
     id: 466,
@@ -4191,7 +4191,7 @@ const data = [
     email: "bfitzhenrycx@sun.com",
     gender: "Male",
     age: 64,
-    amount: "$845.31",
+    amount: "845.31",
   },
   {
     id: 467,
@@ -4200,7 +4200,7 @@ const data = [
     email: "bmcamishcy@themeforest.net",
     gender: "Male",
     age: 49,
-    amount: "$5872.28",
+    amount: "5872.28",
   },
   {
     id: 468,
@@ -4209,7 +4209,7 @@ const data = [
     email: "swalakcz@fotki.com",
     gender: "Female",
     age: 23,
-    amount: "$4443.09",
+    amount: "4443.09",
   },
   {
     id: 469,
@@ -4218,7 +4218,7 @@ const data = [
     email: "mwheelikerd0@tmall.com",
     gender: "Female",
     age: 57,
-    amount: "$8840.40",
+    amount: "8840.40",
   },
   {
     id: 470,
@@ -4227,7 +4227,7 @@ const data = [
     email: "eturbilld1@microsoft.com",
     gender: "Female",
     age: 43,
-    amount: "$7922.04",
+    amount: "7922.04",
   },
   {
     id: 471,
@@ -4236,7 +4236,7 @@ const data = [
     email: "kwinsladed2@360.cn",
     gender: "Male",
     age: 31,
-    amount: "$2817.19",
+    amount: "2817.19",
   },
   {
     id: 472,
@@ -4245,7 +4245,7 @@ const data = [
     email: "slanfeard3@twitpic.com",
     gender: "Male",
     age: 43,
-    amount: "$680.83",
+    amount: "680.83",
   },
   {
     id: 473,
@@ -4254,7 +4254,7 @@ const data = [
     email: "atummasuttid4@nsw.gov.au",
     gender: "Male",
     age: 27,
-    amount: "$3109.32",
+    amount: "3109.32",
   },
   {
     id: 474,
@@ -4263,7 +4263,7 @@ const data = [
     email: "pdowntond5@wordpress.com",
     gender: "Agender",
     age: 53,
-    amount: "$2164.49",
+    amount: "2164.49",
   },
   {
     id: 475,
@@ -4272,7 +4272,7 @@ const data = [
     email: "ghaggied6@fda.gov",
     gender: "Female",
     age: 63,
-    amount: "$8207.42",
+    amount: "8207.42",
   },
   {
     id: 476,
@@ -4281,7 +4281,7 @@ const data = [
     email: "hrichfieldd7@diigo.com",
     gender: "Genderqueer",
     age: 36,
-    amount: "$6978.58",
+    amount: "6978.58",
   },
   {
     id: 477,
@@ -4290,7 +4290,7 @@ const data = [
     email: "blaughrend8@zimbio.com",
     gender: "Male",
     age: 66,
-    amount: "$7810.41",
+    amount: "7810.41",
   },
   {
     id: 478,
@@ -4299,7 +4299,7 @@ const data = [
     email: "acarcasd9@yellowbook.com",
     gender: "Female",
     age: 52,
-    amount: "$9108.50",
+    amount: "9108.50",
   },
   {
     id: 479,
@@ -4308,7 +4308,7 @@ const data = [
     email: "wtennisonda@timesonline.co.uk",
     gender: "Male",
     age: 27,
-    amount: "$4862.75",
+    amount: "4862.75",
   },
   {
     id: 480,
@@ -4317,7 +4317,7 @@ const data = [
     email: "fhaxelldb@answers.com",
     gender: "Male",
     age: 18,
-    amount: "$8266.31",
+    amount: "8266.31",
   },
   {
     id: 481,
@@ -4326,7 +4326,7 @@ const data = [
     email: "mmacmoyerdc@lulu.com",
     gender: "Female",
     age: 49,
-    amount: "$7792.96",
+    amount: "7792.96",
   },
   {
     id: 482,
@@ -4335,7 +4335,7 @@ const data = [
     email: "tbaignarddd@plala.or.jp",
     gender: "Non-binary",
     age: 56,
-    amount: "$9925.27",
+    amount: "9925.27",
   },
   {
     id: 483,
@@ -4344,7 +4344,7 @@ const data = [
     email: "lheffernonde@pcworld.com",
     gender: "Female",
     age: 35,
-    amount: "$3816.73",
+    amount: "3816.73",
   },
   {
     id: 484,
@@ -4353,7 +4353,7 @@ const data = [
     email: "opresnelldf@salon.com",
     gender: "Female",
     age: 80,
-    amount: "$6088.33",
+    amount: "6088.33",
   },
   {
     id: 485,
@@ -4362,7 +4362,7 @@ const data = [
     email: "cbueydg@umich.edu",
     gender: "Female",
     age: 21,
-    amount: "$985.90",
+    amount: "985.90",
   },
   {
     id: 486,
@@ -4371,7 +4371,7 @@ const data = [
     email: "mringselldh@ihg.com",
     gender: "Male",
     age: 62,
-    amount: "$844.50",
+    amount: "844.50",
   },
   {
     id: 487,
@@ -4380,7 +4380,7 @@ const data = [
     email: "kbestimandi@histats.com",
     gender: "Female",
     age: 60,
-    amount: "$1116.83",
+    amount: "1116.83",
   },
   {
     id: 488,
@@ -4389,7 +4389,7 @@ const data = [
     email: "cingarfielddj@ebay.co.uk",
     gender: "Female",
     age: 50,
-    amount: "$8929.92",
+    amount: "8929.92",
   },
   {
     id: 489,
@@ -4398,7 +4398,7 @@ const data = [
     email: "candresdk@ucoz.com",
     gender: "Female",
     age: 48,
-    amount: "$1000.59",
+    amount: "1000.59",
   },
   {
     id: 490,
@@ -4407,7 +4407,7 @@ const data = [
     email: "stoderbruggedl@hao123.com",
     gender: "Male",
     age: 63,
-    amount: "$1502.71",
+    amount: "1502.71",
   },
   {
     id: 491,
@@ -4416,7 +4416,7 @@ const data = [
     email: "ctuleydm@dot.gov",
     gender: "Female",
     age: 49,
-    amount: "$6502.67",
+    amount: "6502.67",
   },
   {
     id: 492,
@@ -4425,7 +4425,7 @@ const data = [
     email: "rshanleydn@ehow.com",
     gender: "Female",
     age: 74,
-    amount: "$1162.11",
+    amount: "1162.11",
   },
   {
     id: 493,
@@ -4434,7 +4434,7 @@ const data = [
     email: "ewinstonedo@hubpages.com",
     gender: "Male",
     age: 38,
-    amount: "$1606.76",
+    amount: "1606.76",
   },
   {
     id: 494,
@@ -4443,7 +4443,7 @@ const data = [
     email: "lwickhamdp@dropbox.com",
     gender: "Bigender",
     age: 49,
-    amount: "$6165.68",
+    amount: "6165.68",
   },
   {
     id: 495,
@@ -4452,7 +4452,7 @@ const data = [
     email: "tbutterfielddq@wikispaces.com",
     gender: "Female",
     age: 74,
-    amount: "$1315.55",
+    amount: "1315.55",
   },
   {
     id: 496,
@@ -4461,7 +4461,7 @@ const data = [
     email: "lharriesdr@i2i.jp",
     gender: "Male",
     age: 79,
-    amount: "$5036.22",
+    amount: "5036.22",
   },
   {
     id: 497,
@@ -4470,7 +4470,7 @@ const data = [
     email: "skettlesds@mtv.com",
     gender: "Male",
     age: 41,
-    amount: "$4742.60",
+    amount: "4742.60",
   },
   {
     id: 498,
@@ -4479,7 +4479,7 @@ const data = [
     email: "fwhettletondt@dropbox.com",
     gender: "Male",
     age: 80,
-    amount: "$1040.61",
+    amount: "1040.61",
   },
   {
     id: 499,
@@ -4488,7 +4488,7 @@ const data = [
     email: "drichardondu@themeforest.net",
     gender: "Male",
     age: 59,
-    amount: "$2245.72",
+    amount: "2245.72",
   },
   {
     id: 500,
@@ -4497,7 +4497,7 @@ const data = [
     email: "sbegbiedv@ucoz.ru",
     gender: "Female",
     age: 70,
-    amount: "$7392.88",
+    amount: "7392.88",
   },
   {
     id: 501,
@@ -4506,7 +4506,7 @@ const data = [
     email: "lkiliusdw@intel.com",
     gender: "Female",
     age: 60,
-    amount: "$8912.34",
+    amount: "8912.34",
   },
   {
     id: 502,
@@ -4515,7 +4515,7 @@ const data = [
     email: "bpaigedx@fema.gov",
     gender: "Female",
     age: 28,
-    amount: "$8112.97",
+    amount: "8112.97",
   },
   {
     id: 503,
@@ -4524,7 +4524,7 @@ const data = [
     email: "rloberdy@gmpg.org",
     gender: "Female",
     age: 59,
-    amount: "$6273.88",
+    amount: "6273.88",
   },
   {
     id: 504,
@@ -4533,7 +4533,7 @@ const data = [
     email: "cawtydz@a8.net",
     gender: "Female",
     age: 22,
-    amount: "$2632.06",
+    amount: "2632.06",
   },
   {
     id: 505,
@@ -4542,7 +4542,7 @@ const data = [
     email: "tstaileye0@sfgate.com",
     gender: "Agender",
     age: 27,
-    amount: "$2906.73",
+    amount: "2906.73",
   },
   {
     id: 506,
@@ -4551,7 +4551,7 @@ const data = [
     email: "imathewe1@mozilla.org",
     gender: "Male",
     age: 33,
-    amount: "$1448.62",
+    amount: "1448.62",
   },
   {
     id: 507,
@@ -4560,7 +4560,7 @@ const data = [
     email: "bshipstone2@hibu.com",
     gender: "Male",
     age: 40,
-    amount: "$894.19",
+    amount: "894.19",
   },
   {
     id: 508,
@@ -4569,7 +4569,7 @@ const data = [
     email: "fmeatchere3@toplist.cz",
     gender: "Male",
     age: 68,
-    amount: "$235.06",
+    amount: "235.06",
   },
   {
     id: 509,
@@ -4578,7 +4578,7 @@ const data = [
     email: "jmeekee4@sun.com",
     gender: "Bigender",
     age: 32,
-    amount: "$7105.73",
+    amount: "7105.73",
   },
   {
     id: 510,
@@ -4587,7 +4587,7 @@ const data = [
     email: "dblaire5@linkedin.com",
     gender: "Male",
     age: 53,
-    amount: "$4158.25",
+    amount: "4158.25",
   },
   {
     id: 511,
@@ -4596,7 +4596,7 @@ const data = [
     email: "mchavee6@addtoany.com",
     gender: "Male",
     age: 29,
-    amount: "$4597.34",
+    amount: "4597.34",
   },
   {
     id: 512,
@@ -4605,7 +4605,7 @@ const data = [
     email: "zganiforde7@studiopress.com",
     gender: "Male",
     age: 24,
-    amount: "$1604.16",
+    amount: "1604.16",
   },
   {
     id: 513,
@@ -4614,7 +4614,7 @@ const data = [
     email: "owilkisone8@prlog.org",
     gender: "Female",
     age: 69,
-    amount: "$3491.88",
+    amount: "3491.88",
   },
   {
     id: 514,
@@ -4623,7 +4623,7 @@ const data = [
     email: "enurdene9@state.gov",
     gender: "Male",
     age: 41,
-    amount: "$7024.92",
+    amount: "7024.92",
   },
   {
     id: 515,
@@ -4632,7 +4632,7 @@ const data = [
     email: "lrushforthea@mit.edu",
     gender: "Male",
     age: 36,
-    amount: "$5924.81",
+    amount: "5924.81",
   },
   {
     id: 516,
@@ -4641,7 +4641,7 @@ const data = [
     email: "rhaibeleb@shinystat.com",
     gender: "Female",
     age: 28,
-    amount: "$1760.02",
+    amount: "1760.02",
   },
   {
     id: 517,
@@ -4650,7 +4650,7 @@ const data = [
     email: "hparkinsec@w3.org",
     gender: "Male",
     age: 20,
-    amount: "$5874.67",
+    amount: "5874.67",
   },
   {
     id: 518,
@@ -4659,7 +4659,7 @@ const data = [
     email: "escandrooted@w3.org",
     gender: "Female",
     age: 20,
-    amount: "$4473.53",
+    amount: "4473.53",
   },
   {
     id: 519,
@@ -4668,7 +4668,7 @@ const data = [
     email: "whallmarkee@cnn.com",
     gender: "Male",
     age: 31,
-    amount: "$4828.14",
+    amount: "4828.14",
   },
   {
     id: 520,
@@ -4677,7 +4677,7 @@ const data = [
     email: "bbenedttief@sfgate.com",
     gender: "Female",
     age: 58,
-    amount: "$426.95",
+    amount: "426.95",
   },
   {
     id: 521,
@@ -4686,7 +4686,7 @@ const data = [
     email: "pbuyerseg@rakuten.co.jp",
     gender: "Female",
     age: 34,
-    amount: "$6149.79",
+    amount: "6149.79",
   },
   {
     id: 522,
@@ -4695,7 +4695,7 @@ const data = [
     email: "srowcastleeh@bigcartel.com",
     gender: "Male",
     age: 36,
-    amount: "$4708.69",
+    amount: "4708.69",
   },
   {
     id: 523,
@@ -4704,7 +4704,7 @@ const data = [
     email: "lmattisssenei@people.com.cn",
     gender: "Female",
     age: 56,
-    amount: "$2780.45",
+    amount: "2780.45",
   },
   {
     id: 524,
@@ -4713,7 +4713,7 @@ const data = [
     email: "greamej@comsenz.com",
     gender: "Male",
     age: 80,
-    amount: "$8899.46",
+    amount: "8899.46",
   },
   {
     id: 525,
@@ -4722,7 +4722,7 @@ const data = [
     email: "prosenhausek@netscape.com",
     gender: "Male",
     age: 52,
-    amount: "$1421.01",
+    amount: "1421.01",
   },
   {
     id: 526,
@@ -4731,7 +4731,7 @@ const data = [
     email: "skerraneel@over-blog.com",
     gender: "Male",
     age: 25,
-    amount: "$9433.92",
+    amount: "9433.92",
   },
   {
     id: 527,
@@ -4740,7 +4740,7 @@ const data = [
     email: "emolineem@marriott.com",
     gender: "Male",
     age: 73,
-    amount: "$9164.97",
+    amount: "9164.97",
   },
   {
     id: 528,
@@ -4749,7 +4749,7 @@ const data = [
     email: "jyarren@jimdo.com",
     gender: "Female",
     age: 22,
-    amount: "$4783.80",
+    amount: "4783.80",
   },
   {
     id: 529,
@@ -4758,7 +4758,7 @@ const data = [
     email: "rmergueeo@sogou.com",
     gender: "Female",
     age: 61,
-    amount: "$8093.29",
+    amount: "8093.29",
   },
   {
     id: 530,
@@ -4767,7 +4767,7 @@ const data = [
     email: "fdameiseleep@dmoz.org",
     gender: "Male",
     age: 75,
-    amount: "$6845.33",
+    amount: "6845.33",
   },
   {
     id: 531,
@@ -4776,7 +4776,7 @@ const data = [
     email: "rpfaffeeq@home.pl",
     gender: "Female",
     age: 21,
-    amount: "$6755.29",
+    amount: "6755.29",
   },
   {
     id: 532,
@@ -4785,7 +4785,7 @@ const data = [
     email: "regarrer@columbia.edu",
     gender: "Male",
     age: 47,
-    amount: "$8960.56",
+    amount: "8960.56",
   },
   {
     id: 533,
@@ -4794,7 +4794,7 @@ const data = [
     email: "ldoddemeedees@columbia.edu",
     gender: "Female",
     age: 45,
-    amount: "$7584.30",
+    amount: "7584.30",
   },
   {
     id: 534,
@@ -4803,7 +4803,7 @@ const data = [
     email: "mnewtownet@multiply.com",
     gender: "Female",
     age: 28,
-    amount: "$1476.19",
+    amount: "1476.19",
   },
   {
     id: 535,
@@ -4812,7 +4812,7 @@ const data = [
     email: "srousselleu@unc.edu",
     gender: "Non-binary",
     age: 58,
-    amount: "$5718.22",
+    amount: "5718.22",
   },
   {
     id: 536,
@@ -4821,7 +4821,7 @@ const data = [
     email: "cfortounev@exblog.jp",
     gender: "Female",
     age: 43,
-    amount: "$5723.87",
+    amount: "5723.87",
   },
   {
     id: 537,
@@ -4830,7 +4830,7 @@ const data = [
     email: "cstanderingew@last.fm",
     gender: "Polygender",
     age: 62,
-    amount: "$1882.37",
+    amount: "1882.37",
   },
   {
     id: 538,
@@ -4839,7 +4839,7 @@ const data = [
     email: "hhacquelex@cafepress.com",
     gender: "Male",
     age: 63,
-    amount: "$9905.94",
+    amount: "9905.94",
   },
   {
     id: 539,
@@ -4848,7 +4848,7 @@ const data = [
     email: "stolomioey@lycos.com",
     gender: "Non-binary",
     age: 22,
-    amount: "$9871.75",
+    amount: "9871.75",
   },
   {
     id: 540,
@@ -4857,7 +4857,7 @@ const data = [
     email: "kbatmanez@dot.gov",
     gender: "Female",
     age: 59,
-    amount: "$6970.53",
+    amount: "6970.53",
   },
   {
     id: 541,
@@ -4866,7 +4866,7 @@ const data = [
     email: "cockleshawf0@nytimes.com",
     gender: "Male",
     age: 54,
-    amount: "$5543.36",
+    amount: "5543.36",
   },
   {
     id: 542,
@@ -4875,7 +4875,7 @@ const data = [
     email: "cvamplusf1@surveymonkey.com",
     gender: "Male",
     age: 50,
-    amount: "$9034.22",
+    amount: "9034.22",
   },
   {
     id: 543,
@@ -4884,7 +4884,7 @@ const data = [
     email: "kweedonf2@businesswire.com",
     gender: "Male",
     age: 75,
-    amount: "$2540.10",
+    amount: "2540.10",
   },
   {
     id: 544,
@@ -4893,7 +4893,7 @@ const data = [
     email: "nraglessf3@tinypic.com",
     gender: "Male",
     age: 47,
-    amount: "$6459.20",
+    amount: "6459.20",
   },
   {
     id: 545,
@@ -4902,7 +4902,7 @@ const data = [
     email: "aoscullyf4@ycombinator.com",
     gender: "Male",
     age: 31,
-    amount: "$8271.71",
+    amount: "8271.71",
   },
   {
     id: 546,
@@ -4911,7 +4911,7 @@ const data = [
     email: "cguisof5@oaic.gov.au",
     gender: "Female",
     age: 75,
-    amount: "$8725.63",
+    amount: "8725.63",
   },
   {
     id: 547,
@@ -4920,7 +4920,7 @@ const data = [
     email: "gbalcersf6@dedecms.com",
     gender: "Male",
     age: 53,
-    amount: "$6047.85",
+    amount: "6047.85",
   },
   {
     id: 548,
@@ -4929,7 +4929,7 @@ const data = [
     email: "fmoresbyf7@noaa.gov",
     gender: "Male",
     age: 25,
-    amount: "$5648.77",
+    amount: "5648.77",
   },
   {
     id: 549,
@@ -4938,7 +4938,7 @@ const data = [
     email: "rbothef8@hc360.com",
     gender: "Female",
     age: 52,
-    amount: "$2051.56",
+    amount: "2051.56",
   },
   {
     id: 550,
@@ -4947,7 +4947,7 @@ const data = [
     email: "scosensf9@marketwatch.com",
     gender: "Female",
     age: 42,
-    amount: "$9442.62",
+    amount: "9442.62",
   },
   {
     id: 551,
@@ -4956,7 +4956,7 @@ const data = [
     email: "yesomefa@ask.com",
     gender: "Female",
     age: 57,
-    amount: "$6440.31",
+    amount: "6440.31",
   },
   {
     id: 552,
@@ -4965,7 +4965,7 @@ const data = [
     email: "mcombenfb@house.gov",
     gender: "Female",
     age: 64,
-    amount: "$906.84",
+    amount: "906.84",
   },
   {
     id: 553,
@@ -4974,7 +4974,7 @@ const data = [
     email: "mdavidaifc@joomla.org",
     gender: "Female",
     age: 34,
-    amount: "$8084.27",
+    amount: "8084.27",
   },
   {
     id: 554,
@@ -4983,7 +4983,7 @@ const data = [
     email: "vbrigdenfd@i2i.jp",
     gender: "Female",
     age: 60,
-    amount: "$1526.15",
+    amount: "1526.15",
   },
   {
     id: 555,
@@ -4992,7 +4992,7 @@ const data = [
     email: "mconeybearefe@uol.com.br",
     gender: "Female",
     age: 57,
-    amount: "$120.42",
+    amount: "120.42",
   },
   {
     id: 556,
@@ -5001,7 +5001,7 @@ const data = [
     email: "pmorinff@bandcamp.com",
     gender: "Male",
     age: 19,
-    amount: "$3108.26",
+    amount: "3108.26",
   },
   {
     id: 557,
@@ -5010,7 +5010,7 @@ const data = [
     email: "twonfarfg@paginegialle.it",
     gender: "Male",
     age: 70,
-    amount: "$4122.93",
+    amount: "4122.93",
   },
   {
     id: 558,
@@ -5019,7 +5019,7 @@ const data = [
     email: "ebrachellfh@spotify.com",
     gender: "Male",
     age: 28,
-    amount: "$3775.19",
+    amount: "3775.19",
   },
   {
     id: 559,
@@ -5028,7 +5028,7 @@ const data = [
     email: "cspellmanfi@ucoz.com",
     gender: "Bigender",
     age: 55,
-    amount: "$3799.35",
+    amount: "3799.35",
   },
   {
     id: 560,
@@ -5037,7 +5037,7 @@ const data = [
     email: "lgirthfj@oakley.com",
     gender: "Female",
     age: 24,
-    amount: "$4371.87",
+    amount: "4371.87",
   },
   {
     id: 561,
@@ -5046,7 +5046,7 @@ const data = [
     email: "mdampneyfk@baidu.com",
     gender: "Female",
     age: 30,
-    amount: "$6614.12",
+    amount: "6614.12",
   },
   {
     id: 562,
@@ -5055,7 +5055,7 @@ const data = [
     email: "rcrossgrovefl@indiegogo.com",
     gender: "Bigender",
     age: 74,
-    amount: "$1872.71",
+    amount: "1872.71",
   },
   {
     id: 563,
@@ -5064,7 +5064,7 @@ const data = [
     email: "dsibbertfm@opera.com",
     gender: "Female",
     age: 25,
-    amount: "$6516.51",
+    amount: "6516.51",
   },
   {
     id: 564,
@@ -5073,7 +5073,7 @@ const data = [
     email: "gdominicofn@blog.com",
     gender: "Male",
     age: 70,
-    amount: "$6815.57",
+    amount: "6815.57",
   },
   {
     id: 565,
@@ -5082,7 +5082,7 @@ const data = [
     email: "zboldeckefo@google.fr",
     gender: "Male",
     age: 30,
-    amount: "$3811.33",
+    amount: "3811.33",
   },
   {
     id: 566,
@@ -5091,7 +5091,7 @@ const data = [
     email: "aheinsenfp@xrea.com",
     gender: "Male",
     age: 51,
-    amount: "$5684.41",
+    amount: "5684.41",
   },
   {
     id: 567,
@@ -5100,7 +5100,7 @@ const data = [
     email: "eferrerofq@pagesperso-orange.fr",
     gender: "Female",
     age: 39,
-    amount: "$9351.29",
+    amount: "9351.29",
   },
   {
     id: 568,
@@ -5109,7 +5109,7 @@ const data = [
     email: "amckeeversfr@whitehouse.gov",
     gender: "Female",
     age: 33,
-    amount: "$5775.19",
+    amount: "5775.19",
   },
   {
     id: 569,
@@ -5118,7 +5118,7 @@ const data = [
     email: "kglenwrightfs@godaddy.com",
     gender: "Female",
     age: 30,
-    amount: "$4755.33",
+    amount: "4755.33",
   },
   {
     id: 570,
@@ -5127,7 +5127,7 @@ const data = [
     email: "svigorsft@pinterest.com",
     gender: "Male",
     age: 75,
-    amount: "$9850.04",
+    amount: "9850.04",
   },
   {
     id: 571,
@@ -5136,7 +5136,7 @@ const data = [
     email: "aeuelsfu@cnn.com",
     gender: "Female",
     age: 58,
-    amount: "$4716.11",
+    amount: "4716.11",
   },
   {
     id: 572,
@@ -5145,7 +5145,7 @@ const data = [
     email: "aquestfv@soup.io",
     gender: "Genderfluid",
     age: 64,
-    amount: "$9239.67",
+    amount: "9239.67",
   },
   {
     id: 573,
@@ -5154,7 +5154,7 @@ const data = [
     email: "ngrenshielsfw@chronoengine.com",
     gender: "Female",
     age: 60,
-    amount: "$7413.85",
+    amount: "7413.85",
   },
   {
     id: 574,
@@ -5163,7 +5163,7 @@ const data = [
     email: "gtyzackfx@plala.or.jp",
     gender: "Male",
     age: 47,
-    amount: "$845.32",
+    amount: "845.32",
   },
   {
     id: 575,
@@ -5172,7 +5172,7 @@ const data = [
     email: "flejeanfy@parallels.com",
     gender: "Female",
     age: 32,
-    amount: "$370.03",
+    amount: "370.03",
   },
   {
     id: 576,
@@ -5181,7 +5181,7 @@ const data = [
     email: "gwhalesfz@digg.com",
     gender: "Female",
     age: 73,
-    amount: "$4308.56",
+    amount: "4308.56",
   },
   {
     id: 577,
@@ -5190,7 +5190,7 @@ const data = [
     email: "pvanyushking0@ifeng.com",
     gender: "Male",
     age: 48,
-    amount: "$1879.89",
+    amount: "1879.89",
   },
   {
     id: 578,
@@ -5199,7 +5199,7 @@ const data = [
     email: "hswaleg1@mtv.com",
     gender: "Male",
     age: 23,
-    amount: "$4226.34",
+    amount: "4226.34",
   },
   {
     id: 579,
@@ -5208,7 +5208,7 @@ const data = [
     email: "cbritneyg2@timesonline.co.uk",
     gender: "Male",
     age: 25,
-    amount: "$6304.98",
+    amount: "6304.98",
   },
   {
     id: 580,
@@ -5217,7 +5217,7 @@ const data = [
     email: "cvizardg3@opera.com",
     gender: "Genderfluid",
     age: 43,
-    amount: "$1717.49",
+    amount: "1717.49",
   },
   {
     id: 581,
@@ -5226,7 +5226,7 @@ const data = [
     email: "cmalafeg4@prlog.org",
     gender: "Male",
     age: 46,
-    amount: "$4619.67",
+    amount: "4619.67",
   },
   {
     id: 582,
@@ -5235,7 +5235,7 @@ const data = [
     email: "vfairbourng5@bravesites.com",
     gender: "Female",
     age: 32,
-    amount: "$3666.97",
+    amount: "3666.97",
   },
   {
     id: 583,
@@ -5244,7 +5244,7 @@ const data = [
     email: "ajaneg6@engadget.com",
     gender: "Male",
     age: 47,
-    amount: "$5342.71",
+    amount: "5342.71",
   },
   {
     id: 584,
@@ -5253,7 +5253,7 @@ const data = [
     email: "rdaburng7@alibaba.com",
     gender: "Female",
     age: 76,
-    amount: "$2038.97",
+    amount: "2038.97",
   },
   {
     id: 585,
@@ -5262,7 +5262,7 @@ const data = [
     email: "mhedgemang8@deliciousdays.com",
     gender: "Male",
     age: 29,
-    amount: "$6816.16",
+    amount: "6816.16",
   },
   {
     id: 586,
@@ -5271,7 +5271,7 @@ const data = [
     email: "senrichg9@over-blog.com",
     gender: "Male",
     age: 55,
-    amount: "$5013.90",
+    amount: "5013.90",
   },
   {
     id: 587,
@@ -5280,7 +5280,7 @@ const data = [
     email: "fkrugmannga@hostgator.com",
     gender: "Female",
     age: 67,
-    amount: "$79.75",
+    amount: "79.75",
   },
   {
     id: 588,
@@ -5289,7 +5289,7 @@ const data = [
     email: "cchristophlegb@google.co.uk",
     gender: "Non-binary",
     age: 30,
-    amount: "$2585.56",
+    amount: "2585.56",
   },
   {
     id: 589,
@@ -5298,7 +5298,7 @@ const data = [
     email: "tbarkasgc@tiny.cc",
     gender: "Female",
     age: 72,
-    amount: "$558.73",
+    amount: "558.73",
   },
   {
     id: 590,
@@ -5307,7 +5307,7 @@ const data = [
     email: "briddergd@lulu.com",
     gender: "Male",
     age: 44,
-    amount: "$1130.38",
+    amount: "1130.38",
   },
   {
     id: 591,
@@ -5316,7 +5316,7 @@ const data = [
     email: "fvasishchevge@cbslocal.com",
     gender: "Male",
     age: 59,
-    amount: "$259.38",
+    amount: "259.38",
   },
   {
     id: 592,
@@ -5325,7 +5325,7 @@ const data = [
     email: "iabbottgf@feedburner.com",
     gender: "Male",
     age: 69,
-    amount: "$5494.62",
+    amount: "5494.62",
   },
   {
     id: 593,
@@ -5334,7 +5334,7 @@ const data = [
     email: "mhartmangg@deliciousdays.com",
     gender: "Polygender",
     age: 28,
-    amount: "$210.79",
+    amount: "210.79",
   },
   {
     id: 594,
@@ -5343,7 +5343,7 @@ const data = [
     email: "mbannistergh@sogou.com",
     gender: "Female",
     age: 39,
-    amount: "$8582.10",
+    amount: "8582.10",
   },
   {
     id: 595,
@@ -5352,7 +5352,7 @@ const data = [
     email: "apridgeongi@amazon.de",
     gender: "Male",
     age: 50,
-    amount: "$6144.76",
+    amount: "6144.76",
   },
   {
     id: 596,
@@ -5361,7 +5361,7 @@ const data = [
     email: "hrusegj@wsj.com",
     gender: "Male",
     age: 68,
-    amount: "$7314.00",
+    amount: "7314.00",
   },
   {
     id: 597,
@@ -5370,7 +5370,7 @@ const data = [
     email: "smollindiniagk@dyndns.org",
     gender: "Male",
     age: 59,
-    amount: "$673.27",
+    amount: "673.27",
   },
   {
     id: 598,
@@ -5379,7 +5379,7 @@ const data = [
     email: "ecaplegl@senate.gov",
     gender: "Male",
     age: 63,
-    amount: "$4271.06",
+    amount: "4271.06",
   },
   {
     id: 599,
@@ -5388,7 +5388,7 @@ const data = [
     email: "hleggisgm@liveinternet.ru",
     gender: "Male",
     age: 70,
-    amount: "$9708.81",
+    amount: "9708.81",
   },
   {
     id: 600,
@@ -5397,7 +5397,7 @@ const data = [
     email: "smorgangn@answers.com",
     gender: "Female",
     age: 73,
-    amount: "$6966.11",
+    amount: "6966.11",
   },
   {
     id: 601,
@@ -5406,7 +5406,7 @@ const data = [
     email: "fyogo@businessweek.com",
     gender: "Male",
     age: 27,
-    amount: "$2088.22",
+    amount: "2088.22",
   },
   {
     id: 602,
@@ -5415,7 +5415,7 @@ const data = [
     email: "gforstergp@bravesites.com",
     gender: "Male",
     age: 79,
-    amount: "$7777.84",
+    amount: "7777.84",
   },
   {
     id: 603,
@@ -5424,7 +5424,7 @@ const data = [
     email: "ichudleighgq@ezinearticles.com",
     gender: "Female",
     age: 19,
-    amount: "$5996.97",
+    amount: "5996.97",
   },
   {
     id: 604,
@@ -5433,7 +5433,7 @@ const data = [
     email: "ebradwellgr@vimeo.com",
     gender: "Male",
     age: 33,
-    amount: "$6227.31",
+    amount: "6227.31",
   },
   {
     id: 605,
@@ -5442,7 +5442,7 @@ const data = [
     email: "cmaloneygs@illinois.edu",
     gender: "Female",
     age: 67,
-    amount: "$7640.41",
+    amount: "7640.41",
   },
   {
     id: 606,
@@ -5451,7 +5451,7 @@ const data = [
     email: "cmarkovicgt@unicef.org",
     gender: "Genderfluid",
     age: 57,
-    amount: "$3741.28",
+    amount: "3741.28",
   },
   {
     id: 607,
@@ -5460,7 +5460,7 @@ const data = [
     email: "cstilldalegu@psu.edu",
     gender: "Female",
     age: 41,
-    amount: "$5202.30",
+    amount: "5202.30",
   },
   {
     id: 608,
@@ -5469,7 +5469,7 @@ const data = [
     email: "kmarioneaugv@unicef.org",
     gender: "Female",
     age: 80,
-    amount: "$9934.04",
+    amount: "9934.04",
   },
   {
     id: 609,
@@ -5478,7 +5478,7 @@ const data = [
     email: "tjerchegw@amazonaws.com",
     gender: "Male",
     age: 29,
-    amount: "$4060.03",
+    amount: "4060.03",
   },
   {
     id: 610,
@@ -5487,7 +5487,7 @@ const data = [
     email: "blamsheadgx@com.com",
     gender: "Male",
     age: 46,
-    amount: "$9748.85",
+    amount: "9748.85",
   },
   {
     id: 611,
@@ -5496,7 +5496,7 @@ const data = [
     email: "gspaughtongy@independent.co.uk",
     gender: "Male",
     age: 71,
-    amount: "$6606.72",
+    amount: "6606.72",
   },
   {
     id: 612,
@@ -5505,7 +5505,7 @@ const data = [
     email: "ccrichmeregz@redcross.org",
     gender: "Male",
     age: 31,
-    amount: "$9753.06",
+    amount: "9753.06",
   },
   {
     id: 613,
@@ -5514,7 +5514,7 @@ const data = [
     email: "fbabbageh0@furl.net",
     gender: "Male",
     age: 43,
-    amount: "$6582.44",
+    amount: "6582.44",
   },
   {
     id: 614,
@@ -5523,7 +5523,7 @@ const data = [
     email: "bussherh1@dailymotion.com",
     gender: "Male",
     age: 45,
-    amount: "$8463.25",
+    amount: "8463.25",
   },
   {
     id: 615,
@@ -5532,7 +5532,7 @@ const data = [
     email: "fvaudreh2@goo.ne.jp",
     gender: "Male",
     age: 24,
-    amount: "$6214.32",
+    amount: "6214.32",
   },
   {
     id: 616,
@@ -5541,7 +5541,7 @@ const data = [
     email: "zmilierh3@shinystat.com",
     gender: "Female",
     age: 30,
-    amount: "$1713.92",
+    amount: "1713.92",
   },
   {
     id: 617,
@@ -5550,7 +5550,7 @@ const data = [
     email: "ewelbandh4@ovh.net",
     gender: "Male",
     age: 50,
-    amount: "$3038.98",
+    amount: "3038.98",
   },
   {
     id: 618,
@@ -5559,7 +5559,7 @@ const data = [
     email: "ahandscombeh5@homestead.com",
     gender: "Female",
     age: 64,
-    amount: "$8245.98",
+    amount: "8245.98",
   },
   {
     id: 619,
@@ -5568,7 +5568,7 @@ const data = [
     email: "vivashinh6@tmall.com",
     gender: "Female",
     age: 49,
-    amount: "$5104.18",
+    amount: "5104.18",
   },
   {
     id: 620,
@@ -5577,7 +5577,7 @@ const data = [
     email: "plawfullh7@columbia.edu",
     gender: "Male",
     age: 27,
-    amount: "$2790.72",
+    amount: "2790.72",
   },
   {
     id: 621,
@@ -5586,7 +5586,7 @@ const data = [
     email: "hadolthineh8@clickbank.net",
     gender: "Male",
     age: 53,
-    amount: "$4939.75",
+    amount: "4939.75",
   },
   {
     id: 622,
@@ -5595,7 +5595,7 @@ const data = [
     email: "ksymesh9@chicagotribune.com",
     gender: "Female",
     age: 50,
-    amount: "$9912.67",
+    amount: "9912.67",
   },
   {
     id: 623,
@@ -5604,7 +5604,7 @@ const data = [
     email: "oleaningha@storify.com",
     gender: "Female",
     age: 36,
-    amount: "$7907.40",
+    amount: "7907.40",
   },
   {
     id: 624,
@@ -5613,7 +5613,7 @@ const data = [
     email: "grameyhb@meetup.com",
     gender: "Male",
     age: 47,
-    amount: "$2222.90",
+    amount: "2222.90",
   },
   {
     id: 625,
@@ -5622,7 +5622,7 @@ const data = [
     email: "velbyhc@examiner.com",
     gender: "Female",
     age: 64,
-    amount: "$4204.82",
+    amount: "4204.82",
   },
   {
     id: 626,
@@ -5631,7 +5631,7 @@ const data = [
     email: "amatskivhd@plala.or.jp",
     gender: "Female",
     age: 33,
-    amount: "$8284.40",
+    amount: "8284.40",
   },
   {
     id: 627,
@@ -5640,7 +5640,7 @@ const data = [
     email: "nledgleyhe@histats.com",
     gender: "Female",
     age: 66,
-    amount: "$2452.51",
+    amount: "2452.51",
   },
   {
     id: 628,
@@ -5649,7 +5649,7 @@ const data = [
     email: "gclewerhf@cyberchimps.com",
     gender: "Female",
     age: 77,
-    amount: "$8241.55",
+    amount: "8241.55",
   },
   {
     id: 629,
@@ -5658,7 +5658,7 @@ const data = [
     email: "egerckenhg@aboutads.info",
     gender: "Female",
     age: 72,
-    amount: "$567.98",
+    amount: "567.98",
   },
   {
     id: 630,
@@ -5667,7 +5667,7 @@ const data = [
     email: "khammorhh@npr.org",
     gender: "Male",
     age: 79,
-    amount: "$6371.10",
+    amount: "6371.10",
   },
   {
     id: 631,
@@ -5676,7 +5676,7 @@ const data = [
     email: "pgiddingshi@cbslocal.com",
     gender: "Male",
     age: 23,
-    amount: "$8550.66",
+    amount: "8550.66",
   },
   {
     id: 632,
@@ -5685,7 +5685,7 @@ const data = [
     email: "eibbitthj@newsvine.com",
     gender: "Bigender",
     age: 44,
-    amount: "$5384.65",
+    amount: "5384.65",
   },
   {
     id: 633,
@@ -5694,7 +5694,7 @@ const data = [
     email: "achamhk@un.org",
     gender: "Male",
     age: 72,
-    amount: "$2585.53",
+    amount: "2585.53",
   },
   {
     id: 634,
@@ -5703,7 +5703,7 @@ const data = [
     email: "relmerhl@1688.com",
     gender: "Polygender",
     age: 72,
-    amount: "$875.98",
+    amount: "875.98",
   },
   {
     id: 635,
@@ -5712,7 +5712,7 @@ const data = [
     email: "bchuneyhm@php.net",
     gender: "Male",
     age: 50,
-    amount: "$9734.24",
+    amount: "9734.24",
   },
   {
     id: 636,
@@ -5721,7 +5721,7 @@ const data = [
     email: "tbeardsellhn@amazon.co.jp",
     gender: "Male",
     age: 19,
-    amount: "$9072.77",
+    amount: "9072.77",
   },
   {
     id: 637,
@@ -5730,7 +5730,7 @@ const data = [
     email: "gheinschkeho@comsenz.com",
     gender: "Female",
     age: 68,
-    amount: "$7673.91",
+    amount: "7673.91",
   },
   {
     id: 638,
@@ -5739,7 +5739,7 @@ const data = [
     email: "vjewerhp@weibo.com",
     gender: "Female",
     age: 61,
-    amount: "$6.50",
+    amount: "6.50",
   },
   {
     id: 639,
@@ -5748,7 +5748,7 @@ const data = [
     email: "plafayettehq@webnode.com",
     gender: "Female",
     age: 33,
-    amount: "$8323.83",
+    amount: "8323.83",
   },
   {
     id: 640,
@@ -5757,7 +5757,7 @@ const data = [
     email: "garkcollhr@yelp.com",
     gender: "Male",
     age: 68,
-    amount: "$7140.62",
+    amount: "7140.62",
   },
   {
     id: 641,
@@ -5766,7 +5766,7 @@ const data = [
     email: "clongworthyhs@hud.gov",
     gender: "Bigender",
     age: 35,
-    amount: "$5528.28",
+    amount: "5528.28",
   },
   {
     id: 642,
@@ -5775,7 +5775,7 @@ const data = [
     email: "bbevarht@spiegel.de",
     gender: "Female",
     age: 38,
-    amount: "$5089.84",
+    amount: "5089.84",
   },
   {
     id: 643,
@@ -5784,7 +5784,7 @@ const data = [
     email: "awalworthhu@sourceforge.net",
     gender: "Female",
     age: 30,
-    amount: "$3250.72",
+    amount: "3250.72",
   },
   {
     id: 644,
@@ -5793,7 +5793,7 @@ const data = [
     email: "pleyzellhv@oakley.com",
     gender: "Male",
     age: 42,
-    amount: "$7850.53",
+    amount: "7850.53",
   },
   {
     id: 645,
@@ -5802,7 +5802,7 @@ const data = [
     email: "hastyhw@stanford.edu",
     gender: "Male",
     age: 37,
-    amount: "$3838.40",
+    amount: "3838.40",
   },
   {
     id: 646,
@@ -5811,7 +5811,7 @@ const data = [
     email: "aluckcuckhx@sina.com.cn",
     gender: "Non-binary",
     age: 74,
-    amount: "$8579.03",
+    amount: "8579.03",
   },
   {
     id: 647,
@@ -5820,7 +5820,7 @@ const data = [
     email: "jlambardhy@senate.gov",
     gender: "Male",
     age: 44,
-    amount: "$9720.81",
+    amount: "9720.81",
   },
   {
     id: 648,
@@ -5829,7 +5829,7 @@ const data = [
     email: "cgemnetthz@hostgator.com",
     gender: "Female",
     age: 68,
-    amount: "$7322.45",
+    amount: "7322.45",
   },
   {
     id: 649,
@@ -5838,7 +5838,7 @@ const data = [
     email: "pgreenigi0@imgur.com",
     gender: "Female",
     age: 19,
-    amount: "$3964.21",
+    amount: "3964.21",
   },
   {
     id: 650,
@@ -5847,7 +5847,7 @@ const data = [
     email: "dclellei1@unesco.org",
     gender: "Female",
     age: 50,
-    amount: "$3900.13",
+    amount: "3900.13",
   },
   {
     id: 651,
@@ -5856,7 +5856,7 @@ const data = [
     email: "moakenfieldi2@sciencedirect.com",
     gender: "Female",
     age: 21,
-    amount: "$6267.68",
+    amount: "6267.68",
   },
   {
     id: 652,
@@ -5865,7 +5865,7 @@ const data = [
     email: "bnerhenyi3@sun.com",
     gender: "Male",
     age: 73,
-    amount: "$9132.43",
+    amount: "9132.43",
   },
   {
     id: 653,
@@ -5874,7 +5874,7 @@ const data = [
     email: "jsissi4@weebly.com",
     gender: "Female",
     age: 73,
-    amount: "$438.88",
+    amount: "438.88",
   },
   {
     id: 654,
@@ -5883,7 +5883,7 @@ const data = [
     email: "oioannidisi5@github.io",
     gender: "Male",
     age: 65,
-    amount: "$6117.03",
+    amount: "6117.03",
   },
   {
     id: 655,
@@ -5892,7 +5892,7 @@ const data = [
     email: "ehuddyi6@nba.com",
     gender: "Male",
     age: 18,
-    amount: "$6295.96",
+    amount: "6295.96",
   },
   {
     id: 656,
@@ -5901,7 +5901,7 @@ const data = [
     email: "velcouxi7@berkeley.edu",
     gender: "Female",
     age: 51,
-    amount: "$3230.14",
+    amount: "3230.14",
   },
   {
     id: 657,
@@ -5910,7 +5910,7 @@ const data = [
     email: "phacquoili8@slideshare.net",
     gender: "Non-binary",
     age: 34,
-    amount: "$7821.80",
+    amount: "7821.80",
   },
   {
     id: 658,
@@ -5919,7 +5919,7 @@ const data = [
     email: "dwortersi9@blogs.com",
     gender: "Female",
     age: 57,
-    amount: "$3293.59",
+    amount: "3293.59",
   },
   {
     id: 659,
@@ -5928,7 +5928,7 @@ const data = [
     email: "jdoorlyia@shinystat.com",
     gender: "Male",
     age: 73,
-    amount: "$5990.21",
+    amount: "5990.21",
   },
   {
     id: 660,
@@ -5937,7 +5937,7 @@ const data = [
     email: "slangfittib@simplemachines.org",
     gender: "Male",
     age: 41,
-    amount: "$4812.66",
+    amount: "4812.66",
   },
   {
     id: 661,
@@ -5946,7 +5946,7 @@ const data = [
     email: "lnorhenyic@godaddy.com",
     gender: "Female",
     age: 35,
-    amount: "$392.42",
+    amount: "392.42",
   },
   {
     id: 662,
@@ -5955,7 +5955,7 @@ const data = [
     email: "lwhettonid@patch.com",
     gender: "Female",
     age: 65,
-    amount: "$7796.10",
+    amount: "7796.10",
   },
   {
     id: 663,
@@ -5964,7 +5964,7 @@ const data = [
     email: "aaskawie@sakura.ne.jp",
     gender: "Male",
     age: 55,
-    amount: "$2366.57",
+    amount: "2366.57",
   },
   {
     id: 664,
@@ -5973,7 +5973,7 @@ const data = [
     email: "bparlattif@usnews.com",
     gender: "Male",
     age: 76,
-    amount: "$7227.97",
+    amount: "7227.97",
   },
   {
     id: 665,
@@ -5982,7 +5982,7 @@ const data = [
     email: "apostinsig@illinois.edu",
     gender: "Female",
     age: 47,
-    amount: "$3423.36",
+    amount: "3423.36",
   },
   {
     id: 666,
@@ -5991,7 +5991,7 @@ const data = [
     email: "eaddieih@ucsd.edu",
     gender: "Female",
     age: 61,
-    amount: "$7133.58",
+    amount: "7133.58",
   },
   {
     id: 667,
@@ -6000,7 +6000,7 @@ const data = [
     email: "odalliii@printfriendly.com",
     gender: "Female",
     age: 40,
-    amount: "$5209.67",
+    amount: "5209.67",
   },
   {
     id: 668,
@@ -6009,7 +6009,7 @@ const data = [
     email: "ipurdeyij@printfriendly.com",
     gender: "Female",
     age: 28,
-    amount: "$3404.97",
+    amount: "3404.97",
   },
   {
     id: 669,
@@ -6018,7 +6018,7 @@ const data = [
     email: "mtorbardik@nsw.gov.au",
     gender: "Female",
     age: 41,
-    amount: "$9576.00",
+    amount: "9576.00",
   },
   {
     id: 670,
@@ -6027,7 +6027,7 @@ const data = [
     email: "rheistermannil@cam.ac.uk",
     gender: "Male",
     age: 32,
-    amount: "$6192.44",
+    amount: "6192.44",
   },
   {
     id: 671,
@@ -6036,7 +6036,7 @@ const data = [
     email: "ekowalikim@disqus.com",
     gender: "Male",
     age: 62,
-    amount: "$7895.80",
+    amount: "7895.80",
   },
   {
     id: 672,
@@ -6045,7 +6045,7 @@ const data = [
     email: "itextonin@yahoo.co.jp",
     gender: "Male",
     age: 36,
-    amount: "$6796.40",
+    amount: "6796.40",
   },
   {
     id: 673,
@@ -6054,7 +6054,7 @@ const data = [
     email: "wrommeio@apple.com",
     gender: "Male",
     age: 21,
-    amount: "$1625.02",
+    amount: "1625.02",
   },
   {
     id: 674,
@@ -6063,7 +6063,7 @@ const data = [
     email: "cwoodrupip@washington.edu",
     gender: "Female",
     age: 32,
-    amount: "$3053.05",
+    amount: "3053.05",
   },
   {
     id: 675,
@@ -6072,7 +6072,7 @@ const data = [
     email: "mvanderhoeveniq@printfriendly.com",
     gender: "Female",
     age: 38,
-    amount: "$6492.83",
+    amount: "6492.83",
   },
   {
     id: 676,
@@ -6081,7 +6081,7 @@ const data = [
     email: "wmacknockiterir@fotki.com",
     gender: "Female",
     age: 33,
-    amount: "$971.56",
+    amount: "971.56",
   },
   {
     id: 677,
@@ -6090,7 +6090,7 @@ const data = [
     email: "rpencostis@narod.ru",
     gender: "Male",
     age: 23,
-    amount: "$7132.52",
+    amount: "7132.52",
   },
   {
     id: 678,
@@ -6099,7 +6099,7 @@ const data = [
     email: "igilbanksit@google.it",
     gender: "Male",
     age: 63,
-    amount: "$3363.29",
+    amount: "3363.29",
   },
   {
     id: 679,
@@ -6108,7 +6108,7 @@ const data = [
     email: "aizzettiu@moonfruit.com",
     gender: "Male",
     age: 42,
-    amount: "$5792.22",
+    amount: "5792.22",
   },
   {
     id: 680,
@@ -6117,7 +6117,7 @@ const data = [
     email: "byaldeniv@weibo.com",
     gender: "Male",
     age: 70,
-    amount: "$1847.48",
+    amount: "1847.48",
   },
   {
     id: 681,
@@ -6126,7 +6126,7 @@ const data = [
     email: "bsmedmooriw@census.gov",
     gender: "Female",
     age: 55,
-    amount: "$6010.91",
+    amount: "6010.91",
   },
   {
     id: 682,
@@ -6135,7 +6135,7 @@ const data = [
     email: "pgerokix@mozilla.org",
     gender: "Male",
     age: 76,
-    amount: "$7105.58",
+    amount: "7105.58",
   },
   {
     id: 683,
@@ -6144,7 +6144,7 @@ const data = [
     email: "neidelmaniy@sina.com.cn",
     gender: "Female",
     age: 19,
-    amount: "$27.46",
+    amount: "27.46",
   },
   {
     id: 684,
@@ -6153,7 +6153,7 @@ const data = [
     email: "jschlaghiz@hatena.ne.jp",
     gender: "Male",
     age: 68,
-    amount: "$943.13",
+    amount: "943.13",
   },
   {
     id: 685,
@@ -6162,7 +6162,7 @@ const data = [
     email: "dgearj0@bing.com",
     gender: "Female",
     age: 41,
-    amount: "$1782.38",
+    amount: "1782.38",
   },
   {
     id: 686,
@@ -6171,7 +6171,7 @@ const data = [
     email: "kelcockj1@feedburner.com",
     gender: "Female",
     age: 70,
-    amount: "$925.28",
+    amount: "925.28",
   },
   {
     id: 687,
@@ -6180,7 +6180,7 @@ const data = [
     email: "sbridellj2@omniture.com",
     gender: "Genderqueer",
     age: 54,
-    amount: "$134.35",
+    amount: "134.35",
   },
   {
     id: 688,
@@ -6189,7 +6189,7 @@ const data = [
     email: "jandrzejj3@networksolutions.com",
     gender: "Male",
     age: 33,
-    amount: "$3512.62",
+    amount: "3512.62",
   },
   {
     id: 689,
@@ -6198,7 +6198,7 @@ const data = [
     email: "fmompessonj4@plala.or.jp",
     gender: "Female",
     age: 78,
-    amount: "$93.49",
+    amount: "93.49",
   },
   {
     id: 690,
@@ -6207,7 +6207,7 @@ const data = [
     email: "mthirkettlej5@kickstarter.com",
     gender: "Female",
     age: 40,
-    amount: "$6519.35",
+    amount: "6519.35",
   },
   {
     id: 691,
@@ -6216,7 +6216,7 @@ const data = [
     email: "rchismonj6@sciencedirect.com",
     gender: "Female",
     age: 42,
-    amount: "$5743.41",
+    amount: "5743.41",
   },
   {
     id: 692,
@@ -6225,7 +6225,7 @@ const data = [
     email: "gmarinerj7@theglobeandmail.com",
     gender: "Female",
     age: 77,
-    amount: "$3569.25",
+    amount: "3569.25",
   },
   {
     id: 693,
@@ -6234,7 +6234,7 @@ const data = [
     email: "blapidusj8@xrea.com",
     gender: "Male",
     age: 64,
-    amount: "$1827.06",
+    amount: "1827.06",
   },
   {
     id: 694,
@@ -6243,7 +6243,7 @@ const data = [
     email: "arymourj9@slate.com",
     gender: "Male",
     age: 22,
-    amount: "$3899.40",
+    amount: "3899.40",
   },
   {
     id: 695,
@@ -6252,7 +6252,7 @@ const data = [
     email: "aearlyja@bluehost.com",
     gender: "Male",
     age: 32,
-    amount: "$7253.24",
+    amount: "7253.24",
   },
   {
     id: 696,
@@ -6261,7 +6261,7 @@ const data = [
     email: "smcgilljb@infoseek.co.jp",
     gender: "Female",
     age: 74,
-    amount: "$4905.80",
+    amount: "4905.80",
   },
   {
     id: 697,
@@ -6270,7 +6270,7 @@ const data = [
     email: "fdutsonjc@privacy.gov.au",
     gender: "Female",
     age: 77,
-    amount: "$9861.86",
+    amount: "9861.86",
   },
   {
     id: 698,
@@ -6279,7 +6279,7 @@ const data = [
     email: "jrodolfjd@surveymonkey.com",
     gender: "Female",
     age: 56,
-    amount: "$6768.44",
+    amount: "6768.44",
   },
   {
     id: 699,
@@ -6288,7 +6288,7 @@ const data = [
     email: "garnisonje@unc.edu",
     gender: "Female",
     age: 52,
-    amount: "$5520.99",
+    amount: "5520.99",
   },
   {
     id: 700,
@@ -6297,7 +6297,7 @@ const data = [
     email: "vbolamjf@youku.com",
     gender: "Male",
     age: 43,
-    amount: "$3340.80",
+    amount: "3340.80",
   },
   {
     id: 701,
@@ -6306,7 +6306,7 @@ const data = [
     email: "jrockcliffjg@oracle.com",
     gender: "Female",
     age: 48,
-    amount: "$9997.39",
+    amount: "9997.39",
   },
   {
     id: 702,
@@ -6315,7 +6315,7 @@ const data = [
     email: "zjumonetjh@cbslocal.com",
     gender: "Female",
     age: 54,
-    amount: "$7166.56",
+    amount: "7166.56",
   },
   {
     id: 703,
@@ -6324,7 +6324,7 @@ const data = [
     email: "nbenjaminji@reference.com",
     gender: "Female",
     age: 50,
-    amount: "$9746.32",
+    amount: "9746.32",
   },
   {
     id: 704,
@@ -6333,7 +6333,7 @@ const data = [
     email: "tnesbittjj@multiply.com",
     gender: "Female",
     age: 55,
-    amount: "$3257.14",
+    amount: "3257.14",
   },
   {
     id: 705,
@@ -6342,7 +6342,7 @@ const data = [
     email: "rmclurgjk@networksolutions.com",
     gender: "Female",
     age: 64,
-    amount: "$1618.94",
+    amount: "1618.94",
   },
   {
     id: 706,
@@ -6351,7 +6351,7 @@ const data = [
     email: "afoleyjl@theatlantic.com",
     gender: "Female",
     age: 30,
-    amount: "$1297.06",
+    amount: "1297.06",
   },
   {
     id: 707,
@@ -6360,7 +6360,7 @@ const data = [
     email: "gbreajm@feedburner.com",
     gender: "Male",
     age: 67,
-    amount: "$1125.05",
+    amount: "1125.05",
   },
   {
     id: 708,
@@ -6369,7 +6369,7 @@ const data = [
     email: "lrennlesjn@hatena.ne.jp",
     gender: "Male",
     age: 71,
-    amount: "$2371.97",
+    amount: "2371.97",
   },
   {
     id: 709,
@@ -6378,7 +6378,7 @@ const data = [
     email: "czanazzijo@wired.com",
     gender: "Male",
     age: 54,
-    amount: "$276.56",
+    amount: "276.56",
   },
   {
     id: 710,
@@ -6387,7 +6387,7 @@ const data = [
     email: "hadamidesjp@ovh.net",
     gender: "Female",
     age: 67,
-    amount: "$3122.05",
+    amount: "3122.05",
   },
   {
     id: 711,
@@ -6396,7 +6396,7 @@ const data = [
     email: "fanespiejq@webeden.co.uk",
     gender: "Male",
     age: 73,
-    amount: "$7236.88",
+    amount: "7236.88",
   },
   {
     id: 712,
@@ -6405,7 +6405,7 @@ const data = [
     email: "bdoughtonjr@epa.gov",
     gender: "Male",
     age: 51,
-    amount: "$6236.43",
+    amount: "6236.43",
   },
   {
     id: 713,
@@ -6414,7 +6414,7 @@ const data = [
     email: "htestojs@stanford.edu",
     gender: "Male",
     age: 19,
-    amount: "$2639.81",
+    amount: "2639.81",
   },
   {
     id: 714,
@@ -6423,7 +6423,7 @@ const data = [
     email: "tdaceyjt@com.com",
     gender: "Female",
     age: 79,
-    amount: "$3312.13",
+    amount: "3312.13",
   },
   {
     id: 715,
@@ -6432,7 +6432,7 @@ const data = [
     email: "ejarmanju@prnewswire.com",
     gender: "Female",
     age: 56,
-    amount: "$6081.91",
+    amount: "6081.91",
   },
   {
     id: 716,
@@ -6441,7 +6441,7 @@ const data = [
     email: "eottewelljv@uol.com.br",
     gender: "Genderfluid",
     age: 48,
-    amount: "$8926.12",
+    amount: "8926.12",
   },
   {
     id: 717,
@@ -6450,7 +6450,7 @@ const data = [
     email: "cishakijw@blog.com",
     gender: "Female",
     age: 47,
-    amount: "$3275.12",
+    amount: "3275.12",
   },
   {
     id: 718,
@@ -6459,7 +6459,7 @@ const data = [
     email: "cstenettjx@usatoday.com",
     gender: "Male",
     age: 41,
-    amount: "$5015.94",
+    amount: "5015.94",
   },
   {
     id: 719,
@@ -6468,7 +6468,7 @@ const data = [
     email: "dpiesingjy@virginia.edu",
     gender: "Male",
     age: 38,
-    amount: "$303.26",
+    amount: "303.26",
   },
   {
     id: 720,
@@ -6477,7 +6477,7 @@ const data = [
     email: "lpinsentjz@wix.com",
     gender: "Male",
     age: 50,
-    amount: "$6957.38",
+    amount: "6957.38",
   },
   {
     id: 721,
@@ -6486,7 +6486,7 @@ const data = [
     email: "dmarlork0@360.cn",
     gender: "Female",
     age: 48,
-    amount: "$6320.35",
+    amount: "6320.35",
   },
   {
     id: 722,
@@ -6495,7 +6495,7 @@ const data = [
     email: "lbotek1@google.it",
     gender: "Male",
     age: 22,
-    amount: "$168.09",
+    amount: "168.09",
   },
   {
     id: 723,
@@ -6504,7 +6504,7 @@ const data = [
     email: "rwollacottk2@slate.com",
     gender: "Male",
     age: 79,
-    amount: "$7240.47",
+    amount: "7240.47",
   },
   {
     id: 724,
@@ -6513,7 +6513,7 @@ const data = [
     email: "aspilsburyk3@redcross.org",
     gender: "Male",
     age: 70,
-    amount: "$6771.82",
+    amount: "6771.82",
   },
   {
     id: 725,
@@ -6522,7 +6522,7 @@ const data = [
     email: "mswindellk4@cafepress.com",
     gender: "Male",
     age: 18,
-    amount: "$8290.22",
+    amount: "8290.22",
   },
   {
     id: 726,
@@ -6531,7 +6531,7 @@ const data = [
     email: "lstoddardk5@vimeo.com",
     gender: "Female",
     age: 67,
-    amount: "$9900.96",
+    amount: "9900.96",
   },
   {
     id: 727,
@@ -6540,7 +6540,7 @@ const data = [
     email: "rkerwink6@yolasite.com",
     gender: "Female",
     age: 80,
-    amount: "$7822.57",
+    amount: "7822.57",
   },
   {
     id: 728,
@@ -6549,7 +6549,7 @@ const data = [
     email: "amattusevichk7@de.vu",
     gender: "Female",
     age: 68,
-    amount: "$5804.50",
+    amount: "5804.50",
   },
   {
     id: 729,
@@ -6558,7 +6558,7 @@ const data = [
     email: "mdyettk8@bizjournals.com",
     gender: "Female",
     age: 76,
-    amount: "$2423.67",
+    amount: "2423.67",
   },
   {
     id: 730,
@@ -6567,7 +6567,7 @@ const data = [
     email: "dfoakesk9@sfgate.com",
     gender: "Female",
     age: 21,
-    amount: "$1625.00",
+    amount: "1625.00",
   },
   {
     id: 731,
@@ -6576,7 +6576,7 @@ const data = [
     email: "koheagertieka@barnesandnoble.com",
     gender: "Female",
     age: 69,
-    amount: "$7387.91",
+    amount: "7387.91",
   },
   {
     id: 732,
@@ -6585,7 +6585,7 @@ const data = [
     email: "lpedrolkb@psu.edu",
     gender: "Genderfluid",
     age: 16,
-    amount: "$4945.76",
+    amount: "4945.76",
   },
   {
     id: 733,
@@ -6594,7 +6594,7 @@ const data = [
     email: "ryarwoodkc@so-net.ne.jp",
     gender: "Male",
     age: 58,
-    amount: "$2138.12",
+    amount: "2138.12",
   },
   {
     id: 734,
@@ -6603,7 +6603,7 @@ const data = [
     email: "mducarnekd@last.fm",
     gender: "Female",
     age: 19,
-    amount: "$9703.68",
+    amount: "9703.68",
   },
   {
     id: 735,
@@ -6612,7 +6612,7 @@ const data = [
     email: "ssimperke@patch.com",
     gender: "Female",
     age: 75,
-    amount: "$4611.55",
+    amount: "4611.55",
   },
   {
     id: 736,
@@ -6621,7 +6621,7 @@ const data = [
     email: "rogerkf@hostgator.com",
     gender: "Male",
     age: 43,
-    amount: "$9421.50",
+    amount: "9421.50",
   },
   {
     id: 737,
@@ -6630,7 +6630,7 @@ const data = [
     email: "gvittekg@mozilla.org",
     gender: "Male",
     age: 29,
-    amount: "$9902.06",
+    amount: "9902.06",
   },
   {
     id: 738,
@@ -6639,7 +6639,7 @@ const data = [
     email: "kodeegankh@google.nl",
     gender: "Female",
     age: 28,
-    amount: "$4134.23",
+    amount: "4134.23",
   },
   {
     id: 739,
@@ -6648,7 +6648,7 @@ const data = [
     email: "tneelyki@google.com.au",
     gender: "Female",
     age: 28,
-    amount: "$2562.92",
+    amount: "2562.92",
   },
   {
     id: 740,
@@ -6657,7 +6657,7 @@ const data = [
     email: "lnobletkj@sciencedaily.com",
     gender: "Non-binary",
     age: 28,
-    amount: "$5694.89",
+    amount: "5694.89",
   },
   {
     id: 741,
@@ -6666,7 +6666,7 @@ const data = [
     email: "toverallkk@tuttocitta.it",
     gender: "Male",
     age: 27,
-    amount: "$4518.81",
+    amount: "4518.81",
   },
   {
     id: 742,
@@ -6675,7 +6675,7 @@ const data = [
     email: "npratekl@ucla.edu",
     gender: "Female",
     age: 74,
-    amount: "$2111.35",
+    amount: "2111.35",
   },
   {
     id: 743,
@@ -6684,7 +6684,7 @@ const data = [
     email: "ppaumierkm@reuters.com",
     gender: "Male",
     age: 59,
-    amount: "$8365.04",
+    amount: "8365.04",
   },
   {
     id: 744,
@@ -6693,7 +6693,7 @@ const data = [
     email: "hfierrokn@answers.com",
     gender: "Male",
     age: 18,
-    amount: "$9881.41",
+    amount: "9881.41",
   },
   {
     id: 745,
@@ -6702,7 +6702,7 @@ const data = [
     email: "fstitheko@sciencedaily.com",
     gender: "Female",
     age: 28,
-    amount: "$5590.08",
+    amount: "5590.08",
   },
   {
     id: 746,
@@ -6711,7 +6711,7 @@ const data = [
     email: "gnestorkp@state.tx.us",
     gender: "Male",
     age: 30,
-    amount: "$8754.49",
+    amount: "8754.49",
   },
   {
     id: 747,
@@ -6720,7 +6720,7 @@ const data = [
     email: "zbasillonkq@smh.com.au",
     gender: "Female",
     age: 26,
-    amount: "$7282.72",
+    amount: "7282.72",
   },
   {
     id: 748,
@@ -6729,7 +6729,7 @@ const data = [
     email: "jdisleekr@sun.com",
     gender: "Female",
     age: 50,
-    amount: "$6228.59",
+    amount: "6228.59",
   },
   {
     id: 749,
@@ -6738,7 +6738,7 @@ const data = [
     email: "lbratcherks@java.com",
     gender: "Male",
     age: 57,
-    amount: "$7294.63",
+    amount: "7294.63",
   },
   {
     id: 750,
@@ -6747,7 +6747,7 @@ const data = [
     email: "mpaddlekt@t.co",
     gender: "Female",
     age: 76,
-    amount: "$4419.74",
+    amount: "4419.74",
   },
   {
     id: 751,
@@ -6756,7 +6756,7 @@ const data = [
     email: "tmathersonku@ca.gov",
     gender: "Agender",
     age: 64,
-    amount: "$2072.70",
+    amount: "2072.70",
   },
   {
     id: 752,
@@ -6765,7 +6765,7 @@ const data = [
     email: "cgebhardtkv@tripadvisor.com",
     gender: "Female",
     age: 47,
-    amount: "$7000.29",
+    amount: "7000.29",
   },
   {
     id: 753,
@@ -6774,7 +6774,7 @@ const data = [
     email: "smcmainskw@domainmarket.com",
     gender: "Male",
     age: 66,
-    amount: "$4747.36",
+    amount: "4747.36",
   },
   {
     id: 754,
@@ -6783,7 +6783,7 @@ const data = [
     email: "akieltykx@ed.gov",
     gender: "Genderfluid",
     age: 63,
-    amount: "$2042.33",
+    amount: "2042.33",
   },
   {
     id: 755,
@@ -6792,7 +6792,7 @@ const data = [
     email: "dwollerky@over-blog.com",
     gender: "Male",
     age: 32,
-    amount: "$6891.73",
+    amount: "6891.73",
   },
   {
     id: 756,
@@ -6801,7 +6801,7 @@ const data = [
     email: "abassilashvilikz@usnews.com",
     gender: "Female",
     age: 31,
-    amount: "$6785.25",
+    amount: "6785.25",
   },
   {
     id: 757,
@@ -6810,7 +6810,7 @@ const data = [
     email: "alakelandl0@rakuten.co.jp",
     gender: "Female",
     age: 19,
-    amount: "$3162.57",
+    amount: "3162.57",
   },
   {
     id: 758,
@@ -6819,7 +6819,7 @@ const data = [
     email: "amoehlel1@rediff.com",
     gender: "Male",
     age: 43,
-    amount: "$4090.60",
+    amount: "4090.60",
   },
   {
     id: 759,
@@ -6828,7 +6828,7 @@ const data = [
     email: "kpotkinsl2@geocities.com",
     gender: "Female",
     age: 72,
-    amount: "$8692.53",
+    amount: "8692.53",
   },
   {
     id: 760,
@@ -6837,7 +6837,7 @@ const data = [
     email: "tkeedyl3@boston.com",
     gender: "Male",
     age: 50,
-    amount: "$1297.11",
+    amount: "1297.11",
   },
   {
     id: 761,
@@ -6846,7 +6846,7 @@ const data = [
     email: "hslydel4@woothemes.com",
     gender: "Genderfluid",
     age: 25,
-    amount: "$8256.46",
+    amount: "8256.46",
   },
   {
     id: 762,
@@ -6855,7 +6855,7 @@ const data = [
     email: "ssowrayl5@imageshack.us",
     gender: "Male",
     age: 50,
-    amount: "$1805.71",
+    amount: "1805.71",
   },
   {
     id: 763,
@@ -6864,7 +6864,7 @@ const data = [
     email: "cdeamerl6@blinklist.com",
     gender: "Female",
     age: 55,
-    amount: "$8474.03",
+    amount: "8474.03",
   },
   {
     id: 764,
@@ -6873,7 +6873,7 @@ const data = [
     email: "tbreckenridgel7@fema.gov",
     gender: "Male",
     age: 77,
-    amount: "$1035.88",
+    amount: "1035.88",
   },
   {
     id: 765,
@@ -6882,7 +6882,7 @@ const data = [
     email: "aferneyhoughl8@timesonline.co.uk",
     gender: "Female",
     age: 59,
-    amount: "$5853.63",
+    amount: "5853.63",
   },
   {
     id: 766,
@@ -6891,7 +6891,7 @@ const data = [
     email: "csheehyl9@posterous.com",
     gender: "Genderfluid",
     age: 25,
-    amount: "$8866.12",
+    amount: "8866.12",
   },
   {
     id: 767,
@@ -6900,7 +6900,7 @@ const data = [
     email: "swimesla@blogspot.com",
     gender: "Female",
     age: 64,
-    amount: "$1380.77",
+    amount: "1380.77",
   },
   {
     id: 768,
@@ -6909,7 +6909,7 @@ const data = [
     email: "dcunnowlb@yellowpages.com",
     gender: "Male",
     age: 17,
-    amount: "$8409.96",
+    amount: "8409.96",
   },
   {
     id: 769,
@@ -6918,7 +6918,7 @@ const data = [
     email: "wthackelc@miitbeian.gov.cn",
     gender: "Male",
     age: 75,
-    amount: "$4758.02",
+    amount: "4758.02",
   },
   {
     id: 770,
@@ -6927,7 +6927,7 @@ const data = [
     email: "lmerigeauld@businessinsider.com",
     gender: "Female",
     age: 46,
-    amount: "$1388.32",
+    amount: "1388.32",
   },
   {
     id: 771,
@@ -6936,7 +6936,7 @@ const data = [
     email: "jmitchamle@yellowpages.com",
     gender: "Male",
     age: 18,
-    amount: "$778.61",
+    amount: "778.61",
   },
   {
     id: 772,
@@ -6945,7 +6945,7 @@ const data = [
     email: "sweavinglf@wsj.com",
     gender: "Female",
     age: 65,
-    amount: "$707.29",
+    amount: "707.29",
   },
   {
     id: 773,
@@ -6954,7 +6954,7 @@ const data = [
     email: "hmartellolg@buzzfeed.com",
     gender: "Male",
     age: 20,
-    amount: "$3090.79",
+    amount: "3090.79",
   },
   {
     id: 774,
@@ -6963,7 +6963,7 @@ const data = [
     email: "cbasezzilh@yellowpages.com",
     gender: "Female",
     age: 33,
-    amount: "$2579.39",
+    amount: "2579.39",
   },
   {
     id: 775,
@@ -6972,7 +6972,7 @@ const data = [
     email: "glangmaidli@merriam-webster.com",
     gender: "Female",
     age: 72,
-    amount: "$1319.41",
+    amount: "1319.41",
   },
   {
     id: 776,
@@ -6981,7 +6981,7 @@ const data = [
     email: "rspendleylj@netscape.com",
     gender: "Male",
     age: 24,
-    amount: "$4781.60",
+    amount: "4781.60",
   },
   {
     id: 777,
@@ -6990,7 +6990,7 @@ const data = [
     email: "urafterlk@cisco.com",
     gender: "Female",
     age: 35,
-    amount: "$7074.82",
+    amount: "7074.82",
   },
   {
     id: 778,
@@ -6999,7 +6999,7 @@ const data = [
     email: "mmeaghll@youtube.com",
     gender: "Female",
     age: 41,
-    amount: "$63.26",
+    amount: "63.26",
   },
   {
     id: 779,
@@ -7008,7 +7008,7 @@ const data = [
     email: "mdilnotlm@theguardian.com",
     gender: "Non-binary",
     age: 37,
-    amount: "$3398.09",
+    amount: "3398.09",
   },
   {
     id: 780,
@@ -7017,7 +7017,7 @@ const data = [
     email: "mlewndenln@gnu.org",
     gender: "Male",
     age: 71,
-    amount: "$7899.12",
+    amount: "7899.12",
   },
   {
     id: 781,
@@ -7026,7 +7026,7 @@ const data = [
     email: "mgallehocklo@webmd.com",
     gender: "Male",
     age: 77,
-    amount: "$7722.50",
+    amount: "7722.50",
   },
   {
     id: 782,
@@ -7035,7 +7035,7 @@ const data = [
     email: "scassedylp@ocn.ne.jp",
     gender: "Female",
     age: 79,
-    amount: "$1414.22",
+    amount: "1414.22",
   },
   {
     id: 783,
@@ -7044,7 +7044,7 @@ const data = [
     email: "khrishanoklq@storify.com",
     gender: "Female",
     age: 21,
-    amount: "$4181.17",
+    amount: "4181.17",
   },
   {
     id: 784,
@@ -7053,7 +7053,7 @@ const data = [
     email: "wlabusquierelr@yolasite.com",
     gender: "Male",
     age: 67,
-    amount: "$1408.32",
+    amount: "1408.32",
   },
   {
     id: 785,
@@ -7062,7 +7062,7 @@ const data = [
     email: "vderingls@imgur.com",
     gender: "Male",
     age: 50,
-    amount: "$4757.53",
+    amount: "4757.53",
   },
   {
     id: 786,
@@ -7071,7 +7071,7 @@ const data = [
     email: "ecarnlt@facebook.com",
     gender: "Female",
     age: 33,
-    amount: "$1523.96",
+    amount: "1523.96",
   },
   {
     id: 787,
@@ -7080,7 +7080,7 @@ const data = [
     email: "cmeckifflu@comsenz.com",
     gender: "Non-binary",
     age: 20,
-    amount: "$3280.13",
+    amount: "3280.13",
   },
   {
     id: 788,
@@ -7089,7 +7089,7 @@ const data = [
     email: "lufflv@printfriendly.com",
     gender: "Male",
     age: 55,
-    amount: "$7991.50",
+    amount: "7991.50",
   },
   {
     id: 789,
@@ -7098,7 +7098,7 @@ const data = [
     email: "ggundalw@opensource.org",
     gender: "Male",
     age: 27,
-    amount: "$5797.65",
+    amount: "5797.65",
   },
   {
     id: 790,
@@ -7107,7 +7107,7 @@ const data = [
     email: "cduckerinlx@census.gov",
     gender: "Female",
     age: 41,
-    amount: "$5509.43",
+    amount: "5509.43",
   },
   {
     id: 791,
@@ -7116,7 +7116,7 @@ const data = [
     email: "atithecotely@discuz.net",
     gender: "Female",
     age: 53,
-    amount: "$1315.96",
+    amount: "1315.96",
   },
   {
     id: 792,
@@ -7125,7 +7125,7 @@ const data = [
     email: "smerriganslz@businessinsider.com",
     gender: "Male",
     age: 62,
-    amount: "$5727.94",
+    amount: "5727.94",
   },
   {
     id: 793,
@@ -7134,7 +7134,7 @@ const data = [
     email: "btraitem0@nasa.gov",
     gender: "Male",
     age: 61,
-    amount: "$4151.63",
+    amount: "4151.63",
   },
   {
     id: 794,
@@ -7143,7 +7143,7 @@ const data = [
     email: "lsearchwellm1@bluehost.com",
     gender: "Female",
     age: 34,
-    amount: "$5593.26",
+    amount: "5593.26",
   },
   {
     id: 795,
@@ -7152,7 +7152,7 @@ const data = [
     email: "mbilbym2@independent.co.uk",
     gender: "Female",
     age: 56,
-    amount: "$3855.96",
+    amount: "3855.96",
   },
   {
     id: 796,
@@ -7161,7 +7161,7 @@ const data = [
     email: "dtrazzim3@umn.edu",
     gender: "Female",
     age: 36,
-    amount: "$6842.99",
+    amount: "6842.99",
   },
   {
     id: 797,
@@ -7170,7 +7170,7 @@ const data = [
     email: "sjedrzejkiewiczm4@microsoft.com",
     gender: "Female",
     age: 66,
-    amount: "$5728.73",
+    amount: "5728.73",
   },
   {
     id: 798,
@@ -7179,7 +7179,7 @@ const data = [
     email: "llordingm5@reference.com",
     gender: "Female",
     age: 35,
-    amount: "$806.05",
+    amount: "806.05",
   },
   {
     id: 799,
@@ -7188,7 +7188,7 @@ const data = [
     email: "eslimingsm6@technorati.com",
     gender: "Genderqueer",
     age: 57,
-    amount: "$6048.27",
+    amount: "6048.27",
   },
   {
     id: 800,
@@ -7197,7 +7197,7 @@ const data = [
     email: "ejeayesm7@istockphoto.com",
     gender: "Female",
     age: 62,
-    amount: "$8460.88",
+    amount: "8460.88",
   },
   {
     id: 801,
@@ -7206,7 +7206,7 @@ const data = [
     email: "gwiperm8@sohu.com",
     gender: "Male",
     age: 18,
-    amount: "$1208.87",
+    amount: "1208.87",
   },
   {
     id: 802,
@@ -7215,7 +7215,7 @@ const data = [
     email: "rheinleinm9@yahoo.co.jp",
     gender: "Agender",
     age: 75,
-    amount: "$9463.80",
+    amount: "9463.80",
   },
   {
     id: 803,
@@ -7224,7 +7224,7 @@ const data = [
     email: "kcasburnma@fc2.com",
     gender: "Female",
     age: 62,
-    amount: "$9596.90",
+    amount: "9596.90",
   },
   {
     id: 804,
@@ -7233,7 +7233,7 @@ const data = [
     email: "dnorthbridgemb@pbs.org",
     gender: "Genderqueer",
     age: 30,
-    amount: "$2815.22",
+    amount: "2815.22",
   },
   {
     id: 805,
@@ -7242,7 +7242,7 @@ const data = [
     email: "emerrydewmc@yelp.com",
     gender: "Bigender",
     age: 64,
-    amount: "$5789.39",
+    amount: "5789.39",
   },
   {
     id: 806,
@@ -7251,7 +7251,7 @@ const data = [
     email: "oarnowmd@netlog.com",
     gender: "Polygender",
     age: 31,
-    amount: "$9116.39",
+    amount: "9116.39",
   },
   {
     id: 807,
@@ -7260,7 +7260,7 @@ const data = [
     email: "ejiggensme@mit.edu",
     gender: "Female",
     age: 27,
-    amount: "$1150.70",
+    amount: "1150.70",
   },
   {
     id: 808,
@@ -7269,7 +7269,7 @@ const data = [
     email: "cfroomemf@psu.edu",
     gender: "Female",
     age: 19,
-    amount: "$8288.71",
+    amount: "8288.71",
   },
   {
     id: 809,
@@ -7278,7 +7278,7 @@ const data = [
     email: "sstreatermg@t.co",
     gender: "Female",
     age: 29,
-    amount: "$4355.27",
+    amount: "4355.27",
   },
   {
     id: 810,
@@ -7287,7 +7287,7 @@ const data = [
     email: "jmcbradymh@utexas.edu",
     gender: "Male",
     age: 54,
-    amount: "$9177.47",
+    amount: "9177.47",
   },
   {
     id: 811,
@@ -7296,7 +7296,7 @@ const data = [
     email: "mhaningtonmi@mozilla.org",
     gender: "Male",
     age: 18,
-    amount: "$8192.65",
+    amount: "8192.65",
   },
   {
     id: 812,
@@ -7305,7 +7305,7 @@ const data = [
     email: "lthornleymj@photobucket.com",
     gender: "Female",
     age: 49,
-    amount: "$9259.44",
+    amount: "9259.44",
   },
   {
     id: 813,
@@ -7314,7 +7314,7 @@ const data = [
     email: "tdebneymk@qq.com",
     gender: "Female",
     age: 18,
-    amount: "$4873.56",
+    amount: "4873.56",
   },
   {
     id: 814,
@@ -7323,7 +7323,7 @@ const data = [
     email: "dmylanml@cbc.ca",
     gender: "Male",
     age: 21,
-    amount: "$743.40",
+    amount: "743.40",
   },
   {
     id: 815,
@@ -7332,7 +7332,7 @@ const data = [
     email: "gmatessianmm@livejournal.com",
     gender: "Male",
     age: 56,
-    amount: "$928.52",
+    amount: "928.52",
   },
   {
     id: 816,
@@ -7341,7 +7341,7 @@ const data = [
     email: "svanhesterenmn@twitter.com",
     gender: "Female",
     age: 64,
-    amount: "$1054.93",
+    amount: "1054.93",
   },
   {
     id: 817,
@@ -7350,7 +7350,7 @@ const data = [
     email: "cdambrosimo@deliciousdays.com",
     gender: "Male",
     age: 63,
-    amount: "$9665.93",
+    amount: "9665.93",
   },
   {
     id: 818,
@@ -7359,7 +7359,7 @@ const data = [
     email: "mpatientmp@purevolume.com",
     gender: "Female",
     age: 38,
-    amount: "$6886.49",
+    amount: "6886.49",
   },
   {
     id: 819,
@@ -7368,7 +7368,7 @@ const data = [
     email: "bhargittmq@wikispaces.com",
     gender: "Female",
     age: 39,
-    amount: "$822.28",
+    amount: "822.28",
   },
   {
     id: 820,
@@ -7377,7 +7377,7 @@ const data = [
     email: "eprobbingsmr@ameblo.jp",
     gender: "Female",
     age: 51,
-    amount: "$9932.17",
+    amount: "9932.17",
   },
   {
     id: 821,
@@ -7386,7 +7386,7 @@ const data = [
     email: "jellitms@1688.com",
     gender: "Female",
     age: 45,
-    amount: "$1088.83",
+    amount: "1088.83",
   },
   {
     id: 822,
@@ -7395,7 +7395,7 @@ const data = [
     email: "hhatcliffemt@bandcamp.com",
     gender: "Female",
     age: 56,
-    amount: "$4999.47",
+    amount: "4999.47",
   },
   {
     id: 823,
@@ -7404,7 +7404,7 @@ const data = [
     email: "bflahertymu@trellian.com",
     gender: "Female",
     age: 27,
-    amount: "$4265.17",
+    amount: "4265.17",
   },
   {
     id: 824,
@@ -7413,7 +7413,7 @@ const data = [
     email: "ronionsmv@edublogs.org",
     gender: "Female",
     age: 36,
-    amount: "$3624.31",
+    amount: "3624.31",
   },
   {
     id: 825,
@@ -7422,7 +7422,7 @@ const data = [
     email: "vlabanmw@shop-pro.jp",
     gender: "Female",
     age: 57,
-    amount: "$8821.28",
+    amount: "8821.28",
   },
   {
     id: 826,
@@ -7431,7 +7431,7 @@ const data = [
     email: "mmenichellimx@desdev.cn",
     gender: "Female",
     age: 61,
-    amount: "$1373.90",
+    amount: "1373.90",
   },
   {
     id: 827,
@@ -7440,7 +7440,7 @@ const data = [
     email: "kkettowmy@stanford.edu",
     gender: "Genderfluid",
     age: 43,
-    amount: "$8220.91",
+    amount: "8220.91",
   },
   {
     id: 828,
@@ -7449,7 +7449,7 @@ const data = [
     email: "bakkermz@ovh.net",
     gender: "Female",
     age: 67,
-    amount: "$5702.05",
+    amount: "5702.05",
   },
   {
     id: 829,
@@ -7458,7 +7458,7 @@ const data = [
     email: "jsoppittn0@ucsd.edu",
     gender: "Female",
     age: 18,
-    amount: "$5742.60",
+    amount: "5742.60",
   },
   {
     id: 830,
@@ -7467,7 +7467,7 @@ const data = [
     email: "sweatherhoggn1@fotki.com",
     gender: "Female",
     age: 75,
-    amount: "$7676.31",
+    amount: "7676.31",
   },
   {
     id: 831,
@@ -7476,7 +7476,7 @@ const data = [
     email: "rghionn2@ftc.gov",
     gender: "Female",
     age: 74,
-    amount: "$7073.11",
+    amount: "7073.11",
   },
   {
     id: 832,
@@ -7485,7 +7485,7 @@ const data = [
     email: "lsecrettn3@gravatar.com",
     gender: "Female",
     age: 31,
-    amount: "$8564.76",
+    amount: "8564.76",
   },
   {
     id: 833,
@@ -7494,7 +7494,7 @@ const data = [
     email: "jrackstrawn4@privacy.gov.au",
     gender: "Male",
     age: 54,
-    amount: "$5636.98",
+    amount: "5636.98",
   },
   {
     id: 834,
@@ -7503,7 +7503,7 @@ const data = [
     email: "cjanochn5@goo.ne.jp",
     gender: "Female",
     age: 29,
-    amount: "$1826.20",
+    amount: "1826.20",
   },
   {
     id: 835,
@@ -7512,7 +7512,7 @@ const data = [
     email: "lkinetonn6@hud.gov",
     gender: "Female",
     age: 72,
-    amount: "$9766.40",
+    amount: "9766.40",
   },
   {
     id: 836,
@@ -7521,7 +7521,7 @@ const data = [
     email: "mjasiakn7@ebay.co.uk",
     gender: "Male",
     age: 71,
-    amount: "$852.57",
+    amount: "852.57",
   },
   {
     id: 837,
@@ -7530,7 +7530,7 @@ const data = [
     email: "gtrewn8@ebay.com",
     gender: "Female",
     age: 65,
-    amount: "$5676.36",
+    amount: "5676.36",
   },
   {
     id: 838,
@@ -7539,7 +7539,7 @@ const data = [
     email: "rsallnown9@yahoo.com",
     gender: "Male",
     age: 66,
-    amount: "$7765.02",
+    amount: "7765.02",
   },
   {
     id: 839,
@@ -7548,7 +7548,7 @@ const data = [
     email: "bdavidoffna@dagondesign.com",
     gender: "Non-binary",
     age: 16,
-    amount: "$1271.48",
+    amount: "1271.48",
   },
   {
     id: 840,
@@ -7557,7 +7557,7 @@ const data = [
     email: "mfergienb@liveinternet.ru",
     gender: "Female",
     age: 17,
-    amount: "$568.84",
+    amount: "568.84",
   },
   {
     id: 841,
@@ -7566,7 +7566,7 @@ const data = [
     email: "abalstonnc@geocities.jp",
     gender: "Male",
     age: 40,
-    amount: "$8351.51",
+    amount: "8351.51",
   },
   {
     id: 842,
@@ -7575,7 +7575,7 @@ const data = [
     email: "rgillettnd@themeforest.net",
     gender: "Female",
     age: 71,
-    amount: "$6207.35",
+    amount: "6207.35",
   },
   {
     id: 843,
@@ -7584,7 +7584,7 @@ const data = [
     email: "pluscombene@myspace.com",
     gender: "Male",
     age: 57,
-    amount: "$1413.64",
+    amount: "1413.64",
   },
   {
     id: 844,
@@ -7593,7 +7593,7 @@ const data = [
     email: "kmcgilbennf@miitbeian.gov.cn",
     gender: "Male",
     age: 71,
-    amount: "$4204.34",
+    amount: "4204.34",
   },
   {
     id: 845,
@@ -7602,7 +7602,7 @@ const data = [
     email: "rpeertng@prlog.org",
     gender: "Female",
     age: 54,
-    amount: "$4670.43",
+    amount: "4670.43",
   },
   {
     id: 846,
@@ -7611,7 +7611,7 @@ const data = [
     email: "studbaldnh@aboutads.info",
     gender: "Female",
     age: 41,
-    amount: "$5158.38",
+    amount: "5158.38",
   },
   {
     id: 847,
@@ -7620,7 +7620,7 @@ const data = [
     email: "cvyelni@360.cn",
     gender: "Female",
     age: 52,
-    amount: "$7867.80",
+    amount: "7867.80",
   },
   {
     id: 848,
@@ -7629,7 +7629,7 @@ const data = [
     email: "osherernj@ebay.co.uk",
     gender: "Male",
     age: 21,
-    amount: "$9307.50",
+    amount: "9307.50",
   },
   {
     id: 849,
@@ -7638,7 +7638,7 @@ const data = [
     email: "awaddamnk@forbes.com",
     gender: "Female",
     age: 18,
-    amount: "$2947.82",
+    amount: "2947.82",
   },
   {
     id: 850,
@@ -7647,7 +7647,7 @@ const data = [
     email: "sthrelfallnl@ask.com",
     gender: "Male",
     age: 59,
-    amount: "$3889.87",
+    amount: "3889.87",
   },
   {
     id: 851,
@@ -7656,7 +7656,7 @@ const data = [
     email: "ggrimseynm@guardian.co.uk",
     gender: "Female",
     age: 61,
-    amount: "$4806.26",
+    amount: "4806.26",
   },
   {
     id: 852,
@@ -7665,7 +7665,7 @@ const data = [
     email: "rcroiziernn@bing.com",
     gender: "Male",
     age: 36,
-    amount: "$245.15",
+    amount: "245.15",
   },
   {
     id: 853,
@@ -7674,7 +7674,7 @@ const data = [
     email: "aroughtno@1und1.de",
     gender: "Female",
     age: 28,
-    amount: "$9230.15",
+    amount: "9230.15",
   },
   {
     id: 854,
@@ -7683,7 +7683,7 @@ const data = [
     email: "avedekhinnp@ted.com",
     gender: "Male",
     age: 38,
-    amount: "$8989.29",
+    amount: "8989.29",
   },
   {
     id: 855,
@@ -7692,7 +7692,7 @@ const data = [
     email: "dkeyselnq@mapquest.com",
     gender: "Female",
     age: 25,
-    amount: "$7331.02",
+    amount: "7331.02",
   },
   {
     id: 856,
@@ -7701,7 +7701,7 @@ const data = [
     email: "tashdownnr@ted.com",
     gender: "Female",
     age: 63,
-    amount: "$9911.68",
+    amount: "9911.68",
   },
   {
     id: 857,
@@ -7710,7 +7710,7 @@ const data = [
     email: "hpollenns@bluehost.com",
     gender: "Female",
     age: 45,
-    amount: "$7130.66",
+    amount: "7130.66",
   },
   {
     id: 858,
@@ -7719,7 +7719,7 @@ const data = [
     email: "vpottingernt@issuu.com",
     gender: "Female",
     age: 76,
-    amount: "$4391.08",
+    amount: "4391.08",
   },
   {
     id: 859,
@@ -7728,7 +7728,7 @@ const data = [
     email: "lalejandronu@sun.com",
     gender: "Female",
     age: 52,
-    amount: "$2338.35",
+    amount: "2338.35",
   },
   {
     id: 860,
@@ -7737,7 +7737,7 @@ const data = [
     email: "kmathysnv@issuu.com",
     gender: "Female",
     age: 44,
-    amount: "$1432.57",
+    amount: "1432.57",
   },
   {
     id: 861,
@@ -7746,7 +7746,7 @@ const data = [
     email: "krawsthornnw@biglobe.ne.jp",
     gender: "Female",
     age: 73,
-    amount: "$6047.27",
+    amount: "6047.27",
   },
   {
     id: 862,
@@ -7755,7 +7755,7 @@ const data = [
     email: "emathesnx@bloglovin.com",
     gender: "Male",
     age: 68,
-    amount: "$6887.32",
+    amount: "6887.32",
   },
   {
     id: 863,
@@ -7764,7 +7764,7 @@ const data = [
     email: "vumfreyny@constantcontact.com",
     gender: "Female",
     age: 59,
-    amount: "$7538.07",
+    amount: "7538.07",
   },
   {
     id: 864,
@@ -7773,7 +7773,7 @@ const data = [
     email: "wpenberthynz@sourceforge.net",
     gender: "Male",
     age: 54,
-    amount: "$1595.87",
+    amount: "1595.87",
   },
   {
     id: 865,
@@ -7782,7 +7782,7 @@ const data = [
     email: "fdiantonioo0@topsy.com",
     gender: "Female",
     age: 29,
-    amount: "$3152.54",
+    amount: "3152.54",
   },
   {
     id: 866,
@@ -7791,7 +7791,7 @@ const data = [
     email: "wgoodeyo1@t.co",
     gender: "Female",
     age: 63,
-    amount: "$1036.49",
+    amount: "1036.49",
   },
   {
     id: 867,
@@ -7800,7 +7800,7 @@ const data = [
     email: "alefrieco2@alibaba.com",
     gender: "Genderqueer",
     age: 73,
-    amount: "$2373.89",
+    amount: "2373.89",
   },
   {
     id: 868,
@@ -7809,7 +7809,7 @@ const data = [
     email: "ecallinghamo3@seattletimes.com",
     gender: "Male",
     age: 19,
-    amount: "$6006.94",
+    amount: "6006.94",
   },
   {
     id: 869,
@@ -7818,7 +7818,7 @@ const data = [
     email: "echurchwardo4@cornell.edu",
     gender: "Female",
     age: 74,
-    amount: "$7371.46",
+    amount: "7371.46",
   },
   {
     id: 870,
@@ -7827,7 +7827,7 @@ const data = [
     email: "fspriggo5@state.tx.us",
     gender: "Male",
     age: 43,
-    amount: "$7477.92",
+    amount: "7477.92",
   },
   {
     id: 871,
@@ -7836,7 +7836,7 @@ const data = [
     email: "amckimmo6@bluehost.com",
     gender: "Female",
     age: 21,
-    amount: "$6824.21",
+    amount: "6824.21",
   },
   {
     id: 872,
@@ -7845,7 +7845,7 @@ const data = [
     email: "oboswortho7@webnode.com",
     gender: "Female",
     age: 28,
-    amount: "$947.27",
+    amount: "947.27",
   },
   {
     id: 873,
@@ -7854,7 +7854,7 @@ const data = [
     email: "gmoreo8@uiuc.edu",
     gender: "Female",
     age: 18,
-    amount: "$6109.58",
+    amount: "6109.58",
   },
   {
     id: 874,
@@ -7863,7 +7863,7 @@ const data = [
     email: "vgidleyo9@etsy.com",
     gender: "Female",
     age: 41,
-    amount: "$6754.21",
+    amount: "6754.21",
   },
   {
     id: 875,
@@ -7872,7 +7872,7 @@ const data = [
     email: "ltrenouthoa@mozilla.com",
     gender: "Female",
     age: 23,
-    amount: "$1536.82",
+    amount: "1536.82",
   },
   {
     id: 876,
@@ -7881,7 +7881,7 @@ const data = [
     email: "sgabbottob@tumblr.com",
     gender: "Male",
     age: 40,
-    amount: "$2371.78",
+    amount: "2371.78",
   },
   {
     id: 877,
@@ -7890,7 +7890,7 @@ const data = [
     email: "cchilesoc@dailymail.co.uk",
     gender: "Non-binary",
     age: 23,
-    amount: "$7035.10",
+    amount: "7035.10",
   },
   {
     id: 878,
@@ -7899,7 +7899,7 @@ const data = [
     email: "asibthorpeod@mayoclinic.com",
     gender: "Genderqueer",
     age: 31,
-    amount: "$6042.46",
+    amount: "6042.46",
   },
   {
     id: 879,
@@ -7908,7 +7908,7 @@ const data = [
     email: "mtindalloe@stumbleupon.com",
     gender: "Female",
     age: 61,
-    amount: "$6285.84",
+    amount: "6285.84",
   },
   {
     id: 880,
@@ -7917,7 +7917,7 @@ const data = [
     email: "vquickfallof@over-blog.com",
     gender: "Female",
     age: 28,
-    amount: "$4174.66",
+    amount: "4174.66",
   },
   {
     id: 881,
@@ -7926,7 +7926,7 @@ const data = [
     email: "gbonnifaceog@sciencedirect.com",
     gender: "Female",
     age: 72,
-    amount: "$1716.41",
+    amount: "1716.41",
   },
   {
     id: 882,
@@ -7935,7 +7935,7 @@ const data = [
     email: "esharremoh@exblog.jp",
     gender: "Female",
     age: 64,
-    amount: "$2595.00",
+    amount: "2595.00",
   },
   {
     id: 883,
@@ -7944,7 +7944,7 @@ const data = [
     email: "claintonoi@microsoft.com",
     gender: "Male",
     age: 16,
-    amount: "$6726.85",
+    amount: "6726.85",
   },
   {
     id: 884,
@@ -7953,7 +7953,7 @@ const data = [
     email: "dcullingworthoj@whitehouse.gov",
     gender: "Female",
     age: 43,
-    amount: "$6835.31",
+    amount: "6835.31",
   },
   {
     id: 885,
@@ -7962,7 +7962,7 @@ const data = [
     email: "idykasok@bravesites.com",
     gender: "Polygender",
     age: 76,
-    amount: "$3835.44",
+    amount: "3835.44",
   },
   {
     id: 886,
@@ -7971,7 +7971,7 @@ const data = [
     email: "dtassakerol@last.fm",
     gender: "Male",
     age: 48,
-    amount: "$7392.36",
+    amount: "7392.36",
   },
   {
     id: 887,
@@ -7980,7 +7980,7 @@ const data = [
     email: "hudeyom@princeton.edu",
     gender: "Male",
     age: 64,
-    amount: "$4242.01",
+    amount: "4242.01",
   },
   {
     id: 888,
@@ -7989,7 +7989,7 @@ const data = [
     email: "tcutmereon@zimbio.com",
     gender: "Male",
     age: 34,
-    amount: "$9169.49",
+    amount: "9169.49",
   },
   {
     id: 889,
@@ -7998,7 +7998,7 @@ const data = [
     email: "osemonoo@usnews.com",
     gender: "Male",
     age: 48,
-    amount: "$4968.22",
+    amount: "4968.22",
   },
   {
     id: 890,
@@ -8007,7 +8007,7 @@ const data = [
     email: "aboorerop@trellian.com",
     gender: "Female",
     age: 38,
-    amount: "$9062.93",
+    amount: "9062.93",
   },
   {
     id: 891,
@@ -8016,7 +8016,7 @@ const data = [
     email: "kkinastanoq@google.cn",
     gender: "Genderqueer",
     age: 67,
-    amount: "$2807.71",
+    amount: "2807.71",
   },
   {
     id: 892,
@@ -8025,7 +8025,7 @@ const data = [
     email: "cgilbeyor@google.co.jp",
     gender: "Male",
     age: 74,
-    amount: "$4122.68",
+    amount: "4122.68",
   },
   {
     id: 893,
@@ -8034,7 +8034,7 @@ const data = [
     email: "lscheffleros@intel.com",
     gender: "Female",
     age: 36,
-    amount: "$6851.35",
+    amount: "6851.35",
   },
   {
     id: 894,
@@ -8043,7 +8043,7 @@ const data = [
     email: "abattissonot@parallels.com",
     gender: "Female",
     age: 21,
-    amount: "$7521.29",
+    amount: "7521.29",
   },
   {
     id: 895,
@@ -8052,7 +8052,7 @@ const data = [
     email: "obittlestoneou@squidoo.com",
     gender: "Female",
     age: 70,
-    amount: "$8838.54",
+    amount: "8838.54",
   },
   {
     id: 896,
@@ -8061,7 +8061,7 @@ const data = [
     email: "ghizirov@fc2.com",
     gender: "Female",
     age: 68,
-    amount: "$5711.86",
+    amount: "5711.86",
   },
   {
     id: 897,
@@ -8070,7 +8070,7 @@ const data = [
     email: "oaveriesow@netscape.com",
     gender: "Female",
     age: 42,
-    amount: "$7682.71",
+    amount: "7682.71",
   },
   {
     id: 898,
@@ -8079,7 +8079,7 @@ const data = [
     email: "pgotchox@51.la",
     gender: "Male",
     age: 56,
-    amount: "$588.20",
+    amount: "588.20",
   },
   {
     id: 899,
@@ -8088,7 +8088,7 @@ const data = [
     email: "gpipworthoy@go.com",
     gender: "Male",
     age: 57,
-    amount: "$7775.20",
+    amount: "7775.20",
   },
   {
     id: 900,
@@ -8097,7 +8097,7 @@ const data = [
     email: "gbuzzingoz@liveinternet.ru",
     gender: "Male",
     age: 80,
-    amount: "$4448.11",
+    amount: "4448.11",
   },
   {
     id: 901,
@@ -8106,7 +8106,7 @@ const data = [
     email: "smanzp0@youku.com",
     gender: "Male",
     age: 25,
-    amount: "$8120.99",
+    amount: "8120.99",
   },
   {
     id: 902,
@@ -8115,7 +8115,7 @@ const data = [
     email: "dtudgep1@prweb.com",
     gender: "Female",
     age: 51,
-    amount: "$2968.84",
+    amount: "2968.84",
   },
   {
     id: 903,
@@ -8124,7 +8124,7 @@ const data = [
     email: "jwarykp2@auda.org.au",
     gender: "Female",
     age: 38,
-    amount: "$7901.33",
+    amount: "7901.33",
   },
   {
     id: 904,
@@ -8133,7 +8133,7 @@ const data = [
     email: "dlawlandp3@cmu.edu",
     gender: "Female",
     age: 25,
-    amount: "$440.34",
+    amount: "440.34",
   },
   {
     id: 905,
@@ -8142,7 +8142,7 @@ const data = [
     email: "lmirandop4@aol.com",
     gender: "Male",
     age: 16,
-    amount: "$1699.61",
+    amount: "1699.61",
   },
   {
     id: 906,
@@ -8151,7 +8151,7 @@ const data = [
     email: "djeramp5@weebly.com",
     gender: "Male",
     age: 75,
-    amount: "$5372.94",
+    amount: "5372.94",
   },
   {
     id: 907,
@@ -8160,7 +8160,7 @@ const data = [
     email: "bposselowp6@tiny.cc",
     gender: "Female",
     age: 30,
-    amount: "$1152.37",
+    amount: "1152.37",
   },
   {
     id: 908,
@@ -8169,7 +8169,7 @@ const data = [
     email: "jwhykep7@washington.edu",
     gender: "Male",
     age: 21,
-    amount: "$4598.40",
+    amount: "4598.40",
   },
   {
     id: 909,
@@ -8178,7 +8178,7 @@ const data = [
     email: "sgiacomozzop8@techcrunch.com",
     gender: "Male",
     age: 47,
-    amount: "$7066.23",
+    amount: "7066.23",
   },
   {
     id: 910,
@@ -8187,7 +8187,7 @@ const data = [
     email: "tbunkerp9@simplemachines.org",
     gender: "Male",
     age: 62,
-    amount: "$122.52",
+    amount: "122.52",
   },
   {
     id: 911,
@@ -8196,7 +8196,7 @@ const data = [
     email: "aokieranpa@fc2.com",
     gender: "Agender",
     age: 49,
-    amount: "$6154.44",
+    amount: "6154.44",
   },
   {
     id: 912,
@@ -8205,7 +8205,7 @@ const data = [
     email: "mleappb@comsenz.com",
     gender: "Female",
     age: 56,
-    amount: "$3132.35",
+    amount: "3132.35",
   },
   {
     id: 913,
@@ -8214,7 +8214,7 @@ const data = [
     email: "cconvillepc@arstechnica.com",
     gender: "Female",
     age: 78,
-    amount: "$2839.00",
+    amount: "2839.00",
   },
   {
     id: 914,
@@ -8223,7 +8223,7 @@ const data = [
     email: "cdymidowiczpd@jugem.jp",
     gender: "Female",
     age: 63,
-    amount: "$1772.71",
+    amount: "1772.71",
   },
   {
     id: 915,
@@ -8232,7 +8232,7 @@ const data = [
     email: "cchadwenpe@yahoo.com",
     gender: "Female",
     age: 53,
-    amount: "$3416.51",
+    amount: "3416.51",
   },
   {
     id: 916,
@@ -8241,7 +8241,7 @@ const data = [
     email: "pcoonanpf@amazonaws.com",
     gender: "Male",
     age: 63,
-    amount: "$813.10",
+    amount: "813.10",
   },
   {
     id: 917,
@@ -8250,7 +8250,7 @@ const data = [
     email: "dmottersheadpg@utexas.edu",
     gender: "Female",
     age: 18,
-    amount: "$4105.27",
+    amount: "4105.27",
   },
   {
     id: 918,
@@ -8259,7 +8259,7 @@ const data = [
     email: "amintyph@narod.ru",
     gender: "Female",
     age: 43,
-    amount: "$2476.46",
+    amount: "2476.46",
   },
   {
     id: 919,
@@ -8268,7 +8268,7 @@ const data = [
     email: "tcobleighpi@devhub.com",
     gender: "Female",
     age: 73,
-    amount: "$7230.14",
+    amount: "7230.14",
   },
   {
     id: 920,
@@ -8277,7 +8277,7 @@ const data = [
     email: "ldykapj@free.fr",
     gender: "Female",
     age: 78,
-    amount: "$8420.30",
+    amount: "8420.30",
   },
   {
     id: 921,
@@ -8286,7 +8286,7 @@ const data = [
     email: "wattlepk@springer.com",
     gender: "Male",
     age: 62,
-    amount: "$7116.12",
+    amount: "7116.12",
   },
   {
     id: 922,
@@ -8295,7 +8295,7 @@ const data = [
     email: "kyanezpl@ibm.com",
     gender: "Polygender",
     age: 76,
-    amount: "$1978.44",
+    amount: "1978.44",
   },
   {
     id: 923,
@@ -8304,7 +8304,7 @@ const data = [
     email: "mwickrathpm@weebly.com",
     gender: "Female",
     age: 38,
-    amount: "$5480.33",
+    amount: "5480.33",
   },
   {
     id: 924,
@@ -8313,7 +8313,7 @@ const data = [
     email: "rlackhampn@eepurl.com",
     gender: "Female",
     age: 56,
-    amount: "$7682.80",
+    amount: "7682.80",
   },
   {
     id: 925,
@@ -8322,7 +8322,7 @@ const data = [
     email: "olindstedtpo@state.gov",
     gender: "Male",
     age: 36,
-    amount: "$1360.16",
+    amount: "1360.16",
   },
   {
     id: 926,
@@ -8331,7 +8331,7 @@ const data = [
     email: "chalsopp@salon.com",
     gender: "Female",
     age: 60,
-    amount: "$7669.94",
+    amount: "7669.94",
   },
   {
     id: 927,
@@ -8340,7 +8340,7 @@ const data = [
     email: "ccavillapq@shop-pro.jp",
     gender: "Female",
     age: 78,
-    amount: "$2668.38",
+    amount: "2668.38",
   },
   {
     id: 928,
@@ -8349,7 +8349,7 @@ const data = [
     email: "ssumblerpr@sitemeter.com",
     gender: "Female",
     age: 36,
-    amount: "$1766.06",
+    amount: "1766.06",
   },
   {
     id: 929,
@@ -8358,7 +8358,7 @@ const data = [
     email: "mkainesps@miibeian.gov.cn",
     gender: "Genderfluid",
     age: 27,
-    amount: "$159.26",
+    amount: "159.26",
   },
   {
     id: 930,
@@ -8367,7 +8367,7 @@ const data = [
     email: "tblowerpt@webeden.co.uk",
     gender: "Female",
     age: 74,
-    amount: "$5868.89",
+    amount: "5868.89",
   },
   {
     id: 931,
@@ -8376,7 +8376,7 @@ const data = [
     email: "hcuttenpu@chicagotribune.com",
     gender: "Male",
     age: 21,
-    amount: "$6938.80",
+    amount: "6938.80",
   },
   {
     id: 932,
@@ -8385,7 +8385,7 @@ const data = [
     email: "abussettipv@ed.gov",
     gender: "Male",
     age: 21,
-    amount: "$8135.29",
+    amount: "8135.29",
   },
   {
     id: 933,
@@ -8394,7 +8394,7 @@ const data = [
     email: "bwindowspw@foxnews.com",
     gender: "Male",
     age: 26,
-    amount: "$9194.62",
+    amount: "9194.62",
   },
   {
     id: 934,
@@ -8403,7 +8403,7 @@ const data = [
     email: "ahuychepx@netlog.com",
     gender: "Polygender",
     age: 16,
-    amount: "$2290.83",
+    amount: "2290.83",
   },
   {
     id: 935,
@@ -8412,7 +8412,7 @@ const data = [
     email: "jsultanpy@istockphoto.com",
     gender: "Bigender",
     age: 42,
-    amount: "$2772.71",
+    amount: "2772.71",
   },
   {
     id: 936,
@@ -8421,7 +8421,7 @@ const data = [
     email: "hnovichenkopz@addtoany.com",
     gender: "Female",
     age: 38,
-    amount: "$9095.56",
+    amount: "9095.56",
   },
   {
     id: 937,
@@ -8430,7 +8430,7 @@ const data = [
     email: "cnodenq0@shop-pro.jp",
     gender: "Female",
     age: 42,
-    amount: "$6919.75",
+    amount: "6919.75",
   },
   {
     id: 938,
@@ -8439,7 +8439,7 @@ const data = [
     email: "hstoaksq1@yellowbook.com",
     gender: "Male",
     age: 16,
-    amount: "$928.16",
+    amount: "928.16",
   },
   {
     id: 939,
@@ -8448,7 +8448,7 @@ const data = [
     email: "lcardenq2@unblog.fr",
     gender: "Male",
     age: 62,
-    amount: "$8252.26",
+    amount: "8252.26",
   },
   {
     id: 940,
@@ -8457,7 +8457,7 @@ const data = [
     email: "ctorrittiq3@nbcnews.com",
     gender: "Female",
     age: 69,
-    amount: "$2981.13",
+    amount: "2981.13",
   },
   {
     id: 941,
@@ -8466,7 +8466,7 @@ const data = [
     email: "kowtramq4@dyndns.org",
     gender: "Female",
     age: 80,
-    amount: "$3372.77",
+    amount: "3372.77",
   },
   {
     id: 942,
@@ -8475,7 +8475,7 @@ const data = [
     email: "trouseq5@github.io",
     gender: "Male",
     age: 19,
-    amount: "$6954.03",
+    amount: "6954.03",
   },
   {
     id: 943,
@@ -8484,7 +8484,7 @@ const data = [
     email: "jwolfordq6@opensource.org",
     gender: "Male",
     age: 72,
-    amount: "$1907.27",
+    amount: "1907.27",
   },
   {
     id: 944,
@@ -8493,7 +8493,7 @@ const data = [
     email: "wcamplinq7@cyberchimps.com",
     gender: "Male",
     age: 34,
-    amount: "$7676.86",
+    amount: "7676.86",
   },
   {
     id: 945,
@@ -8502,7 +8502,7 @@ const data = [
     email: "lmccrostieq8@tumblr.com",
     gender: "Male",
     age: 69,
-    amount: "$7195.55",
+    amount: "7195.55",
   },
   {
     id: 946,
@@ -8511,7 +8511,7 @@ const data = [
     email: "bjustq9@ucla.edu",
     gender: "Male",
     age: 49,
-    amount: "$1873.51",
+    amount: "1873.51",
   },
   {
     id: 947,
@@ -8520,7 +8520,7 @@ const data = [
     email: "lkettellqa@istockphoto.com",
     gender: "Female",
     age: 80,
-    amount: "$8550.47",
+    amount: "8550.47",
   },
   {
     id: 948,
@@ -8529,7 +8529,7 @@ const data = [
     email: "qbrodbinqb@ucsd.edu",
     gender: "Male",
     age: 43,
-    amount: "$7588.21",
+    amount: "7588.21",
   },
   {
     id: 949,
@@ -8538,7 +8538,7 @@ const data = [
     email: "ccoeqc@uiuc.edu",
     gender: "Male",
     age: 47,
-    amount: "$5225.21",
+    amount: "5225.21",
   },
   {
     id: 950,
@@ -8547,7 +8547,7 @@ const data = [
     email: "vhallfordqd@bandcamp.com",
     gender: "Female",
     age: 80,
-    amount: "$1316.01",
+    amount: "1316.01",
   },
   {
     id: 951,
@@ -8556,7 +8556,7 @@ const data = [
     email: "lgendrickeqe@trellian.com",
     gender: "Male",
     age: 28,
-    amount: "$772.43",
+    amount: "772.43",
   },
   {
     id: 952,
@@ -8565,7 +8565,7 @@ const data = [
     email: "fvelaqf@narod.ru",
     gender: "Agender",
     age: 66,
-    amount: "$6346.34",
+    amount: "6346.34",
   },
   {
     id: 953,
@@ -8574,7 +8574,7 @@ const data = [
     email: "elumbyqg@noaa.gov",
     gender: "Male",
     age: 34,
-    amount: "$8003.84",
+    amount: "8003.84",
   },
   {
     id: 954,
@@ -8583,7 +8583,7 @@ const data = [
     email: "kferrierqh@ask.com",
     gender: "Female",
     age: 76,
-    amount: "$5418.72",
+    amount: "5418.72",
   },
   {
     id: 955,
@@ -8592,7 +8592,7 @@ const data = [
     email: "clawlerqi@usda.gov",
     gender: "Female",
     age: 63,
-    amount: "$3069.10",
+    amount: "3069.10",
   },
   {
     id: 956,
@@ -8601,7 +8601,7 @@ const data = [
     email: "dshevlanqj@reuters.com",
     gender: "Male",
     age: 69,
-    amount: "$9194.20",
+    amount: "9194.20",
   },
   {
     id: 957,
@@ -8610,7 +8610,7 @@ const data = [
     email: "sduddellqk@gmpg.org",
     gender: "Female",
     age: 62,
-    amount: "$4391.39",
+    amount: "4391.39",
   },
   {
     id: 958,
@@ -8619,7 +8619,7 @@ const data = [
     email: "eharborql@goo.gl",
     gender: "Male",
     age: 76,
-    amount: "$3128.35",
+    amount: "3128.35",
   },
   {
     id: 959,
@@ -8628,7 +8628,7 @@ const data = [
     email: "gsydneyqm@bravesites.com",
     gender: "Male",
     age: 32,
-    amount: "$4868.11",
+    amount: "4868.11",
   },
   {
     id: 960,
@@ -8637,7 +8637,7 @@ const data = [
     email: "hgentreauqn@salon.com",
     gender: "Male",
     age: 41,
-    amount: "$475.87",
+    amount: "475.87",
   },
   {
     id: 961,
@@ -8646,7 +8646,7 @@ const data = [
     email: "eohearnqo@aol.com",
     gender: "Agender",
     age: 68,
-    amount: "$9531.94",
+    amount: "9531.94",
   },
   {
     id: 962,
@@ -8655,7 +8655,7 @@ const data = [
     email: "dfitzsimonqp@w3.org",
     gender: "Male",
     age: 53,
-    amount: "$3469.45",
+    amount: "3469.45",
   },
   {
     id: 963,
@@ -8664,7 +8664,7 @@ const data = [
     email: "nspellerqq@eventbrite.com",
     gender: "Male",
     age: 24,
-    amount: "$528.17",
+    amount: "528.17",
   },
   {
     id: 964,
@@ -8673,7 +8673,7 @@ const data = [
     email: "cheindleqr@sciencedaily.com",
     gender: "Female",
     age: 35,
-    amount: "$9422.47",
+    amount: "9422.47",
   },
   {
     id: 965,
@@ -8682,7 +8682,7 @@ const data = [
     email: "wmoreingqs@twitter.com",
     gender: "Male",
     age: 59,
-    amount: "$4724.47",
+    amount: "4724.47",
   },
   {
     id: 966,
@@ -8691,7 +8691,7 @@ const data = [
     email: "cdranfieldqt@yellowbook.com",
     gender: "Male",
     age: 40,
-    amount: "$16.19",
+    amount: "16.19",
   },
   {
     id: 967,
@@ -8700,7 +8700,7 @@ const data = [
     email: "wfairecloughqu@stanford.edu",
     gender: "Male",
     age: 57,
-    amount: "$1370.75",
+    amount: "1370.75",
   },
   {
     id: 968,
@@ -8709,7 +8709,7 @@ const data = [
     email: "bwhalqv@opera.com",
     gender: "Male",
     age: 17,
-    amount: "$7617.23",
+    amount: "7617.23",
   },
   {
     id: 969,
@@ -8718,7 +8718,7 @@ const data = [
     email: "pmulgrewqw@51.la",
     gender: "Male",
     age: 35,
-    amount: "$8780.02",
+    amount: "8780.02",
   },
   {
     id: 970,
@@ -8727,7 +8727,7 @@ const data = [
     email: "asuppleqx@buzzfeed.com",
     gender: "Male",
     age: 76,
-    amount: "$3196.64",
+    amount: "3196.64",
   },
   {
     id: 971,
@@ -8736,7 +8736,7 @@ const data = [
     email: "lgebuhrqy@purevolume.com",
     gender: "Female",
     age: 37,
-    amount: "$4251.25",
+    amount: "4251.25",
   },
   {
     id: 972,
@@ -8745,7 +8745,7 @@ const data = [
     email: "lwonforqz@earthlink.net",
     gender: "Female",
     age: 30,
-    amount: "$4083.89",
+    amount: "4083.89",
   },
   {
     id: 973,
@@ -8754,7 +8754,7 @@ const data = [
     email: "bcocklier0@flickr.com",
     gender: "Female",
     age: 80,
-    amount: "$7103.02",
+    amount: "7103.02",
   },
   {
     id: 974,
@@ -8763,7 +8763,7 @@ const data = [
     email: "rramalhor1@mac.com",
     gender: "Male",
     age: 57,
-    amount: "$464.49",
+    amount: "464.49",
   },
   {
     id: 975,
@@ -8772,7 +8772,7 @@ const data = [
     email: "eamiabler2@reddit.com",
     gender: "Male",
     age: 67,
-    amount: "$357.29",
+    amount: "357.29",
   },
   {
     id: 976,
@@ -8781,7 +8781,7 @@ const data = [
     email: "bfreathyr3@loc.gov",
     gender: "Agender",
     age: 44,
-    amount: "$6256.03",
+    amount: "6256.03",
   },
   {
     id: 977,
@@ -8790,7 +8790,7 @@ const data = [
     email: "ddelcastelr4@guardian.co.uk",
     gender: "Female",
     age: 41,
-    amount: "$9535.13",
+    amount: "9535.13",
   },
   {
     id: 978,
@@ -8799,7 +8799,7 @@ const data = [
     email: "jwallingtonr5@illinois.edu",
     gender: "Female",
     age: 33,
-    amount: "$8134.64",
+    amount: "8134.64",
   },
   {
     id: 979,
@@ -8808,7 +8808,7 @@ const data = [
     email: "kjenicekr6@nyu.edu",
     gender: "Genderqueer",
     age: 74,
-    amount: "$7471.38",
+    amount: "7471.38",
   },
   {
     id: 980,
@@ -8817,7 +8817,7 @@ const data = [
     email: "rmeaker7@pagesperso-orange.fr",
     gender: "Male",
     age: 55,
-    amount: "$1879.82",
+    amount: "1879.82",
   },
   {
     id: 981,
@@ -8826,7 +8826,7 @@ const data = [
     email: "tbarthorper8@usatoday.com",
     gender: "Female",
     age: 29,
-    amount: "$7941.16",
+    amount: "7941.16",
   },
   {
     id: 982,
@@ -8835,7 +8835,7 @@ const data = [
     email: "cblackeslandr9@prweb.com",
     gender: "Female",
     age: 17,
-    amount: "$335.88",
+    amount: "335.88",
   },
   {
     id: 983,
@@ -8844,7 +8844,7 @@ const data = [
     email: "sdreelanra@geocities.com",
     gender: "Male",
     age: 19,
-    amount: "$5729.06",
+    amount: "5729.06",
   },
   {
     id: 984,
@@ -8853,7 +8853,7 @@ const data = [
     email: "mdesporterb@imgur.com",
     gender: "Female",
     age: 57,
-    amount: "$7747.16",
+    amount: "7747.16",
   },
   {
     id: 985,
@@ -8862,7 +8862,7 @@ const data = [
     email: "laimsonrc@qq.com",
     gender: "Male",
     age: 43,
-    amount: "$2877.50",
+    amount: "2877.50",
   },
   {
     id: 986,
@@ -8871,7 +8871,7 @@ const data = [
     email: "trentoulrd@nsw.gov.au",
     gender: "Male",
     age: 71,
-    amount: "$3690.05",
+    amount: "3690.05",
   },
   {
     id: 987,
@@ -8880,7 +8880,7 @@ const data = [
     email: "niacobaccire@php.net",
     gender: "Female",
     age: 64,
-    amount: "$1760.48",
+    amount: "1760.48",
   },
   {
     id: 988,
@@ -8889,7 +8889,7 @@ const data = [
     email: "cdelacourrf@seattletimes.com",
     gender: "Female",
     age: 39,
-    amount: "$9384.07",
+    amount: "9384.07",
   },
   {
     id: 989,
@@ -8898,7 +8898,7 @@ const data = [
     email: "etottonrg@vk.com",
     gender: "Female",
     age: 48,
-    amount: "$714.03",
+    amount: "714.03",
   },
   {
     id: 990,
@@ -8907,7 +8907,7 @@ const data = [
     email: "blamperdrh@cam.ac.uk",
     gender: "Male",
     age: 54,
-    amount: "$8229.52",
+    amount: "8229.52",
   },
   {
     id: 991,
@@ -8916,7 +8916,7 @@ const data = [
     email: "ssodeauri@yale.edu",
     gender: "Female",
     age: 53,
-    amount: "$7339.02",
+    amount: "7339.02",
   },
   {
     id: 992,
@@ -8925,7 +8925,7 @@ const data = [
     email: "callmondrj@tinypic.com",
     gender: "Genderqueer",
     age: 43,
-    amount: "$2495.05",
+    amount: "2495.05",
   },
   {
     id: 993,
@@ -8934,7 +8934,7 @@ const data = [
     email: "mduchartrk@hubpages.com",
     gender: "Female",
     age: 26,
-    amount: "$858.61",
+    amount: "858.61",
   },
   {
     id: 994,
@@ -8943,7 +8943,7 @@ const data = [
     email: "fwhyleyrl@bbc.co.uk",
     gender: "Female",
     age: 43,
-    amount: "$4757.14",
+    amount: "4757.14",
   },
   {
     id: 995,
@@ -8952,7 +8952,7 @@ const data = [
     email: "rperagorm@scribd.com",
     gender: "Male",
     age: 65,
-    amount: "$4325.66",
+    amount: "4325.66",
   },
   {
     id: 996,
@@ -8961,7 +8961,7 @@ const data = [
     email: "fkovnotrn@aol.com",
     gender: "Male",
     age: 65,
-    amount: "$3335.93",
+    amount: "3335.93",
   },
   {
     id: 997,
@@ -8970,7 +8970,7 @@ const data = [
     email: "hnesterovro@imdb.com",
     gender: "Male",
     age: 40,
-    amount: "$8358.39",
+    amount: "8358.39",
   },
   {
     id: 998,
@@ -8979,7 +8979,7 @@ const data = [
     email: "rziemrp@bloglines.com",
     gender: "Female",
     age: 27,
-    amount: "$9411.39",
+    amount: "9411.39",
   },
   {
     id: 999,
@@ -8988,7 +8988,7 @@ const data = [
     email: "thubertrq@cocolog-nifty.com",
     gender: "Male",
     age: 80,
-    amount: "$3644.44",
+    amount: "3644.44",
   },
   {
     id: 1000,
@@ -8997,7 +8997,7 @@ const data = [
     email: "oelderedrr@github.io",
     gender: "Male",
     age: 66,
-    amount: "$8605.34",
+    amount: "8605.34",
   },
 ];
 
