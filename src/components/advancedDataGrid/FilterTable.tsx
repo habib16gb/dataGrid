@@ -177,7 +177,9 @@ const FilterTable = ({
 }: Props) => {
   const [selectedField, setSelectedField] = useState("");
   const [selectedFilter, setSelectedFilter] = useState("");
-  const [optionsRest, setOptionsRest] = useState(columns.map(({field}) => field));
+  const [optionsRest, setOptionsRest] = useState(
+    columns.map(({ field }) => field)
+  );
   const [type, setType] = useState("");
   const filterValueRef = useRef(null);
 
@@ -186,8 +188,10 @@ const FilterTable = ({
     setType(ele?.type || "text");
 
     setFieldsSelected({ ...fieldsSelected, [keyFilter]: selectedField });
-    setOptionsRest(optionsRest.filter((ele) => !Object.values(fieldsSelected).includes(ele)))
-  }, [ selectedField,fieldsSelected]);
+    setOptionsRest(
+      optionsRest.filter((ele) => !Object.values(fieldsSelected).includes(ele))
+    );
+  }, []);
 
   const handleFilter = (e) => {
     const operation = filtersFunctions.find(
@@ -204,7 +208,7 @@ const FilterTable = ({
       <Select
         selectedOption={selectedField}
         setSelectedOption={setSelectedField}
-        options={optionsRest} 
+        options={optionsRest}
       />
       {type === "number" && (
         <Select
