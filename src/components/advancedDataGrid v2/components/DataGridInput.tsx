@@ -6,10 +6,10 @@ import { tyRow } from "../types";
 interface Props {
   col: inGridCod;
   row: tyRow;
-  index: number;
+  id: number;
 }
 
-const DataGridInput = ({ col, row, index }: Props) => {
+const DataGridInput = ({ col, row, id }: Props) => {
   const context = useContext(DataContext);
   const { updateDataTable } = context;
   return (
@@ -19,7 +19,7 @@ const DataGridInput = ({ col, row, index }: Props) => {
       readOnly={!col.editable}
       value={row[col.field as keyof typeof row]}
       style={{ width: col.width }}
-      onChange={(e) => updateDataTable(e, index, col.field)}
+      onChange={(e) => updateDataTable(e, id, col.field)}
     />
   );
 };

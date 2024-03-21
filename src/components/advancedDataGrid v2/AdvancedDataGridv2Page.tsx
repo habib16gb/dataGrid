@@ -1,9 +1,9 @@
 import DataGridv2 from "./DataGridv2";
 import data from "../../data/data";
 import { inGridCod } from "./interfaces";
-import React, { createContext, useState } from "react";
+import React, { createContext, ReactNode, useEffect, useState } from "react";
 import { tyRow } from "./types";
-import { enPositionArrow } from "./enums";
+
 import DataGridFilter from "./components/DataGridFilter";
 
 const columns: inGridCod[] = [
@@ -67,15 +67,15 @@ const columns: inGridCod[] = [
 
 type TypeExContextType = {
   rows: tyRow[];
-  setRows: React.Dispatch<React.SetStateAction<tyRow[]>>;
+  dataFiltered: tyRow[] | undefined;
+  setRows: React.Dispatch<React.SetStateAction<tyRow[] | undefined>>;
   columns: inGridCod[];
   updateDataTable: (
     e: React.ChangeEvent<HTMLInputElement>,
     index: number,
     field: string
   ) => void;
-  handleArrow: () => void;
-  positionArrow: enPositionArrow;
+  setDataFiltered: React.Dispatch<React.SetStateAction<tyRow[] | undefined>>;
 };
 
 const typeExContextState: TypeExContextType = {
@@ -85,43 +85,47 @@ const typeExContextState: TypeExContextType = {
   updateDataTable: function (): void {
     throw new Error("Function not implemented.");
   },
-  handleArrow: function (): void {
+  setDataFiltered: function (): void {
     throw new Error("Function not implemented.");
   },
-  positionArrow: enPositionArrow.NONE,
+  dataFiltered: [],
 };
 
 export const DataContext = createContext<TypeExContextType>(typeExContextState);
 
 const AdvancedDataGridv2Page = () => {
-  const [rows, setRows] = useState<tyRow[]>(data);
-  const [positionArrow, setPositionArrow] = useState(enPositionArrow.NONE);
+  const [rows, setRows] = useState<tyRow[] | undefined>(data);
+  const [filterComponents, setFilterComponents] = useState<ReactNode[]>([]);
+  const [dataFiltered, setDataFiltered] = useState([]);
+
+  useEffect(() => {
+    setDataFiltered(rows);
+  }, [rows]);
 
   const updateDataTable = (
     e: React.ChangeEvent<HTMLInputElement>,
-    index: number,
+    id: number,
     field: string
   ) => {
-    setRows((prev) =>
-      prev.map((ele) =>
-        ele === prev[index] ? { ...ele, [field]: e.target.value } : ele
+    setRows(
+      rows?.map((ele) =>
+        ele.id === id ? { ...ele, [field]: e.target.value } : ele
       )
     );
   };
 
-  const handleArrow = () => {
-    switch (positionArrow) {
-      case enPositionArrow.NONE:
-        setPositionArrow(enPositionArrow.UP);
-        break;
-      case enPositionArrow.UP:
-        setPositionArrow(enPositionArrow.DOWN);
-        break;
-      case enPositionArrow.DOWN:
-        setPositionArrow(enPositionArrow.NONE);
-        break;
-    }
+  const handleCloseFilter = (index: number) => {
+    setFilterComponents((prev) => prev.filter((ele) => ele !== prev[index]));
   };
+
+  const handleAddFilter = () => {
+    setFilterComponents([
+      ...filterComponents,
+      <DataGridFilter data={data} key={filterComponents.length} />,
+    ]);
+  };
+
+  console.log({ rows, dataFiltered });
 
   return (
     <DataContext.Provider
@@ -130,11 +134,32 @@ const AdvancedDataGridv2Page = () => {
         setRows,
         columns,
         updateDataTable,
-        handleArrow,
-        positionArrow,
+        setDataFiltered,
+        dataFiltered,
       }}
     >
-      <DataGridFilter />
+      <div className='flex flex-col items-start gap-2 mt-2 ml-4'>
+        <button
+          onClick={handleAddFilter}
+          className='rounded-full bg-green-500 text-white px-3 py-2 text-sm mt-4'
+        >
+          + Filter
+        </button>
+        {filterComponents.map((cmp, index) => (
+          <div className='flex items-center gap-4' key={index}>
+            <div className='p-4 shadow-md mb-2 flex items-center gap-4'>
+              <button
+                onClick={() => handleCloseFilter(index)}
+                className='w-4 h-4 rounded-full text-white bg-red-500 flex items-center justify-center p-3'
+              >
+                x
+              </button>
+              {cmp}
+            </div>
+          </div>
+        ))}
+      </div>
+
       <DataGridv2 />
     </DataContext.Provider>
   );

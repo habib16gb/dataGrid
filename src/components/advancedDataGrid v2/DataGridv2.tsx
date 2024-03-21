@@ -1,11 +1,7 @@
 import DataGridTable from "./components/DataGridTable";
 
 const DataGridv2 = () => {
-  return (
-    <div>
-      <DataGridTable />
-    </div>
-  );
+  return <DataGridTable />;
 };
 
 export default DataGridv2;
